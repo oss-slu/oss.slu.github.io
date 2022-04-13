@@ -36755,7 +36755,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-menu-1 {
     margin-top: -44px;
-    margin-bottom: 40px;
+    margin-bottom: 12px;
   }
 }
 @media (max-width: 575px) {
@@ -36765,8 +36765,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     font-size: 1.25rem;
-    margin-right: 24px;
-    margin-left: -24px;
+    margin-right: 75px;
   }
 
   .u-header .u-menu-1 {
