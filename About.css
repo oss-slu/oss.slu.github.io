@@ -264,7 +264,6 @@
   grid-template-columns: 33.3333% 33.3333% 33.3333%;
   min-height: 394px;
   grid-gap: 0px 0px;
-  grid-auto-columns: 33.3333%;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -272,7 +271,7 @@
 }
 
 .u-section-3 .u-image-1 {
-  height: 264px;
+  height: 328px;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -286,7 +285,7 @@
 }
 
 .u-section-3 .u-image-2 {
-  height: 264px;
+  height: 328px;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -300,7 +299,7 @@
 }
 
 .u-section-3 .u-image-3 {
-  height: 264px;
+  height: 328px;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -315,21 +314,19 @@
   }
 
   .u-section-3 .u-repeater-1 {
-    grid-template-columns: repeat(3, 33.333333333333336%);
-    grid-auto-columns: 33.333333333333336%;
     min-height: 325px;
   }
 
   .u-section-3 .u-image-1 {
-    height: 212px;
+    height: 264px;
   }
 
   .u-section-3 .u-image-2 {
-    height: 212px;
+    height: 264px;
   }
 
   .u-section-3 .u-image-3 {
-    height: 212px;
+    height: 264px;
   }
 }
 
@@ -339,8 +336,7 @@
   }
 
   .u-section-3 .u-repeater-1 {
-    grid-template-columns: repeat(2, 50%);
-    grid-auto-columns: 50%;
+    grid-template-columns: 50% 50%;
     min-height: 747px;
   }
 
@@ -349,7 +345,7 @@
   }
 
   .u-section-3 .u-image-1 {
-    height: 248px;
+    height: 309px;
   }
 
   .u-section-3 .u-container-layout-2 {
@@ -357,7 +353,7 @@
   }
 
   .u-section-3 .u-image-2 {
-    height: 248px;
+    height: 309px;
   }
 
   .u-section-3 .u-container-layout-3 {
@@ -365,7 +361,7 @@
   }
 
   .u-section-3 .u-image-3 {
-    height: 248px;
+    height: 309px;
   }
 }
 
@@ -375,8 +371,7 @@
   }
 
   .u-section-3 .u-repeater-1 {
-    grid-template-columns: repeat(1, 100%);
-    grid-auto-columns: 100%;
+    grid-template-columns: 100%;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -385,7 +380,7 @@
   }
 
   .u-section-3 .u-image-1 {
-    height: 403px;
+    height: 502px;
   }
 
   .u-section-3 .u-container-layout-2 {
@@ -394,7 +389,7 @@
   }
 
   .u-section-3 .u-image-2 {
-    height: 403px;
+    height: 502px;
   }
 
   .u-section-3 .u-container-layout-3 {
@@ -403,7 +398,7 @@
   }
 
   .u-section-3 .u-image-3 {
-    height: 403px;
+    height: 502px;
   }
 }
 
@@ -413,14 +408,14 @@
   }
 
   .u-section-3 .u-image-1 {
-    height: 248px;
+    height: 309px;
   }
 
   .u-section-3 .u-image-2 {
-    height: 248px;
+    height: 309px;
   }
 
   .u-section-3 .u-image-3 {
-    height: 248px;
+    height: 309px;
   }
 }
