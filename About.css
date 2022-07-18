@@ -149,7 +149,7 @@
 
 .u-section-2 .u-text-3 {
   font-size: 1.125rem;
-  margin: 17px 321px 0 0;
+  margin: 17px 17px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -171,7 +171,8 @@
   }
 
   .u-section-2 .u-text-3 {
-    margin-right: 147px;
+    width: auto;
+    margin-right: 0;
   }
 }
 
@@ -194,11 +195,6 @@
 
   .u-section-2 .u-text-2 {
     margin-right: 195px;
-  }
-
-  .u-section-2 .u-text-3 {
-    width: auto;
-    margin-right: 0;
   }
 }
 
