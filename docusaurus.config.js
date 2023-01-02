@@ -38,7 +38,8 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
+        blog: { 
+          routeBasePath: "/news/",
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -68,7 +69,7 @@ const config = {
             position: 'left',
             label: 'About',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/news', label: 'News', position: 'left'},
           {
             href: 'https://github.com/oss-slu',
             label: 'GitHub',
@@ -109,8 +110,8 @@ const config = {
             title: 'Stay up to date',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'News',
+                to: '/news',
               },
               {
                 label: 'GitHub',
