@@ -57,10 +57,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Open Source with SLU',
+        title: "Open Source with SLU",
         logo: {
           alt: 'Saint Louis University logo',
-          src: 'img/slu-logomark-blue-rgb.png',
+          src: 'img/oss-logo-2.png',
         },
         items: [
           {
@@ -70,6 +70,7 @@ const config = {
             label: 'About',
           },
           {to: '/news', label: 'News', position: 'left'},
+          {to: '/portfolio', label: 'Portfolio', position: 'left'},
           {
             href: 'https://github.com/oss-slu',
             label: 'GitHub',
