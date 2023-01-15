@@ -12,7 +12,6 @@ const config = {
   baseUrl: '/os-slu-website/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
 
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'thomasmcg77', // Usually your GitHub org/user name.
@@ -56,6 +55,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
       navbar: {
         title: "Open Source with SLU",
         logo: {
