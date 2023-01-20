@@ -1,10 +1,26 @@
 .cardContainer {
     display: flex;
     flex-direction: column;
-    background-color: #eeeeee;
-    width: 30vw;
     align-items: center;
     justify-content: center;
-    margin: 20px;
-    padding: 10px;
+}
+
+.cardContainer > h3 {
+    max-width: 43vw;
+}
+
+
+.cardContainer > a {
+    margin-top: 10px;
+}
+
+.flyerContainer {
+    max-width: fit-content;
+    width: fit-content;
+    border: 2px solid #eeeeee;
+}
+
+.flyerContainer:hover {
+    border: 2px solid #8d8d8d;
+    cursor: pointer;
 }
