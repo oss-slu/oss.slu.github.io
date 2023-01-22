@@ -1,41 +1,25 @@
-# Website
+# oss-slu.github.io
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+## Making Contributions
 
-```
-$ yarn
-```
+### Requirements
 
-### Local Development
+Docusaurus requires [Node.js](https://nodejs.org) version 16.14 or above.
 
-```
-$ yarn start
-```
+This website uses [react-pdf](https://www.npmjs.com/package/react-pdf).
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+### How to make updates
 
-### Build
+1. Fork this repository.
+2. Run ```npm start``` to start a local development server.
+3. Check out the open issues or make updates as seen fit. 
 
-```
-$ yarn build
-```
+### Making a pull-request
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Follow [this tutorial](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) in the GitHub Docs to create a pull request. If fixing an open issue, please include the issue number in the title of the pull request (for example, "Fixed issue #7 -- Brief description").
 
-### Deployment
+## Deployment
 
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+This project deploys using GitHub actions. The .github/workflows folder contains .yml files that will build and deploy the changes when a pull request is approved and merged with the main branch.
