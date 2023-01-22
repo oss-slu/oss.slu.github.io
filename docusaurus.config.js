@@ -8,14 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Open Source with SLU',
   tagline: 'Experience - Education - Research',
-  url: 'https://thomasmcg77.github.io/',
+  url: 'https://oss-slu.github.io/',
   baseUrl: '/os-slu-website/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
 
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'thomasmcg77', // Usually your GitHub org/user name.
-  projectName: 'os-slu-website', // Usually your repo name.
+  organizationName: 'oss-slu', // Usually your GitHub org/user name.
+  projectName: 'oss-slu.github.io', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
