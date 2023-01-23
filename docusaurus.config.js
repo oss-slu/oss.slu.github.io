@@ -62,9 +62,8 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: "Open Source with SLU",
         logo: {
-          alt: 'Saint Louis University logo',
+          alt: 'Open Source with SLU',
           src: 'img/oss-logo-2.png',
         },
         items: [
@@ -105,10 +104,6 @@ const config = {
               {
                 label: 'Github',
                 href: 'https://github.com/oss-slu',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/SLU_Official',
               },
             ],
           },

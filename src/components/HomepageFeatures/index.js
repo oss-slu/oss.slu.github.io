@@ -6,7 +6,7 @@ import Link from "@docusaurus/Link";
 const FeatureList = [
   {
     title: "Our Mission",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    Svg: require("@site/static/img/undraw_counting_stars_re_smvv.svg").default,
     description: (
       <>
         Our mission is to give computer science students realistic software
@@ -16,8 +16,8 @@ const FeatureList = [
     ),
   },
   {
-    title: "Our Projects",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    title: "Our Portfolio",
+    Svg: require("@site/static/img/undraw_teamwork_hpdk.svg").default,
     description: (
       <>
         We are currently accepting project requests. You can submit your request
@@ -25,14 +25,14 @@ const FeatureList = [
         <a href="https://forms.gle/QwJYztXK5VrXG6K38" target="_blank">
           Google Form
         </a>
-        . You can check out our current projects{" "}
+        . You can check out our portfolio{" "}
         <Link to="/portfolio">here</Link>.
       </>
     ),
   },
   {
     title: "Project Requests",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    Svg: require("@site/static/img/undraw_data_processing_yrrv.svg").default,
     description: (
       <>
         We will prioritize requests that:
