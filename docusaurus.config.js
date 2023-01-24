@@ -9,9 +9,10 @@ const config = {
   title: 'Open Source with SLU',
   tagline: 'Experience - Education - Research',
   url: 'https://oss-slu.github.io/',
-  baseUrl: '/os-slu-website/',
+  baseUrl: '/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
+  trailingSlash: false,
 
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'oss-slu', // Usually your GitHub org/user name.
