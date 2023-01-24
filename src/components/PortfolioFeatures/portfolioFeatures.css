@@ -47,13 +47,14 @@
 
 .closeButton {
     color: white;
-    padding: 5px;
+    padding: 7px;
     position: absolute;
-    background: black;
-    bottom: 3%;
+    background: #313132;
+    bottom: 2%;
     left: 50%;
     transform: translate(-50%, -5%);
-    border: 1px solid black;
+    border: 1px solid #313132;
+    border-radius: 5px;
 }
 
 .closeButton:hover {
