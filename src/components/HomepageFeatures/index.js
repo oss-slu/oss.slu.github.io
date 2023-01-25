@@ -26,7 +26,7 @@ const FeatureList = [
           Google Form
         </a>
         . You can check out our portfolio{" "}
-        <Link to="/portfolio">here</Link>.
+        <Link to="/docs/portfolio">here</Link>.
       </>
     ),
   },
