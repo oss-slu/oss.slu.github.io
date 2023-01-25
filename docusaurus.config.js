@@ -74,8 +74,13 @@ const config = {
             position: 'left',
             label: 'About',
           },
+          {
+            type: 'doc',
+            docId: 'portfolio',
+            position: 'left',
+            label: 'Portfolio',
+          },
           {to: '/news', label: 'News', position: 'left'},
-          {to: '/portfolio', label: 'Portfolio', position: 'left'},
           {
             href: 'https://github.com/oss-slu',
             label: 'GitHub',

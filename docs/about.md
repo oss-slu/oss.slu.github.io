@@ -1,6 +1,7 @@
 ---
 id: about
 title: About Us
+custom_edit_url: null
 ---
 
 Open Source with SLU was established to help SLU researchers with their custom software needs and to give students practical software development experience. Our center is funded by a grant from Alfred P. Sloan foundation and employs Computer Science graduate students to prototype, design, and deliver open-source software to help SLU researchers and their collaborators worldwide. Undergraduate students enrolled in project-based courses join the center and work under the mentorship of our graduate students to contribute to ongoing projects.
