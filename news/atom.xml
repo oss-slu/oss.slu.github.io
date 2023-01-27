@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://oss-slu.github.io/news/</id>
+    <title>Open Source with SLU Blog</title>
+    <updated>2022-07-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://oss-slu.github.io/news/"/>
+    <subtitle>Open Source with SLU Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Starting Up]]></title>
+        <id>starting-up</id>
+        <link href="https://oss-slu.github.io/news/starting-up"/>
+        <updated>2022-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Saint Louis University Computer Science Department starts and open source program office with a generous $704,482 grant from the Alfred P. Sloan Foundation.]]></summary>
+        <content type="html"><![CDATA[<p>Saint Louis University Computer Science Department starts and open source program office with a generous $704,482 grant from the Alfred P. Sloan Foundation.</p><p>More details on our start can be found in <a href="https://www.slu.edu/news/2022/april/open-source-software-center.php" target="_blank" rel="noopener noreferrer">SLU Newslink</a>.</p>]]></content>
+        <author>
+            <name>Daniel Shown</name>
+            <uri>https://github.com/kungfuchicken.com</uri>
+        </author>
+        <category label="announcement" term="announcement"/>
+        <category label="news" term="news"/>
+    </entry>
+</feed>

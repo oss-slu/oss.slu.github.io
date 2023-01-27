@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Open Source with SLU Blog</title>
+        <link>https://oss-slu.github.io/news/</link>
+        <description>Open Source with SLU Blog</description>
+        <lastBuildDate>Fri, 01 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Starting Up]]></title>
+            <link>https://oss-slu.github.io/news/starting-up</link>
+            <guid>starting-up</guid>
+            <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Saint Louis University Computer Science Department starts and open source program office with a generous $704,482 grant from the Alfred P. Sloan Foundation.]]></description>
+            <content:encoded><![CDATA[<p>Saint Louis University Computer Science Department starts and open source program office with a generous $704,482 grant from the Alfred P. Sloan Foundation.</p><p>More details on our start can be found in <a href="https://www.slu.edu/news/2022/april/open-source-software-center.php" target="_blank" rel="noopener noreferrer">SLU Newslink</a>.</p>]]></content:encoded>
+            <category>announcement</category>
+            <category>news</category>
+        </item>
+    </channel>
+</rss>
