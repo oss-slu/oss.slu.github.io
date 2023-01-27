@@ -1,17 +1,11 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+kate:
+  name: Kate Holdener, Ph.D.
+  title: Assistant Professor of Computer Science & Faculty Lead for Open Source with SLU
+  url: https://github.com/kate-holdener
+  image_url: https://oss-slu.github.io/img/Holdener_2_small.jpg
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+daniel:
+  name: Daniel Shown
+  title: Program Director for Open Source with SLU
+  url: https://github.com/kungfuchicken.com
+  image_url: https://oss-slu.github.io/img/daniel.jpg
