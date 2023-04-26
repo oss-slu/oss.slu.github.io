@@ -69,10 +69,37 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'about',
+            type: 'dropdown',
             position: 'left',
-            label: 'About',
+            label: 'About Us',
+            items: [
+              {
+                label: 'About',
+                type: 'doc',
+                docId: 'about/about',
+              },
+              {
+                label: 'Students',
+                type: 'doc',
+                docId: 'about/students',
+              },
+              {
+                label: 'Faculty',
+                type: 'doc',
+                docId: 'about/faculty',
+              },
+              {
+                label: 'Community',
+                type: 'doc',
+                docId: 'about/community',
+              },
+              {
+                label: 'Partners',
+                type: 'doc',
+                docId: 'about/partners',
+              }
+            ]
+            
           },
           {
             type: 'doc',
@@ -127,6 +154,12 @@ const config = {
             ],
           },
         ],
+      },
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: true,
+        },
       },
       prism: {
         theme: lightCodeTheme,
