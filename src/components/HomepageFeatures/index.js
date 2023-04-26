@@ -9,9 +9,9 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_counting_stars_re_smvv.svg").default,
     description: (
       <>
-        Our mission is to give computer science students realistic software
-        development experience, while supporting open-source projects and
-        helping researchers build the tools they need to achieve their goals.
+        Our mission is to give students <strong>realistic software
+        development</strong> experience while <strong>supporting open-source</strong> projects and 
+        <strong> helping researchers</strong> build the tools they need to achieve their goals.
       </>
     ),
   },
@@ -20,13 +20,11 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_teamwork_hpdk.svg").default,
     description: (
       <>
-        We are currently accepting project requests. You can submit your request
-        via this{" "}
-        <a href="https://forms.gle/QwJYztXK5VrXG6K38" target="_blank">
-          Google Form
-        </a>
-        . You can check out our portfolio{" "}
-        <Link to="/docs/portfolio">here</Link>.
+        <p>We build tools that support research.</p> 
+        <p>We have built desktop, web, and mobile apps, IoT libraries, 
+        web services, networking tools, other utilities. Check out the 
+        {" "}<Link to="/docs/portfolio">portfolio of projects </Link> 
+        we developed or sustain.</p>
       </>
     ),
   },
@@ -35,11 +33,13 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_data_processing_yrrv.svg").default,
     description: (
       <>
-        We will prioritize requests that:
+      We are open to new project requests.  Tell us about your ideas using our{" "}
+      <a href="https://forms.gle/QwJYztXK5VrXG6K38" target="_blank">request form </a>.
+        We are especially interested in projects
         <ul>
-          <li>Come from Saint Louis University</li>
-          <li>Focus on tools that help with specific research goals</li>
-          <li>Will help researchers obtain specific preliminary results</li>
+          <li>supporting SLU researchers,</li>
+          <li>focused on research outcomes,</li>
+          <li>meeting unmet needs.</li>
         </ul>
       </>
     ),
