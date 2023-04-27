@@ -1,4 +1,4 @@
-# oss-slu.github.io
+# [oss-slu.github.io](https://oss-slu.github.io/)
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
