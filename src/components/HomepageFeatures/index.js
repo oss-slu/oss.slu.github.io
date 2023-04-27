@@ -9,9 +9,10 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_counting_stars_re_smvv.svg").default,
     description: (
       <>
-        Our mission is to give students <strong>realistic software
-        development</strong> experience while <strong>supporting open-source</strong> projects and 
-        <strong> helping researchers</strong> build the tools they need to achieve their goals.
+        <p>We support <strong>open scholarship</strong> and sustainable innovation 
+        by delivering <strong>value for researchers</strong> with software and tools
+        and providing students with <strong>realistic software development </strong> 
+        experience.</p>
       </>
     ),
   },
@@ -22,9 +23,9 @@ const FeatureList = [
       <>
         <p>We build tools that support research.</p> 
         <p>We have built desktop, web, and mobile apps, IoT libraries, 
-        web services, networking tools, other utilities. Check out the 
-        {" "}<Link to="/docs/portfolio">portfolio of projects </Link> 
-        we developed or sustain.</p>
+        web services, networking tools, AI/ML tools, and other utilities. 
+        Check out the {" "}<Link to="/docs/portfolio">portfolio of projects </Link> 
+        that we have developed and maintained, and continue to sustain.</p>
       </>
     ),
   },
@@ -33,14 +34,15 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_data_processing_yrrv.svg").default,
     description: (
       <>
-      We are open to new project requests.  Tell us about your ideas using our{" "}
-      <a href="https://forms.gle/QwJYztXK5VrXG6K38" target="_blank">request form </a>.
-        We are especially interested in projects
-        <ul>
-          <li>supporting SLU researchers,</li>
-          <li>focused on research outcomes,</li>
-          <li>meeting unmet needs.</li>
-        </ul>
+        <p>We are open to new project requests.  Tell us about your ideas using our{" "}
+        <a href="https://forms.gle/QwJYztXK5VrXG6K38" target="_blank">request form </a>.
+          We are especially interested in projects
+          <ul>
+            <li>supporting SLU researchers,</li>
+            <li>focused on research outcomes,</li>
+            <li>meeting unmet needs.</li>
+          </ul>
+        </p>
       </>
     ),
   },
