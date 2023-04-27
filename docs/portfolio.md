@@ -127,6 +127,14 @@ Physical scantron machines are very slow and cost-ineffective. Our software elim
 
 View our GitHub page [here](https://github.com/rkarmuri/Scantron_Software) or check out our [flyer](@site/static/pdf/scantron.pdf).
 
+## Seeing Is Believing
+
+![Seeing-Is-Believing](@site/static/sib.png)
+
+Seeing Is Believing is a learning management tool that allows teachers to demonstrate the pronunciation of Spanish words. Students are able to practice their pronunciation through our website and see their progress as a collection of spectrograms.
+
+* Check out our [source code](https://github.com/oss-slu/Seeing-is-Believing)
+
 ## T-PEN
 
 ![Transcription](@site/static/img/tpen.png)
