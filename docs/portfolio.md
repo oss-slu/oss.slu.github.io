@@ -129,7 +129,7 @@ View our GitHub page [here](https://github.com/rkarmuri/Scantron_Software) or ch
 
 ## Seeing Is Believing
 
-![Seeing-Is-Believing](@site/static/sib.png)
+![Seeing-Is-Believing](@site/static/img/sib.png)
 
 Seeing Is Believing is a learning management tool that allows teachers to demonstrate the pronunciation of Spanish words. Students are able to practice their pronunciation through our website and see their progress as a collection of spectrograms.
 
