@@ -32,7 +32,10 @@ it was previously, so that it doesn't break
 again and can be expanded with more
 drones, commands, distance, and usage.
 
-View our GitHub page [here](https://github.com/oss-slu/Drones) or check out our [flyer](@site/static/pdf/drones.pdf).
+Check out our 
+
+* [source code](https://github.com/oss-slu/Drones) 
+* [flyer](@site/static/pdf/drones.pdf).
 
 ## Network Congestion-Control Emulator
 
@@ -42,7 +45,10 @@ The purpose of this project is to create a software capable of emulating differe
 while evaluating these different congestion control protocols. The software generates evaluation reports in
 terms of measurement metrics such as throughput, delays and jitters.
 
-View our GitHub page [here](https://github.com/oss-slu/Congestion-control-emulator) or check out our [flyer](@site/static/pdf/network-control.pdf).
+Check out our 
+
+* [source code](https://github.com/oss-slu/Congestion-control-emulator)
+* [flyer](@site/static/pdf/network-control.pdf).
 
 ## SALT
 
@@ -50,7 +56,10 @@ View our GitHub page [here](https://github.com/oss-slu/Congestion-control-emulat
 
 We look to be able to transcribe audio samples into a written format that is accepted by SALT (systematic analysis of language transcripts) software. SALT is an app that analyzes the speech of children and scores it according to their metrics.
 
-View our GitHub page [here](https://github.com/oss-slu/SpeechTranscription) or check out our [flyer](@site/static/pdf/saltify.pdf).
+Check out our 
+
+* [source code](https://github.com/oss-slu/SpeechTranscription)
+* [flyer](@site/static/pdf/saltify.pdf).
 
 ## Mouser
 
@@ -68,7 +77,10 @@ Mouser, animals can be measured in any way based on the
 user’s specifications, like weight or blood pressure, and
 this data can be managed easily with the application.
 
-View our GitHub page [here](https://github.com/oss-slu/Mouser) or check out our [flyer](@site/static/pdf/mouser.pdf).
+Check out our 
+
+* [source code](https://github.com/oss-slu/Mouser)
+* [flyer](@site/static/pdf/mouser.pdf).
 
 ## Pi4Micronaut
 
@@ -80,7 +92,10 @@ the process of creating IoT web applications
 which utilize hardware connectivity to
 Raspberry Pi's.
 
-View our GitHub page [here](https://github.com/oss-slu/Pi4Micronaut) or check out our [flyer](@site/static/pdf/Pi4MicronautFlyer.pdf).
+Check out our 
+
+* [source code](https://github.com/oss-slu/Pi4Micronaut)
+* [flyer](@site/static/pdf/Pi4MicronautFlyer.pdf).
 
 ## Machine Learning Code Generator
 
@@ -93,7 +108,10 @@ The goal of the project is to:
 - Help people from a broad range of disciplines to make new discoveries using their own data
 - Increase access to Machine Learning technologies
 
-View our GitHub page [here](https://github.com/kate-holdener/ml_code_generator) or check out our [flyer](@site/static/pdf/machine-learning.pdf).
+Check out our 
+
+* [source code](https://github.com/kate-holdener/ml_code_generator)
+* [flyer](@site/static/pdf/machine-learning.pdf).
 
 ## Santiago
 
@@ -117,7 +135,10 @@ or MATLAB. We would also like to make the
 existing functionality accessible within a singular
 user interface.
 
-View our GitHub page [here](https://github.com/oss-slu/Santiago) or check out our [flyer](@site/static/pdf/santiago.pdf).
+Check out our 
+
+* [source code](https://github.com/oss-slu/Santiago)
+* [flyer](@site/static/pdf/santiago.pdf).
 
 ## Scantron Software
 
@@ -125,7 +146,22 @@ View our GitHub page [here](https://github.com/oss-slu/Santiago) or check out ou
 
 Physical scantron machines are very slow and cost-ineffective. Our software eliminates the need for machines and makes it cost-efficient and fast.
 
-View our GitHub page [here](https://github.com/rkarmuri/Scantron_Software) or check out our [flyer](@site/static/pdf/scantron.pdf).
+Check out our 
+
+* [source code](https://github.com/rkarmuri/Scantron_Software)
+* [flyer](@site/static/pdf/scantron.pdf).
+
+## Seeing Is Believing
+
+![Seeing-Is-Believing](@site/static/img/sib.png)
+
+Seeing Is Believing is a learning management tool that allows teachers to demonstrate the pronunciation of Spanish words. Students are able to practice their pronunciation through our website and see their progress as a collection of spectrograms. The spectrograms allow students to visualize the difference between their pronunciation and the pronunciation of a native speaker even if it's difficulty for them to hear it.
+
+Check out our 
+
+* [source code](https://github.com/oss-slu/Seeing-is-Believing)
+* [flyer](@size/static/pdf/SIBFlyer.pdf)
+
 
 ## T-PEN
 
@@ -137,7 +173,10 @@ transcription data (new or uploaded) to
 the actual lines of the original
 manuscript in a simple, flexible interface.
 
-View our GitHub page [here](https://github.com/CenterForDigitalHumanities/TPEN28/tree/oss-dev) or check out our [flyer](@site/static/pdf/tpen.pdf).
+Check out our 
+
+* [source code](https://github.com/CenterForDigitalHumanities/TPEN28/tree/oss-dev)
+* [flyer](@site/static/pdf/tpen.pdf).
 
 ## MeltShiny
 
@@ -153,4 +192,7 @@ need for a newer program that both includes the
 functions of MeltWin, runs on modern systems,
 and introduces newer “automatic” features.
 
-View our GitHub page [here](https://github.com/oss-slu/MeltWin2.0) or check out our [flyer](@site/static/pdf/meltshiny.pdf).
+Check out our 
+
+* [source code](https://github.com/oss-slu/MeltWin2.0)
+* [flyer](@site/static/pdf/meltshiny.pdf).
