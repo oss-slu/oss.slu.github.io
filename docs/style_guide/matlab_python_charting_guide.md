@@ -39,6 +39,9 @@ I personally added them on lines 372-374 but the exact location should not cause
 
 After this change is made to SBF-SEM the needed data can be captured using the below excerpt of sample Python code
 
+def extract(lst, ind):
+    return list(list(zip(*lst))[ind])
+
 mle = MLEngine() # Starting MATLAB engine
 neu = mle.createNeuron(10912, 'i') # Must generate a neuron first
 mle.eng.addpath('C:/Users/murra/Documents/SLU/SLU_OSSC/MATLAB/SBFSEM-tools/+sbfsem/+render/') # Adding the specific directory to the path
