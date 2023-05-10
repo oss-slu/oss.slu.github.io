@@ -1,7 +1,7 @@
 ---
-id: x_guide
+id:database_web_app_guide
 title: Style Guide for 
-custom_edit_url: null
+custom_edit_url: https://github.com/oss-slu/dads/tree/main
 ---
 
 # Style Guide for database web applications (Similar to Dads project)
