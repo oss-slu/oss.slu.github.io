@@ -1,6 +1,6 @@
 ---
 id: community
-title: Community Engagement
+title: Community Partners
 custom_edit_url: null
 ---
 
