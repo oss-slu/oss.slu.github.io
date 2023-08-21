@@ -29,6 +29,18 @@ Graduate students are at the heart of our open-sour​ce program. They work with
 - Uday Prasad Aitha
 - Yash Kamal Bhatia
 
-## Additional Team Leads
+## SLU Research Team Leads
 
-Staff from Saint Louis University's Research Computing Group have been key partners, and have even taken on the responsibility of leading teams of undergraduate students. Special thanks to Patrick Cuba and Bryan Haberberger for support and leadership.
+Staff from Saint Louis University's Research Computing Group have been key partners, and have even taken on the responsibility of leading teams of undergraduate students.  Their work includes active open source projects being used in academia and research.  Some projects involve SLU and other domestic groups you might recognize such as the Taylor Geospatial Institute, Washington University in Saint Louis, ...  They are also involved in international groups such as the International Image Interoperability Framework (IIIF), Open Geospatial Consortium (OGC) ...
+
+### Patrick Cuba
+
+Patrick Cuba is the I.T. Architect for RCG at SLU.  
+
+### Bryan Haberberger
+
+Bryan Haberberger is the Full Stack Developer for RCG at SLU.  He works in the technology stacks behind various projects, and his focus shifts sprint by sprint.  Simply put, he is a professional developer on campus and a resource for faculty, staff, students and outside collaborators looking for software development expertise, especially when it comes to Web Applications.  He has a specialization for geospatial data on the web and is a IIIF Maps TSG co-chair as part of his commitment to open source technologies.  
+
+
+
+
