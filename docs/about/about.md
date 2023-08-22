@@ -22,12 +22,15 @@ Graduate students are at the heart of our open-sour​ce program. They work with
 
 ### Graduate Assistant Team Leads
 
+- Abhilash Kotha
 - Greih Murray
 - Halima Malik
 - Omar Al Akkad
+- Ruthvik Mannem
 - Sailikhita Pulijala
 - Uday Prasad Aitha
 - Yash Kamal Bhatia
+- Yashaswini shivalingaiah
 
 ## Additional Team Leads
 
