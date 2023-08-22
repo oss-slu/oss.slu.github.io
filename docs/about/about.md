@@ -31,11 +31,11 @@ Graduate students are at the heart of our open-sour​ce program. They work with
 
 ## SLU Research Team Leads
 
-Staff from Saint Louis University's Research Computing Group have been key partners, and have even taken on the responsibility of leading teams of undergraduate students.  Their work includes active open source projects being used in academia and research.  Some projects involve SLU and other domestic groups you might recognize such as the Taylor Geospatial Institute, Washington University in Saint Louis, ...  They are also involved in international groups such as the International Image Interoperability Framework (IIIF), Open Geospatial Consortium (OGC) ...
+Staff from Saint Louis University's Research Computing Group have been key partners, and have even taken on the responsibility of leading teams of undergraduate students.  Their work includes active open source projects being used in academia and research.  Projects involve SLU researchers across campus, regional organizations such as the Taylor Geospatial Institute, Washington University in Saint Louis, Newberry Library, the Jesuit Archives, Missouri Botanical Garden, and the St. Louis Federal Reserve. They are also involved in international open standards groups such as the International Image Interoperability Framework (IIIF) and Open Geospatial Consortium (OGC). This team supports the popular public tools TPEN ([t-pen.org](https://t-pen.org)) and the Rerum ecosystem ([rerum.io](https://rerum.io)).
 
 ### Patrick Cuba
 
-Patrick Cuba is the I.T. Architect for RCG at SLU.  
+Patrick Cuba is the IT Architect for RCG at SLU. His service is focused on consulting and project development, translating research questions into features and helping to accellerate human-driven research. Specifically, he designs, develops, and implements technological solutions for use cases that escape typical vendor solutions, usually because of requirements for sustainability, openness, or customizable encoding. He has a passion for the record of human knowledge, especially supporting controversy, ambiuguity, and attribution.
 
 ### Bryan Haberberger
 
