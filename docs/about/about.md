@@ -40,7 +40,3 @@ Patrick Cuba is the IT Architect for RCG at SLU. His service is focused on consu
 ### Bryan Haberberger
 
 Bryan Haberberger is the Full Stack Developer for RCG at SLU.  He works in the technology stacks behind various projects, and his focus shifts sprint by sprint.  Simply put, he is a professional developer on campus and a resource for faculty, staff, students and outside collaborators looking for software development expertise, especially in the realm of Web Applications.  In recent years, he has accrued specialized skills with geospatial data on the web and is a member of the Open Geospatial Consortium as well as a IIIF Maps TSG co-chair as part of his commitment to open source technologies.  
-
-
-
-
