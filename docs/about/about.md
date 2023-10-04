@@ -35,6 +35,14 @@ Graduate students are at the heart of our open-sour​ce program. They work with
 - Omar Al Akkad
 - Uday Prasad Aitha
 
-## Additional Team Leads
+## SLU Research Team Leads
 
-Staff from Saint Louis University's Research Computing Group have been key partners, and have even taken on the responsibility of leading teams of undergraduate students. Special thanks to Patrick Cuba and Bryan Haberberger for support and leadership.
+Staff from Saint Louis University's Research Computing Group have been key partners, and have even taken on the responsibility of leading teams of undergraduate students.  Their work includes active open source projects being used in academia and research.  Projects involve SLU researchers across campus, regional organizations such as the Taylor Geospatial Institute, Washington University in Saint Louis, Newberry Library, the Jesuit Archives, Missouri Botanical Garden, and the St. Louis Federal Reserve. They are also involved in international open standards groups such as the International Image Interoperability Framework (IIIF) and Open Geospatial Consortium (OGC). This team supports the popular public tools TPEN ([t-pen.org](https://t-pen.org)) and the Rerum ecosystem ([rerum.io](https://rerum.io)).
+
+### Patrick Cuba
+
+Patrick Cuba is the IT Architect for RCG at SLU. His service is focused on consulting and project development, translating research questions into features and helping to accellerate human-driven research. Specifically, he designs, develops, and implements technological solutions for use cases that escape typical vendor solutions, usually because of requirements for sustainability, openness, or customizable encoding. He has a passion for the record of human knowledge, especially supporting controversy, ambiuguity, and attribution.
+
+### Bryan Haberberger
+
+Bryan Haberberger is the Full Stack Developer for RCG at SLU.  He works in the technology stacks behind various projects, and his focus shifts sprint by sprint.  Simply put, he is a professional developer on campus and a resource for faculty, staff, students and outside collaborators looking for software development expertise, especially in the realm of Web Applications.  In recent years, he has accrued specialized skills with geospatial data on the web and is a member of the Open Geospatial Consortium as well as a IIIF Maps TSG co-chair as part of his commitment to open source technologies.  
