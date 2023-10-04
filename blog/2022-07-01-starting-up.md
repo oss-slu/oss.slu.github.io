@@ -4,7 +4,7 @@ description: Saint Louis University Computer Science Department starts and open 
 slug: starting-up
 authors: [daniel]
 tags: [announcement, news]
-image: https://i.imgur.com/mErPwqL.png
+image: /img/daniel.jpg
 hide_table_of_contents: false
 ---
 

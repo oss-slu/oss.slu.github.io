@@ -20,14 +20,20 @@ Kate Holdener is an Assistant Professor of Computer Science at Saint Louis Unive
 
 Graduate students are at the heart of our open-sour​ce program. They work with SLU researchers to understand their software needs, iterate on software prototypes, and deliver proof of concept solutions. Graduate students lead and mentor our undergraduate open-source developers.
 
-### Graduate Assistant Team Leads
+### Current Graduate Assistant Team Leads
+
+- Abhilash Kotha
+- Ruthvik Mannem
+- Sailikhita Pulijala
+- Yash Kamal Bhatia
+- Yashaswini shivalingaiah
+
+### Previous Graduate Assistant Team Leads
 
 - Greih Murray
 - Halima Malik
 - Omar Al Akkad
-- Sailikhita Pulijala
 - Uday Prasad Aitha
-- Yash Kamal Bhatia
 
 ## SLU Research Team Leads
 
