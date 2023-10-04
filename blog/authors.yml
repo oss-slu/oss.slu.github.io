@@ -2,10 +2,10 @@ kate:
   name: Kate Holdener, Ph.D.
   title: Assistant Professor of Computer Science & Faculty Lead for Open Source with SLU
   url: https://github.com/kate-holdener
-  image_url: https://oss-slu.github.io/img/Holdener_2_small.jpg
+  image_url: /img/kate_avatar.jpg
 
 daniel:
   name: Daniel Shown
   title: Program Director for Open Source with SLU
   url: https://github.com/kungfuchicken.com
-  image_url: https://oss-slu.github.io/img/daniel.jpg
+  image_url: /img/daniel_avatar.jpg

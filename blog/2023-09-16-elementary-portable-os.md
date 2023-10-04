@@ -4,7 +4,7 @@ description: We launched first monthly open source software workshop at the SLU 
 slug: elementary-os
 authors: [daniel]
 tags: [announcement, news]
-image: https://oss-slu.github.io/img/daniel.png
+image: ./oss-atc-20230915/20230915_003.jpg
 hide_table_of_contents: false
 ---
 
@@ -12,12 +12,12 @@ We launched first monthly open source software workshop at the SLU Library's ATC
 
 <!--truncate-->
 
-What: Elementary OS
-Who: Presentedy by Yash Bhatia, MS student in Computer Science
-When: Friday, September 15
-  1:30-2:30 p.m. (1 hour)
-Where: Pius Library, ATC
-Resources: printed instructions
+**What:** Elementary OS<br/>
+**Who:** Presentedy by [Yash Bhatia](https://yashb196.github.io/yashb196/), MS student in Computer Science<br/>
+**When:** Friday, September 15<br/>
+  1:30-2:30 p.m. (1 hour)<br/>
+**Where:** [Pius Library, ATC](https://www.slu.edu/library/services/academic-technology-commons/index.php)<br/>
+**Resources:** [presentation of instructions](https://docs.google.com/presentation/d/1QhlBWzoqiha1X8AogqNqMb4jynmaEDOAU2xmdrFD3Cc/edit?usp=sharing)
 
 A group of students and staff huddled over laptops around a large conference table in the Academic Technology Commons of Saint Louis University's Pius Library. The sound of 3D printers hummed in the background. On an already busy Friday afternoon these students had elected to spend their time getting some hands on experiences with open source software. 
 
