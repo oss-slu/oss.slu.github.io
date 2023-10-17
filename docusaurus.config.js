@@ -79,24 +79,24 @@ const config = {
                 docId: 'about/about',
               },
               {
-                label: 'Students',
+                label: 'Student Partners',
                 type: 'doc',
                 docId: 'about/students',
               },
               {
-                label: 'Faculty',
+                label: 'Researcher Partners',
                 type: 'doc',
-                docId: 'about/faculty',
+                docId: 'about/researchers',
               },
               {
-                label: 'Community',
+                label: 'Community Partners',
                 type: 'doc',
                 docId: 'about/community',
               },
               {
-                label: 'Partners',
+                label: 'Industry Partners',
                 type: 'doc',
-                docId: 'about/partners',
+                docId: 'about/industry',
               }
             ]
             

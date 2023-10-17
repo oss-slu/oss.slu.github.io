@@ -1,6 +1,6 @@
 ---
 id: students
-title: Resources for Students
+title: Student Partners
 custom_edit_url: null
 ---
 

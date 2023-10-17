@@ -33,7 +33,7 @@ const sidebars = {
         },
         {
           type: 'doc',
-          id: 'about/faculty'
+          id: 'about/researchers'
         },
         {
           type: 'doc',
@@ -41,7 +41,7 @@ const sidebars = {
         },
         {
           type: 'doc',
-          id: 'about/partners'
+          id: 'about/industry'
         },
       ],
     },
