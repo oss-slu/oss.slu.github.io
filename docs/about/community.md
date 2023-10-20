@@ -9,7 +9,7 @@ custom_edit_url: null
 
 We welcome the participation of anyone interested in contributing to the projects in our portfolio. You can work on open issues on projects in our portfolio, create a new issue, or e-mail us if you want to be more involved.
 
-Join the conversation in the Open Sourc with SLU [Slack workspace](https://join.slack.com/t/oswslu/shared_invite/zt-24f0qhjbo-NkSfQ4LOg5wXxBdxP4vzfA)
+Join the conversation in the Open Source with SLU [Slack workspace](https://join.slack.com/t/oswslu/shared_invite/zt-24f0qhjbo-NkSfQ4LOg5wXxBdxP4vzfA).
 
 ## Overview
 
@@ -20,7 +20,7 @@ Join the conversation in the Open Sourc with SLU [Slack workspace](https://join.
 
 ## Getting Startted
 
-Anyone interested in getting involved with Open Source with SLU projects can sign up by opening a [Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) on the [contributors](contributors.md) page in this website. The PR will be merged when it includes a link to a merged ticket from a project in the [portfolio](../portfoliio.md) that they made contribution to, and the PR has been approved by the current tech lead on that project.
+Anyone interested in getting involved with Open Source with SLU projects can sign up by opening a [Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) on the [contributors](contributors.md) page in this website. The PR will be merged when it includes a link to a merged ticket from a project in the [portfolio](../portfolio.md) that they made contribution to, and the PR has been approved by the current tech lead on that project.
 
 ## Git
 
