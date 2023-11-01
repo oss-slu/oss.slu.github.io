@@ -5,6 +5,7 @@ custom_edit_url: null
 ---
 
 # Playbook
+## Purpose
 
 ## Resources needed
 
