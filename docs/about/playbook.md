@@ -34,6 +34,10 @@ custom_edit_url: null
 
 #### Overview
 
+In a course that primarily relies on software development projects as a teaching mechanisms, students enrolled in the course act as primary developers for selected projects. In our case, student developers came from the Computer Science capstone course - a two semester sequence, with 2 credit hours per semester.
+
+At the start of the semester, students were presnted with project options, and were asked to rank order all projects based on their interest and preferences. The course instructor used these rank orders to form teams. This turned into a multi-objective optimization problem with objectives being: 1) keep team size betwen 2 and 4 people, 2) maximize students' project interest, and 3) balance overall team skill level. While objectives 1 and 2 can be programmed, objective 3 is a subjective and relies heavily on instructor's familiarity with students' skills. In our case, the team formation was done manually. In the future, this process can be improved by programmatically assignming students to teams based on the identified objectives. 
+
 #### Known Challenges
 
 #### Success Metrics
