@@ -6,7 +6,7 @@ custom_edit_url: null
 
 ## Overview
 
-![Alt](100x100.png) One or two paragraph description of the project that should answer who will use this software, what the software does, where it runs (desktop/browser/device/etc.), and why it exists (the value that it creates for the people using it).
+![Alt](100x100.png) Created mainly for SLU researchers, this software is used for tracking the data of animal experiments. Running as a desktop app, users of the software can create and manage experiments in one easy place. Animals can be scanned into the system using RFID, where they can be quickly accessed for data collection and grouping. Over the course of an experiment, the user is able to take measurements of the animals using devices connected to the computer.
 
 ### Information
 
@@ -14,44 +14,43 @@ custom_edit_url: null
 - **Client:** Dr. Karoly Toth
 - **Current Tech Lead:** [Logan Wyas](https://github.com/loganwyas)
 - **Developers:**
+
   - [Uday Prasad Aitha](https://github.com/aithaprasad) (alumni)
-  - [Cori Diaz](https://github.com/coridiaz) (alumni)
   - [Tyler Bush](https://github.com/tbush03) (alumni)
-- **Start Date:** <!-- Date the project was first created. -->
-- **Adoption Date:** <!-- Date the project was adopted by OSS. -->
+  - [Cori Diaz](https://github.com/coridiaz) (alumni)
+  - [Ryan Carmody](https://github.com/rc10283) (capstone)
+  - [Andrew Obermiller](https://github.com/aobermiller) (capstone)
+  - [Stanley Yang](https://github.com/stanleyyang2001) (capstone)
+
+- **Start Date:** July 12, 2022
+- **Adoption Date:** July 12, 2022
 - **Technologies Used:**
-  - tech stack,
-  - key languages,
-  - key frameworks,
-  - databases, or other
-  - critical dependencies
-- **Type:** {Desktop/Mobile/Web/Library/IoT}
-- **License:** [License Type Name (short)](https://opensource.org/license/<!-- this project's license type-->)
+  - Python
+    - Tkinter
+  - SQLite
+- **Type:** Desktop
+- **License:** [GNU General Public License v3.0](https://opensource.org/license/gpl-3-0/)
 
 ## Users
 
-Overview of how to use the software (about 1-3 paragraphs), and links to any [detailed user-oriented documentation](https://link-to-docs).
+Upon running the software, you will first login using the account information you have been given. Then, to get to the main part of the application, click on the "Experiments" button. This will bring you to a page with have a list of experiments and the option to create a new experiment. If chosing to create a new experiment, you will enter in all of the experiment information that is necessary for the application. If you click on one of the experiments, it will bring you to the menu of that experiment. From there, you have the option to map animals with RFID, collect measurement data, and configure animal groups.
 
 ## Technical Information
 
-## Overview
+### Overview
 
 Overview of the software architecture.
 ![Software Architecture](architecture.png)
 
-## Development Priorities
+### Development Priorities
 
-- top
-- five
-- to
-- ten
-- development
-- priorities
-- (broadly)
+- Connect the application to hardware devices
+- Create a modern-looking user interface
+- Add automated testing
+- Implement account management
+- Build an executable for the software
+- Make warning/error screens to prevent internal issues
 
 ## Get Involved
 
-<!-- A group photo is optional; if used should be no greater than 800x800 -->
-<!--![Group Photo Alt Text](group.jpg) -->
-
-Overview of contribution and participation information, and links to any [contributors guide](https://link-to-contributors-docs)
+If you would like to contribute to this project, please visit our [GitHub Page](https://github.com/oss-slu/Mouser) to create your own issues or pull requests.
