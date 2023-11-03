@@ -19,7 +19,7 @@ We are currently accepting project requests. You can submit your request via thi
 
 <!-- - ![Alt](project_name/100x100.png) **Project Name** One-sentence description of the purpose of the project -->
 - DADS (Database of Arithmetic Dynamical Systems)
-- DEER (Data Entry & Exhibition for Rerum)
+- <img alt="logo image" src="./deer/deerlogo_sqr.jpg" width=100> [Data Entry & Exhibition for Rerum](./deer/about.md)
 - Drone World
 - Gallery of Glosses
 - MeltShiny
