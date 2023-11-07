@@ -41,23 +41,23 @@ This framework is intended to be used by designers as web components which can b
 
 The choice to use as much plain JavaScript as possible is made to allow for the greatest flexibility in the future. It is not off the map to create ports into other languages or super-languages, but until we release 1.0, it is out of scope.
 
-## Overview
+### Overview
  
 The original design in the alpha releases is less bound to standards than the release candidate because the Web Component standard was not established yet and most of the air was taken up by new React flavors.
 
 The framework splits concerns into two main camps: Forms and Views
 
-### Forms
+#### Forms
 
 Simple forms look familiar, but instead of saving an entire document, the fields are saved as annotations on the resource identified in the `<form>` element's `deer-id` attribute. An `$isDirty` property is used to tell when a value has been modified to honor the versioning requirements. Complex form fields can be created, but requires a little more fluency in the DEER events. A NoticeBoard class is used as a pubsubhub bus to allow for the notification of changes to the data rendered in the form.
 
-### Views
+#### Views
 
 Views are very similar to the data-binding template systems though it does not have a bespoke syntax like Handlebars or Angular. In the exhibition use case, a view is a simple way to collect a document from the database with all the annotations that describe it. The `deer-template` element is usde in older versions and in hte 1.0 RC, the element itself is registered as a template.
 
 In either case, a View is registered by `deer-id` attribute and standard Web Component lifecycle methods are used to render the resource.
 
-## Development Priorities
+### Development Priorities
 
 - Release Candidate 1.0 with Web Components
 - Simple template creation
