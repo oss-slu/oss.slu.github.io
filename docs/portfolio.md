@@ -19,7 +19,7 @@ We are currently accepting project requests. You can submit your request via thi
 
 <!-- - ![Alt](project_name/100x100.png) **Project Name** One-sentence description of the purpose of the project -->
 - DADS (Database of Arithmetic Dynamical Systems)
-- <img alt="logo image" src="./deer/deerlogo_sqr.jpg" width="100" style="float:left;"> **[Data Entry & Exhibition for Rerum](./deer/about.md)** A designer's framework for non-destructive annotation and template rendering for distributed digital resources and collections.<div style="clear:both;"></div>
+- <img alt="logo image" src="./deer/deerlogo_sqr.jpg" width="100" style="float:left;"></img> **[Data Entry & Exhibition for Rerum](./deer/about.md)** A designer's framework for non-destructive annotation and template rendering for distributed digital resources and collections.<div style="clear:both;"></div>
 - Gallery of Glosses
 - MeltShiny
 - Mouser
