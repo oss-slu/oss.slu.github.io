@@ -27,16 +27,17 @@ custom_edit_url: null
 - **Adoption Date:** September 23, 2022
 - **Technologies Used:**
   - Python
-    - Tkinter / Custom Tkinter
+    - Tkinter / CustomTkinter
     - NLTK
     - PyAudio
+    - OpenAI Whisper
   - SALT
 - **Type:** Desktop
 - **License:** [GNU General Public License v3.0](https://opensource.org/license/gpl-3-0/)
 
 ## Users
 
-Upon running the software, you will first
+Upon running the software, you will choose to either upload an audio file, or record one yourself. If the audio is successfully added, you can then transcribe it. After the transcribing finishes, the transcription will appear on the screen. You will then decide whether you want to do grammar checking or the adding of morphemes on the transcription. Finally, you can export the transcription to a Word document.
 
 ## Technical Information
 
