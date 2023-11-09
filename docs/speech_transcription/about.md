@@ -47,8 +47,12 @@ Overview of the software architecture.
 
 ### Development Priorities
 
--
+- Improve the user interface
+- Add diarization to the transcription
+- Fix the errors when adding morphemes
+- Implement automated testing
+- Address the freezing of certain processes
 
 ## Get Involved
 
-If you would like to contribute to this project, please visit our [GitHub page]() to create your own issues or pull requests.
+If you would like to contribute to this project, please visit our [GitHub page](https://github.com/oss-slu/SpeechTranscription/) to create your own issues or pull requests.
