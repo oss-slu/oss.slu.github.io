@@ -11,7 +11,7 @@ custom_edit_url: null
 ### Information
 
 - **Source Code:** <https://github.com/oss-slu/Mouser>
-- **Client:** Dr. Karoly Toth
+- **Client:** Dr. Karoly Toth, Saint Louis University
 - **Current Tech Lead:** [Logan Wyas](https://github.com/loganwyas)
 - **Developers:**
 
@@ -53,4 +53,4 @@ Overview of the software architecture.
 
 ## Get Involved
 
-If you would like to contribute to this project, please visit our [GitHub Page](https://github.com/oss-slu/Mouser) to create your own issues or pull requests.
+If you would like to contribute to this project, please visit our [GitHub page](https://github.com/oss-slu/Mouser) to create your own issues or pull requests.
