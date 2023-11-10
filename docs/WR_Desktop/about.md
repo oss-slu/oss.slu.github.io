@@ -1,6 +1,6 @@
 ---
 title: Where's Religion Mobile application
-custom_edit_url: https://github.com/oss-slu/lrda_mobile
+custom_edit_url: https://github.com/oss-slu/lrda_website
 ---
 <!-- A header image is optional; if used should be no greater than 200x600 -->
 <!--![Header Alt Text](header.png) -->
@@ -11,36 +11,34 @@ custom_edit_url: https://github.com/oss-slu/lrda_mobile
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/lrda_mobile>
+- **Source Code:** <https://github.com/oss-slu/lrda_website>
 - **Client** <!-- Name of the customer, possibly a link (check with them first). -->
 - **Current Tech Lead:** [Yash Bhatia](https://yashb196.github.io/yashb196/, https://github.com/yashb196, https://www.linkedin.com/in/yashbhatia238/.)
 - **Developers:**
-  - [Andrew Chen](https://github.com/AndchooChen) (capstone)
-  - [Tom Irvine](https://github.com/irvinet20) (capstone)
-  - [Tianhao Wang](https://github.com/SamSam9812) (capstone)
-
-  -[Stuart Ray](https://github.com/Stuartwastaken)(alumni)
-  -[Izak Robles](https://github.com/izakrobles)(alumni)
-- **Start Date:** 20 Feb 2023
-- **Adoption Date:** 20 Feb 2023
+  -[Stuart Ray](https://github.com/Stuartwastaken)(capstone)
+  -[Izak Robles](https://github.com/izakrobles)(capstone)
+  -[Josh Hogan](https://github.com/Josh-Hogan-87)(capstone)
+- **Start Date:** 25 Aug 2023
+- **Adoption Date:** 25 Aug 2023
 - **Technologies Used:** 
-  - Tech Stack: The core technologies include React Native for cross-platform mobile app development and TypeScript for adding static type definitions to JavaScript​​.
-  - Key Languages: TypeScript is used along with JavaScript, which is compiled by the Expo server​​​​.
-  - Key Frameworks: React Native is the primary framework for building the app's user interface, and Expo CLI is utilized for running the app during development​​.
+  - Tech Stack: The core technologies include React development and TypeScript for adding static type definitions to JavaScript​​.
+  - Key Languages: TypeScript is used along with JavaScript​​​​.
+  - Key Frameworks: Next JS is the primary framework for building the app's user interface, and Tailwind CSS for the designing​​.
   - Databases: While the specific database technologies are not mentioned in the quoted sections, the app connects to the Rerum Website for data integration, which may imply the use of web APIs to interact with backend data storage​​.
-  - Critical Dependencies: Node.js is a runtime requirement for executing the JavaScript code, and the dependency management is handled by Yarn, as indicated by the use of yarn install and yarn run start commands for setting up the app​​​​​​.
-- **Type:** {Mobile}
+  - Critical Dependencies: Node.js is a runtime requirement for executing the JavaScript code, and the dependency management is handled by pnpm, as indicated by the use of pnpm install and pnpm start commands for setting up the app​​​​​​.
+- **Type:** {Desktop}
 - **License:** [MIT](https://opensource.org/license/mit/)
 
 ## Users
 
 - End user will log into the application 
-- When logged in there will be an option to either view global notes(notes that other people published) or view an empty page with a + sign at the bottom to add a note 
-- once clicked on + the user can then add a title (manditory) along with audio/video/photo/ tags(manditory) and text for the note 
+- When logged in there will be an option to either view global notes(notes that other people published) or view an empty page with a button on the left "Add Note" which will enable the user to create a note.
+- once clicked on the button the user can then add a title (manditory) along with audio/video/photo/ tags(manditory) and text for the note 
 - click on the top right icon to make it public
 - if you still need it private go back.
-- map icon will represent all the global notes and where it is generated.
-, and link to the Where's Religion Documentation[detailed user-oriented documentation](https://github.com/oss-slu/lrda_mobile/blob/main/README.md).
+- map will represent all the global notes and where it is generated (similar to the mobile application).
+- user can search an entry based on the tags mentioned in the post.
+, and link to the Where's Religion Documentation[detailed user-oriented documentation](https://github.com/oss-slu/lrda_website/blob/main/README.md).
 
 ## Technical Information
 
@@ -52,12 +50,11 @@ Where’s Religion is an open-source mobile and desktop application that support
 
 ## Development Priorities
 
-- The app does not compile to the web due to a dependency on react-native-maps.
-- In the location data section of a note, an error displaying "NaN" may appear.
-- Scroller on add note and edit note sometimes do not work on IOS
-- The notes orientation on map page for android is off centered.
-- Styling of the screens using [tamagui](https://tamagui.dev/)
+- There is UI changes required which should follow (ShadCN)[https://github.com/shadcn-ui/ui]
+- The Pages to add note/edit note should have the functionality to access photos and videos from local systems.
+- The Map Page should be built based on either open street maps or leaflet.
+- The notes should be fetched onto the home page.
 
 ## Get Involved
 
-Overview of contribution and participation information, [contributors guide](https://github.com/oss-slu/lrda_mobile/blob/main/README.md)
+Overview of contribution and participation information, [contributors guide](https://github.com/oss-slu/lrda_website/blob/main/README.md)
