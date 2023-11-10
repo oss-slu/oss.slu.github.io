@@ -8,7 +8,7 @@ custom_edit_url: null
 
 ## Overview
 
-![Alt](100x100.png) Homeless shelters rely on volunteers' help. When incliment weather strikes, homeless shelters get filled with people that need a place to stay, and volunteers' help becomes even more important. There are many people willing to volunteer, but knowing which shelter lacks help is a challenge. The purpose of this application is to simplify the process of scheduling work shifts for volunteers, and to give homeless shelters visibility into their upcoming staffing. The application allows volunteers to select shelters and times when they want to work, see which shelters (and which times) urgently need help, and cancel/reschedule their shifts. The application will also allow shelter staff to see who is scheduled to help at their shelter on different dates and different times, and issue a 'call for help' when help is needed urgently.
+Homeless shelters rely on volunteers' help. When incliment weather strikes, homeless shelters get filled with people that need a place to stay, and volunteers' help becomes even more important. There are many people willing to volunteer, but knowing which shelter lacks help is a challenge. The purpose of this application is to simplify the process of scheduling work shifts for volunteers, and to give homeless shelters visibility into their upcoming staffing. The application allows volunteers to select shelters and times when they want to work, see which shelters (and which times) urgently need help, and cancel/reschedule their shifts. The application will also allow shelter staff to see who is scheduled to help at their shelter on different dates and different times, and issue a 'call for help' when help is needed urgently.
 
 ### Information
 
@@ -49,7 +49,7 @@ mode, that will bypass GetHelp authentication API and allow anyone to run the co
 ## Software Architecture Overview
 
 Overview of the software architecture.
-![Software Architecture](architecture.png)
+![Software Architecture Context Diagram](context.png)
 
 ## Development Priorities
 
