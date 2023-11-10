@@ -1,8 +1,11 @@
 @startuml
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
+!define FONTAWESOME https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome-5
+!include FONTAWESOME/users.puml
+LAYOUT_WITH_LEGEND()
 
-Person(Volunteer, "Volunteer", "Homeless shelter volunteer")
-Person(ShelterStaff, "Shelter Staff", "Homeless shelter staff")
+Person(Volunteer, "Volunteers", "Shelter volunteer", $sprite="users")
+Person(ShelterStaff, "Shelter Staff", "Shelter staff")
 Boundary(b1, "Our System"){
 System(schedulingApp, "Volunteer Scheduling Application", "Web Application")
 }
