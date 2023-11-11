@@ -4,9 +4,8 @@ title: Pi4Micronaut
 custom_edit_url: null
 ---
 
+![Pi4Micronaut-Header](header-pi4micronaut.png)
 ## Overview
-
-![Pi4Micronaut-Header](header.png) 
 
 Pi4Micronaut is an innovative Java library crafted for developers who aim to build Internet of Things (IoT) applications leveraging the Raspberry Pi platform. This software is designed to run directly on the Raspberry Pi, providing a seamless interface between the high-level Micronaut framework and the low-level hardware control provided by Pi4J. It serves as a vital tool for Java developers who wish to create sophisticated IoT solutions that interact with various sensors and electronic components. By abstracting the complexity of hardware interactions, Pi4Micronaut allows developers to focus on crafting business logic and features, making it easier to bring IoT applications from concept to deployment rapidly.
 
@@ -45,9 +44,20 @@ Pi4Micronaut is designed for Java developers who need to create IoT applications
 
 ## Technical Information
 
+Pi4Micronaut serves as a bridge between the JVM and the physical computing capabilities of Raspberry Pi. It's an integration framework that brings together the lightweight, reactive programming model of Micronaut with the comprehensive GPIO control provided by Pi4J. This combination allows developers to write Java applications that can directly control and respond to physical hardware events.
+
+- Deep Dive into Pi4Micronaut's Architecture
+
+  - **Micronaut Integration**: Pi4Micronaut integrates deeply with Micronaut's dependency injection and AOP capabilities, allowing developers to declaratively wire hardware control logic into their application components.
+
+  - **Pi4J Core**: At the heart of Pi4Micronaut is the Pi4J library, which provides the necessary abstraction to communicate with the GPIO pins on the Raspberry Pi. Pi4Micronaut extends this functionality, making it available in a Micronaut-friendly way.
+
+  - **Event-Driven Hardware Interaction**: Pi4Micronaut simplifies the process of handling hardware events. Using Micronaut's event listeners and Pi4J's GPIO callbacks, it orchestrates interactions between the application and the physical components attached to the Raspberry Pi.
+
 ## Overview
 
-Overview of the software architecture.
+Here is an overview of the software architecture.
+
 ![Software Architecture](architecture.png)
 
 ## Development Priorities
