@@ -7,7 +7,7 @@ custom_edit_url: https://github.com/oss-slu/lrda_website
 
 ## Overview
 
-![Alt](100x100.png) Where’s Religion is an open-source mobile and desktop application that supports in-person research, remote data entry, media sharing, and mapping. To do this, the mobile app enables users to collect fieldnotes, images, videos, and audio files - all geotagged and timestamped. The desktop companion app provides a more feature-rich format to refine fieldnotes, make new entries, or, for certain user profiles, review or grade other users’ entries.
+![Alt](100x100.png) Where's Religion? is conceptualized and designed for diverse users with interests in sharing media and notes about their respective encounters with "religion" in everyday places. Nearly all digital humanities scholarship in religion, theology, and adjacent fields perpetuates historical biases of text-based knowledge and media. While texts are no doubt essential to these fields, the premise of Where’s Religion? has been to create tools for acknowledging, analyzing, and interpreting religion as a multisensory and multimodal component of human life, both within faith traditions and beyond them in the fabrics of culture and society. We believe that it is time for our research methodologies to catch up with the realities of human experience and that creating a platform for collecting, organizing, and sharing images, videos, and sounds, along with textual notations, sourced from a wide range of users, is a necessary place to start. We also believe that the resulting collection of materials will be of immense value to American public life.
 
 ### Information
 
@@ -15,9 +15,11 @@ custom_edit_url: https://github.com/oss-slu/lrda_website
 - **Client** <!-- Name of the customer, possibly a link (check with them first). -->
 - **Current Tech Lead:** [Yash Bhatia](https://yashb196.github.io/yashb196/, https://github.com/yashb196, https://www.linkedin.com/in/yashbhatia238/.)
 - **Developers:**
-  -[Stuart Ray](https://github.com/Stuartwastaken)(capstone)
-  -[Izak Robles](https://github.com/izakrobles)(capstone)
-  -[Josh Hogan](https://github.com/Josh-Hogan-87)(capstone)
+  - [Stuart Ray](https://github.com/Stuartwastaken)(capstone)
+  - [Izak Robles](https://github.com/izakrobles)(capstone)
+  - [Josh Hogan](https://github.com/Josh-Hogan-87)(capstone)
+
+  - [Varsith Reddy Legala](https://github.com/VarsithReddyLegala)(volunteer)
 - **Start Date:** 25 Aug 2023
 - **Adoption Date:** 25 Aug 2023
 - **Technologies Used:** 
