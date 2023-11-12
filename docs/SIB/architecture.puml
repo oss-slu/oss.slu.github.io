@@ -27,9 +27,9 @@ Boundary(b1, "Seeing Is Believing"){
    Container(database, "Database", "Firebase", "Stores information regarding classes, assignments, words and user data", $sprite="")
 }
 
-Rel_D(MA, setup, "")
-Rel_D(MA, data, "add")
+Rel_D(MA, setup, "require")
 Rel_D(MA, map, "have")
+Rel_D(MA, data, "add")
 Rel_D(setup, database, "Reads/Writes")
 Rel_D(map, database, "Writes")
 Rel_D(data, database, "Reads/Writes")
