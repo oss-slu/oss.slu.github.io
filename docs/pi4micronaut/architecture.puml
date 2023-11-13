@@ -43,7 +43,7 @@ Rel_R(IOT, Pi4Micronaut , "using", "Gradle/Maven")
 Rel(IOT, pi, "Test Application     .", "SSH")
 Rel(Pi4Micronaut, Jar, "Builds")
 Rel(Pi4Micronaut,Micronaut,"")
-Rel(Pi4J,Pi4Micronaut,"")
+Rel(Pi4Micronaut,Pi4J,"")
 Rel(Jar, pi, "")
 
 SHOW_DYNAMIC_LEGEND()
