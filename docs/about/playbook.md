@@ -52,7 +52,9 @@ There are several challenges with the described approach.
 (Community outreach - recruiting new developers)
 
 #### Overview
+Students often approach faculty looking for opportunities to get involved in research and development. Many students are looking for paid work, but some students are interested in opportunities that will help them grow their skills and resumes. Open Source with SLU's mission is to give students realistic software development experience through open-source contributions, and thus is a great way to get such students involved. We refer to such students as volunteers. Volunteers contact us in person and by email, asking how they can get involved. We direct them to our current projects descriptions and ask them to identify a project they would like to contribute to. Once they select a project, we coach volunteers through the standard open-source contribution practice: create a fork of the repository, run the code in the development environment, select an issue they would like to work on (typically, an issue marked as 'good first issue'), make a comment in that issue requesting to assign it to them. The project tech lead assigns the issue to a volunteer, the volunteer works on the issue in their fork. Once completed, the volunteer submits a pull request to merge the code from their forked repo to the main branch of the original repo. The team (people with write access to the original repo) reviews the pull request, makes comments (asks for changes, if appropriate). After all the comments are addressed, the tech lead merges the pull request to the main branch, and the volunteer becomes an official contributor to the project.
 
+We invite our volunteers to join Open Source with SLU slack workspace, and their specific project within that workspace. Slack gives volunteers a faster way to communicate with the main development team.
 #### Known Challenges
 
 #### Success Metrics
