@@ -59,9 +59,15 @@ We invite our volunteers to join Open Source with SLU slack workspace, and their
 In addition to student volunteers looking to grow their skills, we have used Open Source with SLU projects as a basis for technical interviews for gradutate assistant jobs and PostDoc jobs offered by various faculty through their other grant funds. We invite the job candidate to select a 'good first issue' from any of the ongoing projects, and resolve the ussue (using the same process as student volunteers). It is a valuable tool that helps us evaluate the candidate's development skills, and this is a service we do for the faculty in our deparment. Successful contributions get merged to the main branch of the candidate-selected repo, which is a benefit for Open Source with SLU.
 
 #### Known Challenges
+It is challenging to find student developers who are interested in serving as a 'volunteer' contributor. Many students are looking to get monetary compensation for their work, and walk away when they learn that this is a 'volunteer' role. 
 
+Integrating external developers with the internal team is also a challenge. We need a better process that will help external developers feel like they are part of the team.
+
+We've had a challenging time in keeping external developers interested: they typically join by resolving one 'good first issue', and then we never hear back from them. Better engagement with external developers could help overcome this challenge.
 
 #### Success Metrics
+1. Number of issues (across all projects) resolved by all external developers
+2. Number of issues resolved per external developer
 
 ### Community training
 
