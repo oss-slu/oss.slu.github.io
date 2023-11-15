@@ -30,9 +30,9 @@ System_Ext(whisper, "OpenAI Whisper", "Takes audio files and converts them into 
 System_Ext(pyaudio, "PyAudio", "Plays and records audio files")
 System_Ext(nltk, "Natural Language Toolkit (NLTK)", "Analyzes text, finds errors in grammar, and adds morphemes where necessary")
 
-BiRel_U(audio, STA, "transfer audio data")
-BiRel_U(transcriber, STA, "transfer transcription text")
-BiRel_U(grammar, STA, "modify transcription")
+Rel_D(STA, audio, "transfer audio data")
+Rel_D(STA, transcriber, "transfer transcription text")
+Rel_D(STA, grammar, "modify transcription")
 Rel(transcriber, whisper, "Uses", "Python Library", $tags="uses")
 Rel(audio, pyaudio, "Uses", "Python Library", $tags="uses")
 Rel(grammar, nltk, "Uses", "Python Library", $tags="uses")
