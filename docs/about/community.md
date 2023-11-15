@@ -36,17 +36,17 @@ After making five contributions, you can be added to the `oss-slu` team in GitHu
  
 ## Git
 
-All our projects are stored in public GitHub repositories. To make code contributions to our repositories, you will need to know the basics about Git and GitHub. We recommend this [video tutorial]("https://youtu.be/RGOj5yH7evk"), if you are not familiar with these tools.
+All our projects are stored in public GitHub repositories. To make code contributions to our repositories, you will need to know the basics about Git and GitHub. We recommend this [video tutorial](https://youtu.be/RGOj5yH7evk), if you are not familiar with these tools.
 
 ## Guidance
 
 When you are ready to contribute code to one of our open-source project, here is the process you should follow:
 
 1. Identify the issue you want to work on and post a comment in this issue, asking the repo maintainer to assign the issue to you.
-2. Crate a fork of our repository. Here is GitHub documentation for how to [create a fork]("https://docs.github.com/en/enterprise-cloud@latest/get-started/quickstart/fork-a-repo")
-3. Clone your fork of the repository. Here is GitHub documentation for how to clone [a repository]("https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository").
+2. Crate a fork of our repository. Here is GitHub documentation for how to [create a fork](https://docs.github.com/en/enterprise-cloud@latest/get-started/quickstart/fork-a-repo)
+3. Clone your fork of the repository. Here is GitHub documentation for how to clone [a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 4. Follow the developer guide to install project dependencies and run the code.
 5. Make the necessary code changes to resolve the issue. Commit and push your changes frequently. Use meaningful commit messages when committing your code.
 6. Test your changes, verifying that the issue is resolved.
-7. Create a pull request - a request to merge changes from your fork of the repository to the original repository. Here is GitHub documentation for how to [create a pull request]("https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork"). Make sure to note the issue number that your pull request resolves, and include details of your solution.
+7. Create a pull request - a request to merge changes from your fork of the repository to the original repository. Here is GitHub documentation for how to [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). Make sure to note the issue number that your pull request resolves, and include details of your solution.
 8. One of our repository maintaners will review your pull request and will either merge it with the original repo, or request some changes. If changes are requested, go back to step 5 and proceed from there.
