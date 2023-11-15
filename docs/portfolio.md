@@ -24,7 +24,7 @@ We are currently accepting project requests. You can submit your request via thi
 - Gallery of Glosses
 - MeltShiny
 - Mouser
-- Pi4Micronaut
+- **[Pi4Micronaut](./project_pi4micronaut/about.md)**
 - Rerum Geolocator
 - Seeing Is Believing
 - Shelter Volunteers
