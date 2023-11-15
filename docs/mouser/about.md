@@ -6,7 +6,7 @@ custom_edit_url: null
 
 ## Overview
 
-![Alt](100x100.png) Created mainly for SLU researchers, this software is used for tracking the data of animal experiments. Running as a desktop app, users of the software can create and manage experiments in one easy place. Animals can be scanned into the system using RFID, where they can be quickly accessed for data collection and grouping. Over the course of an experiment, the user is able to take measurements of the animals using devices connected to the computer.
+![Alt](100x100.png) Created mainly for SLU researchers, this software is used for tracking the data of animal experiments. While in the lab, scientists are often required to keep their environments very clean, which means that they must limit how much they touch the computers and lab equipment. So, it is important for researchers to quickly take their measurements with as little interaction as possible, and Mouser strives to make this possible. Running as a desktop app, users of the software can create and manage experiments in one easy place. Animals can be scanned into the system using RFID, where they can be quickly accessed for data collection and grouping. Over the course of an experiment, the user is able to take measurements of the animals using devices connected to the computer. The program gives confirmation to the user through sounds and changes in display, allowing them to focus on the experiment.
 
 ### Information
 
