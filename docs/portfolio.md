@@ -18,7 +18,7 @@ We are currently accepting project requests. You can submit your request via thi
 ## Current Capstone Projects
 
 <!-- - ![Alt](project_name/100x100.png) **Project Name** One-sentence description of the purpose of the project -->
-- DADS (Database of Arithmetic Dynamical Systems)
+- [DADS (Database of Arithmetic Dynamical Systems)](./project_dads/about) - The goal of this project is to create a flexible, web-based, search-driven user interface for a database of arithmetic dynamical systems
 - DEER (Data Entry & Exhibition for Rerum)
 - Drone World
 - Gallery of Glosses
