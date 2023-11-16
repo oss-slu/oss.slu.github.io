@@ -8,9 +8,9 @@ DroneWorld is a platform for testing small unmanned aerial systems (sUAS) applic
 
 ### Information
 
-- **Source Code:**  https://github.com/oss-slu/DroneWorld
-- **Client** Dr.Ankit Agrawal - https://github.com/ankyAgrawal
-- **Current Tech Lead:** Yashaswini Shivalingaiah [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/yashaswini-slu) , [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="25" height="25" />](https://www.linkedin.com/in/yashaswini-shivalingaiah-467a9652/)
+- **Source Code:**  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/git-alt.svg" width="25" height="25" />](https://github.com/oss-slu/DroneWorld)
+- **Client** Dr.Ankit Agrawal [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/ankyAgrawal)
+- **Current Tech Lead:** Yashaswini Shivalingaiah [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/yashaswini-slu)  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="25" height="25" />](https://www.linkedin.com/in/yashaswini-shivalingaiah-467a9652/)
 - **Developers:**
     - Kaleb Yu [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/kalyus)
     - Szymon Rostkowski [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/sr259)
