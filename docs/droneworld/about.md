@@ -4,7 +4,7 @@ custom_edit_url: https://github.com/oss-slu/DroneWorld
 ---
 
 ## Overview
-DroneWorld is a platform for testing small unmanned aerial systems (sUAS) applications by simulating realistic test scenarios based on specified requirements. DroneWorld allows users to configure test scenarios by specifying environmental conditions (e.g. weather, terrain), sUAS capabilities (sensors, hardware), and test properties derived from system requirements. It generates a realistic 3D simulation environment using digital shadow models and runs the user's sUAS application within it. DroneWorld monitors and collects data to check if safety properties are violated. It produces test reports analyzing simulation results. DroneWorld allows comprehensive testing of drone applications in ultra-realistic simulated environments before real-world flights, helping improve safety and reliability, by automating simulation-based testing against requirements, the application enables drone developers to iterate faster and build robust systems for complex missions.
+DroneWorld is a platform developed by Dr.Ankit Agrawal and his team for testing small unmanned aerial systems (sUAS) applications by simulating realistic test scenarios based on specified requirements. Our team at OSS is actively contributing to the ongoing development of DroneWorld. DroneWorld allows users to configure test scenarios by specifying environmental conditions (e.g. weather, terrain), sUAS capabilities (sensors, hardware), and test properties derived from system requirements. It generates a realistic 3D simulation environment using digital shadow models and runs the user's sUAS application within it. DroneWorld monitors and collects data to check if safety properties are violated. It produces test reports analyzing simulation results. DroneWorld allows comprehensive testing of drone applications in ultra-realistic simulated environments before real-world flights, helping improve safety and reliability, by automating simulation-based testing against requirements, the application enables drone developers to iterate faster and build robust systems for complex missions.
 
 ### Information
 
@@ -15,7 +15,7 @@ DroneWorld is a platform for testing small unmanned aerial systems (sUAS) applic
     - Kaleb Yu [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/kalyus)
     - Szymon Rostkowski [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/sr259)
     - Hebron Bekele [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/hebronh)
-- **Start Date:** 25 Aug 2023
+- **Start Date:** 9th Feb 2023
 - **Adoption Date:** 25 Aug 2023
 - **Technologies Used:**
     - Tech Stack: Simulation, Testing, Visualization, Autonomous Systems
@@ -28,12 +28,10 @@ DroneWorld is a platform for testing small unmanned aerial systems (sUAS) applic
 - **Type:** Desktop
 - **License:**
 
-## Users
+## User Guide
 - The user will configure a test scenario through the web interface by specifying details like the number of drones, their sensors, the mission objectives, and the operating environment.
 - The user define critical safety properties that must be monitored during the test, such as minimum separation distance between drones. These properties are based on your system requirements or regulations.
 - DroneWorld generates a detailed test report analyzing the execution. This includes logs, telemetry data, analysis of property violations, and visualizations of key metrics
-
-## Technical Information
 
 ## Overview
 Overview of the software architecture.
