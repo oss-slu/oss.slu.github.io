@@ -2,7 +2,7 @@
 title: Rerum Geolocator
 custom_edit_url: https://github.com/CenterForDigitalHumanities/geolocator , https://github.com/CenterForDigitalHumanities/navplace-viewer
 ---
-
+![Rerum Geolocator](geolocator-logo.png)
 ## Overview
 The application enables users to enhance discovery and access to digital resources through geographic visualization and annotation. Users can bring in their own resources and generate Geolocating Web Annotations for them. These structured annotations contain geographic coordinates and other spatial/temporal metadata using the Web Annotation data model. This enables accurate placement of the resources onto a web map.
 The application also supports adding a `navPlace` property to IIIF Defined Types. The International Image Interoperability Framework (IIIF) provides a standard way of describing and delivering digital resources. The IIIF Defined Types with the `navPlace` property can be imported into the RERUM platform, this provides a map-based visualization that enables exploring, discovering and connecting resources through their geographic metadata. The Navplace Viewer allows new insights and connections by leveraging the spatial relationships between resources.
