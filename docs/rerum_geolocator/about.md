@@ -40,6 +40,8 @@ The Navplace Viewer allows you to:
 ## Overview
 Overview of the software architecture.
 
+![Architecture](./architecture.png)
+
 The geolocator application utilizes a layered architecture consisting of a front end user interface written in HTML and JavaScript, middleware in Node.js, a back end server in Node.js, and an external API system provided by RERUM. The front end allows user interaction and displays the interface. It passes user input to the middleware layer which processes requests and routing between the front and back end. The back end server receives requests from the middleware, makes calls to the RERUM API to execute data operations based on the request, gets the response from RERUM indicating the result, processes the response, and passes it back to the middleware. The middleware then forwards the response to the front end user interface layer to display the results to the user. This layered architecture with the front end, middleware, server, and external API allows the full user interaction flow and application capabilities. The use of common web technologies like HTML/JS, Node.js provides a scalable and extensible implementation.
 
 ## Development Priorities
