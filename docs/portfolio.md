@@ -20,7 +20,7 @@ We are currently accepting project requests. You can submit your request via thi
 <!-- - ![Alt](project_name/100x100.png) **Project Name** One-sentence description of the purpose of the project -->
 - DADS (Database of Arithmetic Dynamical Systems)
 - DEER (Data Entry & Exhibition for Rerum)
-- Drone World
+- [Drone World](./droneworld/about.md) - DroneWorld is a platform developed by Dr.Ankit Agrawal and his team for testing small unmanned aerial systems (sUAS) applications by simulating realistic test scenarios based on specified requirements.
 - Gallery of Glosses
 - MeltShiny
 - Mouser

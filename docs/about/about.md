@@ -26,7 +26,7 @@ Graduate students are at the heart of our open-sour​ce program. They work with
 - Ruthvik Mannem
 - Sailikhita Pulijala
 - Yash Kamal Bhatia
-- Yashaswini shivalingaiah
+- Yashaswini Shivalingaiah
 
 ### Previous Graduate Assistant Team Leads
 
