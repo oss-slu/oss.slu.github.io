@@ -36,8 +36,7 @@ Rel_D(STA, grammar, "modify transcription")
 Rel(transcriber, whisper, "Uses", "Python Library", $tags="uses")
 Rel(audio, pyaudio, "Uses", "Python Library", $tags="uses")
 Rel(grammar, nltk, "Uses", "Python Library", $tags="uses")
-Rel_R(users, STA, "Interact with", "Graphical User Interface")
+Rel_D(users, STA, "Interact with", "Graphical User Interface")
 
 SHOW_LEGEND()
-
 @enduml

@@ -18,6 +18,7 @@ We are currently accepting project requests. You can submit your request via thi
 ## Current Capstone Projects
 
 <!-- - ![Alt](project_name/100x100.png) **Project Name** One-sentence description of the purpose of the project -->
+
 - DADS (Database of Arithmetic Dynamical Systems)
 - DEER (Data Entry & Exhibition for Rerum)
 - Drone World
@@ -28,7 +29,7 @@ We are currently accepting project requests. You can submit your request via thi
 - Rerum Geolocator
 - Seeing Is Believing
 - Shelter Volunteers
-- Speech Tagging
+- ![Alt](project_saltify/100x100.png) [**Speech Tagging**](project_saltify/about) - This software transcribes an audio sample into a written format that is accepted by SALT software.
 - Where's Religion Desktop
 - Where's Religion Mobile
 
