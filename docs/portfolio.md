@@ -18,12 +18,13 @@ We are currently accepting project requests. You can submit your request via thi
 ## Current Capstone Projects
 
 <!-- - ![Alt](project_name/100x100.png) **Project Name** One-sentence description of the purpose of the project -->
+
 - DADS (Database of Arithmetic Dynamical Systems)
 - DEER (Data Entry & Exhibition for Rerum)
 - Drone World
 - Gallery of Glosses
 - MeltShiny
-- Mouser
+- ![Alt](project_mouser/100x100.png) [**Mouser**](project_mouser/about) - This software is used for tracking the data of animal experiments.
 - Pi4Micronaut
 - Rerum Geolocator
 - Seeing Is Believing

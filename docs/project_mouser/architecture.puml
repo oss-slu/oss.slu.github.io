@@ -39,7 +39,7 @@ Rel_D(map, database, "Writes")
 Rel_D(data, database, "Reads/Writes")
 Rel(data, pyserial, "Uses", "Python Library", $tags="uses")
 Rel(map, pyserial, "Uses", "Python Library", $tags="uses")
-Rel_R(users, MA, "Interact with", "Graphical User Interface")
+Rel_D(users, MA, "Interact with", "Graphical User Interface")
 
 SHOW_LEGEND()
 

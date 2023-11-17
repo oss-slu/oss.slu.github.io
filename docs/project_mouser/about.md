@@ -11,27 +11,28 @@ custom_edit_url: null
 ### Information
 
 - **Source Code:** <https://github.com/oss-slu/Mouser>
-- **Client:** Dr. Karoly Toth, Saint Louis University
+- **Client:** Dr. Karoly Toth
 - **Current Tech Lead:** [Logan Wyas](https://github.com/loganwyas)
 - **Developers:**
 
-  - [Uday Prasad Aitha](https://github.com/aithaprasad) (alumni)
-  - [Tyler Bush](https://github.com/tbush03) (alumni)
-  - [Cori Diaz](https://github.com/coridiaz) (alumni)
   - [Ryan Carmody](https://github.com/rc10283) (capstone)
   - [Andrew Obermiller](https://github.com/aobermiller) (capstone)
   - [Stanley Yang](https://github.com/stanleyyang2001) (capstone)
+  - [Uday Prasad Aitha](https://github.com/aithaprasad) (alumni, previous tech lead)
+  - [Tyler Bush](https://github.com/tbush03) (alumni)
+  - [Cori Diaz](https://github.com/coridiaz) (alumni)
 
-- **Start Date:** July 12, 2022
-- **Adoption Date:** July 12, 2022
+- **Start Date:** July 2022
+- **Adoption Date:** July 2022
 - **Technologies Used:**
   - Python
     - Tkinter
+    - PySerial
   - SQLite
 - **Type:** Desktop
 - **License:** [GNU General Public License v3.0](https://opensource.org/license/gpl-3-0/)
 
-## Users
+## User Guide
 
 Upon running the software, you will first login using the account information you have been given. Then, to get to the main part of the application, click on the "Experiments" button. This will bring you to a page with have a list of experiments and the option to create a new experiment. If chosing to create a new experiment, you will enter in all of the experiment information that is necessary for the application. If you click on one of the experiments, it will bring you to the menu of that experiment. From there, you have the option to map animals with RFID, collect measurement data, and configure animal groups.
 
