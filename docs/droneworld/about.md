@@ -35,6 +35,7 @@ DroneWorld is a platform developed by Dr.Ankit Agrawal and his team for testing 
 
 ## Overview
 Overview of the software architecture.
+![Architecture](DroneWorld%20Architecture.png)
 
 The test scenario uses a testbed, represented by the "DRV Testbed" box. The testbed includes things like sensor models, GPS models, plugins, and shadow models. First, the environment is configured and the tests are defined. The "Configure Environment" and "Configure Application & Define Tests" boxes do this. The environment configuration sets system properties, settings, and features. The application configuration sets drone configuration, simulation settings, and safety/test properties. Once the environment and tests are configured, the test scenario is run using the "Execute Test Scenario" box. The testbed runs the tests and collects monitoring data. The monitoring data comes from monitors that track humans, drones, and the environment. After running the test, the monitoring data is combined and analyzed using the "Consolidate & Analyze Monitoring Data" box. Analyzing the data can diagnose the system under test and generate a test result. The test result is represented by the "Acceptance Test Result" box.
 
