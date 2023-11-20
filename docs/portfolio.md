@@ -19,7 +19,7 @@ We are currently accepting project requests. You can submit your request via thi
 
 <!-- - ![Alt](project_name/100x100.png) **Project Name** One-sentence description of the purpose of the project -->
 - [DADS (Database of Arithmetic Dynamical Systems)](./project_dads/about) - The goal of this project is to create a flexible, web-based, search-driven user interface for a database of arithmetic dynamical systems
-- ![DEER](project_deer/deer_100.jpg) **[Data Entry & Exhibition for Rerum](./deer/about.md)** A designer's framework for non-destructive annotation and template rendering for distributed digital resources and collections.
+- ![DEER](project_deer/deer_100.jpg) **[Data Entry & Exhibition for Rerum](./project_deer/about.md)** A designer's framework for non-destructive annotation and template rendering for distributed digital resources and collections.
 - Drone World
 - Gallery of Glosses
 - MeltShiny
