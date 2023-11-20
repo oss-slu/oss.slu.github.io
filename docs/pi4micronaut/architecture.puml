@@ -1,0 +1,50 @@
+@startuml
+!theme C4_united from https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/themes
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+!define DEVICONS https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons
+!define DEVICONS2 https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2
+!define FONTAWESOME https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome-5
+
+!include DEVICONS2/java.puml
+!include DEVICONS/raspberry_pi.puml
+!include FONTAWESOME/users.puml
+
+
+Person(Developer, "Developer")
+Container(IOT, "IOT Application", "Java", "Application that runs on Raspberry pi", $sprite="java")
+
+System_Boundary(pi4m,"Pi4Micronaut"){
+System(Pi4Micronaut, "Pi4Micronaut", "Library for Raspberry Pi integration, written in Java, offers enhanced IoT capabilities")
+Container(Micronaut, "Micronaut", "Java", "Framework that offers microservice architecture")
+Container(Pi4J, "Pi4J", "Java", "Library for Raspberry Pi, provides easy access to GPIO")
+Container(Jar, "Jar", "", "Java application file", $sprite="java")
+}
+
+
+System_Ext(pi, "RaspberryPi","runs Jar file", raspberry_pi){
+Boundary(GPIO, "GPIO Extension Board"){
+Container(ElecComp, "Electronic Components", "Physical components managed by GPIO calls, react to software commands")
+}
+}
+
+Lay_R(Developer,pi4m)
+Lay_R(Micronaut,Pi4J)
+Lay_D(Pi4J, Pi4Micronaut)
+Lay_D(Pi4J, Pi4Micronaut)
+Lay_D(Pi4Micronaut, Jar)
+Lay_D(Pi4Micronaut, Jar)
+Lay_D(Pi4Micronaut, Jar)
+Lay_D(Pi4Micronaut, Jar)
+Lay_D(Jar, pi)
+
+Rel_R(Micronaut, Pi4J,"")
+Rel(Developer, IOT, "Develops" )
+Rel_R(IOT, Pi4Micronaut , "using", "Gradle/Maven")
+Rel(IOT, pi, "Test Application     .", "SSH")
+Rel(Pi4Micronaut, Jar, "Builds")
+Rel(Pi4Micronaut,Micronaut,"")
+Rel(Pi4Micronaut,Pi4J,"")
+Rel(Jar, pi, "")
+
+SHOW_DYNAMIC_LEGEND()
+@enduml
