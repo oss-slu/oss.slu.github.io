@@ -30,7 +30,7 @@ DEER is a framework for designers to quickly template web components for exhibit
 - **License:** none
 - **Version:** 0.92
 
-## Users
+## User Guide
 
 Instructions for use are available in the [project wiki](https://github.com/CenterForDigitalHumanities/deer/wiki/Using-DEER-in-your-project). 
 Examples can be seen at https://deer.rerum.io.
