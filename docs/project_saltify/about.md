@@ -12,8 +12,8 @@ custom_edit_url: null
 
 - **Source Code:** <https://github.com/oss-slu/SpeechTranscription>
 - **Clients:**
-  - Dr. Elizabeth Roepke
   - Dr. Sara Steele
+  - [Dr. Elizabeth Roepke](https://www.slu.edu/doisy/faculty/roepke-elizabeth.php)
 - **Current Tech Lead:** [Logan Wyas](https://github.com/loganwyas)
 - **Developers:**
 
