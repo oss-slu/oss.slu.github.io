@@ -26,8 +26,8 @@ The Gallery of Glosses is a combination of interfaces that allow non-technical u
   - [Kameron Bustos](https://github.com/KamBustos) (capstone)
   - [Josh Cohen](https://github.com/cohen-j) (capstone)
 
-- **Start Date:** Mar, 2023 
-- **Adoption Date:** Mar, 2023
+- **Start Date:** Aug, 2020 
+- **Adoption Date:** Jul, 2023
 - **Technologies Used:** 
   - HTML5 - CSS - Javascript
   - DEER Framework
