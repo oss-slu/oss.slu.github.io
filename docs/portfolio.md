@@ -23,7 +23,7 @@ We are currently accepting project requests. You can submit your request via thi
 - Drone World
 - Gallery of Glosses
 - MeltShiny
-- Mouser
+- ![Mouser](project_mouser/100x100.png) [**Mouser**](project_mouser/about) - This software is used for tracking the data of animal experiments.
 - **[Pi4Micronaut](./project_pi4micronaut/about.md)** - A Java library crafted for developers who aim to build IoT  applications leveraging the Raspberry Pi platform.
 - Rerum Geolocator
 - Seeing Is Believing
