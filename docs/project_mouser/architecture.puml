@@ -1,0 +1,46 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+!define DEVICONS https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons
+!define DEVICONS2 https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2
+!define FONTAWESOME https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome-5
+!include DEVICONS2/python.puml
+!include DEVICONS/sqllite.puml
+!include FONTAWESOME/file_excel.puml
+!include FONTAWESOME/file_alt.puml
+!include FONTAWESOME/file_word.puml
+!include FONTAWESOME/copy.puml
+!include FONTAWESOME/box_open.puml
+!include FONTAWESOME/microchip.puml
+
+UpdateElementStyle(external_system, $sprite="box_open", $legendText="external package", $shape=RoundedBoxShape())
+UpdateElementStyle(external_person, $sprite="person", $legendText="user")
+UpdateElementStyle(container, $legendText="internal component", $sprite="copy")
+
+AddRelTag("uses", $lineStyle = DashedLine(), $legendText="using package\ndashed")
+
+Person_Ext(users, "End Users")
+
+System_Boundary(c1, "Mouser"){
+   Container(MA, "Mouser Application", "Python", "Tracks the data of animal experiments", $sprite="python")
+   Container(setup, "Setup", "", "Create an experiment and provide the initial information about it", $sprite="file_alt")
+   Container(map, "Map RFID", "", "Input the RFIDs of the animals in the experiment", $sprite="file_excel")
+   Container(data, "Data Collection", "", "Collect measurement data from the animals", $sprite="file_excel")
+   Container(database, "Experiment Database", "SQLite", "Holds the information about the experiment(s)", $sprite="sqllite")
+}
+System_Ext(pyserial, "PySerial", "Uses a computer's serial ports to read data from external devices")
+
+Rel_D(MA, setup, "")
+Rel_D(MA, data, "")
+Rel_D(MA, map, "")
+Rel_D(setup, database, "Writes")
+Rel_D(map, database, "Writes")
+Rel_D(data, database, "Reads/Writes")
+Rel(data, pyserial, "Uses", "Python Library", $tags="uses")
+Rel(map, pyserial, "Uses", "Python Library", $tags="uses")
+Rel_D(users, MA, "Interact with", "Graphical User Interface")
+
+SHOW_LEGEND()
+
+@enduml
