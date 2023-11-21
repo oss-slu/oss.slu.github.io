@@ -29,7 +29,7 @@ We are currently accepting project requests. You can submit your request via thi
 - Seeing Is Believing
 - Shelter Volunteers
 - Speech Tagging
-- Where's Religion Desktop
+- ![Where's Religion Desktop](/project_WR_Desktop/100x100.png) [**Where's Religion**](project_WR_Desktop/about) - Where's Religion Desktop is an enhancement on the mobile version which will have extended features.
 - Where's Religion Mobile
 
 ## Current Internal Service Projects

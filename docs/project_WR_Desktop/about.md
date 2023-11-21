@@ -24,8 +24,8 @@ custom_edit_url: https://github.com/oss-slu/lrda_website
   - Tech Stack: The core technologies include React development and TypeScript for adding static type definitions to JavaScript​​.
   - Key Languages: TypeScript is used along with JavaScript​​​​.
   - Key Frameworks: Next JS is the primary framework for building the app's user interface, and Tailwind CSS for the designing​​.
-  - Databases: While the specific database technologies are not mentioned in the quoted sections, the app connects to the Rerum Website for data integration, which may imply the use of web APIs to interact with backend data storage​​.
-  - Critical Dependencies: Node.js is a runtime requirement for executing the JavaScript code, and the dependency management is handled by pnpm, as indicated by the use of pnpm install and pnpm start commands for setting up the app​​​​​​.
+  - Databases: While the specific database technologies are not mentioned in the quoted sections, the app connects to the Rerum Website for data integration.
+  - Critical Dependencies: Node.js is a runtime requirement for executing the JavaScript code, and the dependency management is handled by pnpm.
 - **Type:** Desktop
 - **License:** [MIT](https://opensource.org/license/mit/)
 
