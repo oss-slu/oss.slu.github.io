@@ -1,5 +1,5 @@
 ---
-title: Where's Religion Mobile application
+title: Where's Religion Desktop application
 custom_edit_url: https://github.com/oss-slu/lrda_website
 ---
 <!-- A header image is optional; if used should be no greater than 200x600 -->
@@ -7,7 +7,7 @@ custom_edit_url: https://github.com/oss-slu/lrda_website
 
 ## Overview
 
-![Alt](100x100.png) Where's Religion? is conceptualized and designed for diverse users with interests in sharing media and notes about their respective encounters with "religion" in everyday places. Nearly all digital humanities scholarship in religion, theology, and adjacent fields perpetuates historical biases of text-based knowledge and media. While texts are no doubt essential to these fields, the premise of Where’s Religion? has been to create tools for acknowledging, analyzing, and interpreting religion as a multisensory and multimodal component of human life, both within faith traditions and beyond them in the fabrics of culture and society. We believe that it is time for our research methodologies to catch up with the realities of human experience and that creating a platform for collecting, organizing, and sharing images, videos, and sounds, along with textual notations, sourced from a wide range of users, is a necessary place to start. We also believe that the resulting collection of materials will be of immense value to American public life.
+ Where's Religion? is conceptualized and designed for diverse users with interests in sharing media and notes about their respective encounters with "religion" in everyday places. Nearly all digital humanities scholarship in religion, theology, and adjacent fields perpetuates historical biases of text-based knowledge and media. While texts are no doubt essential to these fields, the premise of Where’s Religion? has been to create tools for acknowledging, analyzing, and interpreting religion as a multisensory and multimodal component of human life, both within faith traditions and beyond them in the fabrics of culture and society. We believe that it is time for our research methodologies to catch up with the realities of human experience and that creating a platform for collecting, organizing, and sharing images, videos, and sounds, along with textual notations, sourced from a wide range of users, is a necessary place to start. We also believe that the resulting collection of materials will be of immense value to American public life.
 
 ### Information
 
@@ -19,7 +19,7 @@ custom_edit_url: https://github.com/oss-slu/lrda_website
   - [Izak Robles](https://github.com/izakrobles)(capstone)
   - [Josh Hogan](https://github.com/Josh-Hogan-87)(capstone)
 
-  - [Varsith Reddy Legala](https://github.com/VarsithReddyLegala)(volunteer)
+  - [Varsith Reddy Legala](https://github.com/VarsithReddyLegala) (volunteer)
 - **Start Date:** 25 Aug 2023
 - **Adoption Date:** 25 Aug 2023
 - **Technologies Used:** 
