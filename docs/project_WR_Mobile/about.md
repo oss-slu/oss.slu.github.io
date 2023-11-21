@@ -12,8 +12,8 @@ custom_edit_url: https://github.com/oss-slu/lrda_mobile
 ### Information
 
 - **Source Code:** <https://github.com/oss-slu/lrda_mobile>
-- **Client** <!-- Name of the customer, possibly a link (check with them first). -->
-- **Current Tech Lead:** [Yash Bhatia](https://yashb196.github.io/yashb196/, https://github.com/yashb196, https://www.linkedin.com/in/yashbhatia238/.)
+- **Client** Dr.Adam Park
+- **Current Tech Lead:** [Yash Bhatia]([portfolio](https://yashb196.github.io/yashb196/), [github](https://github.com/yashb196), [linkedin](https://www.linkedin.com/in/yashbhatia238/).)
 - **Developers:**
   - [Andrew Chen](https://github.com/AndchooChen) (capstone)
   - [Tom Irvine](https://github.com/irvinet20) (capstone)
@@ -29,10 +29,10 @@ custom_edit_url: https://github.com/oss-slu/lrda_mobile
   - Key Frameworks: React Native is the primary framework for building the app's user interface, and Expo CLI is utilized for running the app during development​​.
   - Databases: While the specific database technologies are not mentioned in the quoted sections, the app connects to the Rerum Website for data integration, which may imply the use of web APIs to interact with backend data storage​​.
   - Critical Dependencies: Node.js is a runtime requirement for executing the JavaScript code, and the dependency management is handled by Yarn, as indicated by the use of yarn install and yarn run start commands for setting up the app​​​​​​.
-- **Type:** {Mobile}
+- **Type:** Mobile
 - **License:** [MIT](https://opensource.org/license/mit/)
 
-## Users
+## User Guide
 
 - End user will log into the application 
 - When logged in there will be an option to either view global notes(notes that other people published) or view an empty page with a + sign at the bottom to add a note 
