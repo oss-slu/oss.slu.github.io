@@ -1,5 +1,5 @@
 ---
-title: Where's Religion Desktop application
+title: Where's Religion Desktop
 custom_edit_url: https://github.com/oss-slu/lrda_website
 ---
 
@@ -11,7 +11,7 @@ custom_edit_url: https://github.com/oss-slu/lrda_website
 
 - **Source Code:** <https://github.com/oss-slu/lrda_website>
 - **Client** Dr.Adam Park
-- **Current Tech Lead:** [Yash Bhatia](https://yashb196.github.io/yashb196/, https://github.com/yashb196, https://www.linkedin.com/in/yashbhatia238/.)
+- **Current Tech Lead:** [Yash Bhatia]([Portfolio](https://yashb196.github.io/yashb196/), [Github](https://github.com/yashb196), [Linkedin](https://www.linkedin.com/in/yashbhatia238/).)
 - **Developers:**
   - [Stuart Ray](https://github.com/Stuartwastaken)(capstone)
   - [Izak Robles](https://github.com/izakrobles)(capstone)
