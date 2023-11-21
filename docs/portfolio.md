@@ -29,8 +29,8 @@ We are currently accepting project requests. You can submit your request via thi
 - Seeing Is Believing
 - Shelter Volunteers
 - ![Alt](project_saltify/100x100.png) [**Speech Tagging**](project_saltify/about) - This software transcribes an audio sample into a written format that is accepted by SALT software.
-- ![Where's Religion Desktop](project_wr_desktop/100x100.png) [**Where's Religion Desktop**](project_wr_desktop/about) - Where's Religion Desktop is an enhancement on the mobile version which will have extended features.
-- ![Where's Religion Mobile](project_wr_mobile/100x100.png) [**Where's Religion Mobile**](project_wr_mobile/about) - This Project is to create an application for ethnographers to capture the events happening around them along with some audio/visual representation of the event.
+- ![Where's Religion Desktop](project_wheres_religion_desktop/100x100.png) [**Where's Religion Desktop**](project_wheres_religion_desktop/about) - Where's Religion Desktop is an enhancement on the mobile version which will have extended features.
+- ![Where's Religion Mobile](project_wheres_religion_mobile/100x100.png) [**Where's Religion Mobile**](project_wheres_religion_mobile/about) - This Project is to create an application for ethnographers to capture the events happening around them along with some audio/visual representation of the event.
 
 ## Current Internal Service Projects
 
