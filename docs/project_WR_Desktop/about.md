@@ -2,8 +2,6 @@
 title: Where's Religion Desktop application
 custom_edit_url: https://github.com/oss-slu/lrda_website
 ---
-<!-- A header image is optional; if used should be no greater than 200x600 -->
-<!--![Header Alt Text](header.png) -->
 
 ## Overview
 
@@ -12,7 +10,7 @@ custom_edit_url: https://github.com/oss-slu/lrda_website
 ### Information
 
 - **Source Code:** <https://github.com/oss-slu/lrda_website>
-- **Client** <!-- Name of the customer, possibly a link (check with them first). -->
+- **Client** Dr.Adam Park
 - **Current Tech Lead:** [Yash Bhatia](https://yashb196.github.io/yashb196/, https://github.com/yashb196, https://www.linkedin.com/in/yashbhatia238/.)
 - **Developers:**
   - [Stuart Ray](https://github.com/Stuartwastaken)(capstone)
@@ -28,10 +26,10 @@ custom_edit_url: https://github.com/oss-slu/lrda_website
   - Key Frameworks: Next JS is the primary framework for building the app's user interface, and Tailwind CSS for the designing​​.
   - Databases: While the specific database technologies are not mentioned in the quoted sections, the app connects to the Rerum Website for data integration, which may imply the use of web APIs to interact with backend data storage​​.
   - Critical Dependencies: Node.js is a runtime requirement for executing the JavaScript code, and the dependency management is handled by pnpm, as indicated by the use of pnpm install and pnpm start commands for setting up the app​​​​​​.
-- **Type:** {Desktop}
+- **Type:** Desktop
 - **License:** [MIT](https://opensource.org/license/mit/)
 
-## Users
+## User Guide
 
 - End user will log into the application 
 - When logged in there will be an option to either view global notes(notes that other people published) or view an empty page with a button on the left "Add Note" which will enable the user to create a note.
@@ -42,7 +40,6 @@ custom_edit_url: https://github.com/oss-slu/lrda_website
 - user can search an entry based on the tags mentioned in the post.
 , and link to the Where's Religion Documentation[detailed user-oriented documentation](https://github.com/oss-slu/lrda_website/blob/main/README.md).
 
-## Technical Information
 
 ## Overview
 Overview of the software architecture.
@@ -52,7 +49,7 @@ Where’s Religion is an open-source mobile and desktop application that support
 
 ## Development Priorities
 
-- There is UI changes required which should follow (ShadCN)[https://github.com/shadcn-ui/ui]
+- There is **user interface** changes are required which should follow (ShadCN)[https://github.com/shadcn-ui/ui]
 - The Pages to add note/edit note should have the functionality to access photos and videos from local systems.
 - The Map Page should be built based on either open street maps or leaflet.
 - The notes should be fetched onto the home page.
