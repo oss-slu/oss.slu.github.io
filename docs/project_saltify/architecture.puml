@@ -1,0 +1,42 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+!define DEVICONS https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons
+!define DEVICONS2 https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2
+!define FONTAWESOME https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome-5
+!include DEVICONS2/python.puml
+!include FONTAWESOME/file_audio.puml
+!include FONTAWESOME/file_alt.puml
+!include FONTAWESOME/file_word.puml
+!include FONTAWESOME/copy.puml
+!include FONTAWESOME/box_open.puml
+
+UpdateElementStyle(external_system, $sprite="box_open", $legendText="external package", $shape=RoundedBoxShape())
+UpdateElementStyle(external_person, $sprite="person", $legendText="user")
+UpdateElementStyle(container, $legendText="internal component", $sprite="copy")
+
+AddRelTag("uses", $lineStyle = DashedLine(), $legendText="using package\ndashed")
+
+Person_Ext(users, "End Users")
+
+System_Boundary(c1, "Saltify"){
+   Container(STA, "Speech Transcription Application", "Python", "Convert audio samples to a written format", $sprite="python")
+   Container(audio, "Audio Manager", "", "analyzes and modifies audio", $sprite="file_audio")
+   Container(transcriber, "Transcriber", "", "transcribes and diarizes audio files", $sprite="file_word")
+   Container(grammar, "Grammar Checker", "", "fixes the grammar and morphemes of text", $sprite="file_alt")
+}
+System_Ext(whisper, "OpenAI Whisper", "Takes audio files and converts them into a transcription")
+System_Ext(pyaudio, "PyAudio", "Plays and records audio files")
+System_Ext(nltk, "Natural Language Toolkit (NLTK)", "Analyzes text, finds errors in grammar, and adds morphemes where necessary")
+
+Rel_D(STA, audio, "transfer audio data")
+Rel_D(STA, transcriber, "transfer transcription text")
+Rel_D(STA, grammar, "modify transcription")
+Rel(transcriber, whisper, "Uses", "Python Library", $tags="uses")
+Rel(audio, pyaudio, "Uses", "Python Library", $tags="uses")
+Rel(grammar, nltk, "Uses", "Python Library", $tags="uses")
+Rel_D(users, STA, "Interact with", "Graphical User Interface")
+
+SHOW_LEGEND()
+@enduml
