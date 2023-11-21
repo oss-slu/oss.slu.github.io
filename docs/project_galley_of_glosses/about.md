@@ -8,7 +8,7 @@ custom_edit_url: null
 
 ## Overview
 
-The Gallery of Glosses is a combination of interfaces that allow non-technical users to perform research and classify Glosses (on-page commentary) from the Gospel of Matthew and other source manuscripts. There is a NextJS interface for the public-facing website bootstrapped with style. This interface can be use by anyone to view infromation ragrading glosse and manuscripts. There is another interface build in React JS which is used by researchers and administration for adding and editing gloss and manuscript information. The data for these interfaces comes from Rerum.
+The Gallery of Glosses is a combination of interfaces that allow non-technical users to perform research and classify Glosses (on-page commentary) from the Gospel of Matthew and other source manuscripts. There is a NextJS interface for the [public-facing website](https://gog-public-site.vercel.app/) bootstrapped with style. This interface can be used by anyone to view information regarding glosses and manuscripts. There is another interface built which is used by researchers and administration for adding and editing gloss and manuscript information. The data for these interfaces is stored in [RERUM](https://rerum.io).
 
 
 ### Information
@@ -29,15 +29,19 @@ The Gallery of Glosses is a combination of interfaces that allow non-technical u
 - **Start Date:** Mar, 2023 
 - **Adoption Date:** Mar, 2023
 - **Technologies Used:** 
-  - React JS
+  - HTML5 - CSS - Javascript
+  - DEER Framework
   - Next JS
-- **Type:** Web applications
+- **Type:** Web Applications
 - **License:** NA
 
 ## Users
 
-**Public Website:** User can visit the application using this [link](https://gog-public-site.vercel.app/).They can read more about the application and other terminology and also can browse through the glosses that are made public.
-**Data entry Website** Researchers can user this website using this [link](https://glossing.rerum.io/) and they need to signin to make any changes. Users can view, add, edit glosses, attch witnesses and manage visibility for the public website.
+**Public Website:** Users can visit the public website using this [link](https://gog-public-site.vercel.app/).  They can read more about the application and glossing terminology as well as browse through the public glosses.
+**Data entry Website** Researchers and contributors can access the data entry application [here](https://glossing.rerum.io/).  Note you must be a registered user and must sign in, as this data entry portal is not public.  Verified users can 
+- view, add, and edit glosses
+- attach and edit witnesses 
+- manage gloss public visibility for the public website
 
 ## Technical Information
 
