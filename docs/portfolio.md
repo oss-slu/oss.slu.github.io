@@ -29,7 +29,7 @@ We are currently accepting project requests. You can submit your request via thi
 - Seeing Is Believing
 - Shelter Volunteers
 - ![Alt](project_saltify/100x100.png) [**Speech Tagging**](project_saltify/about) - This software transcribes an audio sample into a written format that is accepted by SALT software.
-- Where's Religion Desktop
+- ![Where's Religion Desktop](project_wr_desktop/100x100.png) [**Where's Religion**](project_wr_desktop/about) - Where's Religion Desktop is an enhancement on the mobile version which will have extended features.
 - Where's Religion Mobile
 
 ## Current Internal Service Projects
