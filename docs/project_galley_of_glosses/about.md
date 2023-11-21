@@ -37,7 +37,7 @@ The Gallery of Glosses is a combination of interfaces that allow non-technical u
 
 ## Users
 
-**Public Website:** Users can visit the public website using this [link](https://gog-public-site.vercel.app/).  They can read more about the application and glossing terminology as well as browse through the public glosses.
+**Public Website:** Users can visit the public website using this [link](https://gog-public-site.vercel.app/).  They can read more about the application and glossing terminology as well as browse through the public glosses.  
 **Data entry Website** Researchers and contributors can access the data entry application [here](https://glossing.rerum.io/).  Note you must be a registered user and must sign in, as this data entry portal is not public.  Verified users can 
 - view, add, and edit glosses
 - attach and edit witnesses 
