@@ -19,9 +19,10 @@ UpdateElementStyle(external_person, $sprite="person", $legendText="user")
 UpdateElementStyle(container, $legendText="internal component", $sprite="copy")
 
 
-Person_Ext(users, "End Users")
+
 
 Boundary(b1, "MeltShiny"){
+Person_Ext(users, "End Users")
    Container(MA, "MeltShiny Application", "R Language", "This tool facilitates the easy transformation of melting curve data into parameters compatible with MeltWin", $sprite="r")
    Container(lang, "MeltR", "", "MeltShiny's functionality relies on an existing open-source package written in the R programming language called MeltR. Users are provided with automated processing of input files, as well as the automated removal of outliers from both the Van't Hoff plot and the results table. ", $sprite="file_alft")
    Container(server, "Shiny", "Server", "This enables hosting and deploying interactive R Shiny web applications for data visualization and analysis on servers.", $sprite="file_alft")
@@ -29,8 +30,7 @@ Boundary(b1, "MeltShiny"){
 
 Rel_D(MA, lang, "relies on")
 Rel_D(lang, server, "uses")
-Rel_R(users, MA, "Interact with", "Graphical User Interface")
+Rel_D(users, MA, "Interact with", "Graphical User Interface")
 
 SHOW_LEGEND()
-
 @enduml
