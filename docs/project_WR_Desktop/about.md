@@ -2,8 +2,6 @@
 title: Where's Religion Mobile application
 custom_edit_url: https://github.com/oss-slu/lrda_website
 ---
-<!-- A header image is optional; if used should be no greater than 200x600 -->
-<!--![Header Alt Text](header.png) -->
 
 ## Overview
 
@@ -12,7 +10,7 @@ custom_edit_url: https://github.com/oss-slu/lrda_website
 ### Information
 
 - **Source Code:** <https://github.com/oss-slu/lrda_website>
-- **Client** <!-- Name of the customer, possibly a link (check with them first). -->
+- **Client** Dr. Adam Park
 - **Current Tech Lead:** [Yash Bhatia](https://yashb196.github.io/yashb196/, https://github.com/yashb196, https://www.linkedin.com/in/yashbhatia238/.)
 - **Developers:**
   - [Stuart Ray](https://github.com/Stuartwastaken)(capstone)

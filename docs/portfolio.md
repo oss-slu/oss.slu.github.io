@@ -34,9 +34,6 @@ We are currently accepting project requests. You can submit your request via thi
 
 ## Current Internal Service Projects
 
-
-## Current Internal Service Projects
-
 - Inner Peace Time
 - iSpraak
 
