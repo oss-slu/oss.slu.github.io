@@ -3,7 +3,11 @@ title: Where's Religion Desktop
 custom_edit_url: https://github.com/oss-slu/lrda_website
 ---
 
+![alt](100x100.png)
+
 ## Overview
+
+
 
  Where's Religion? is conceptualized and designed for diverse users with interests in sharing media and notes about their respective encounters with "religion" in everyday places. Nearly all digital humanities scholarship in religion, theology, and adjacent fields perpetuates historical biases of text-based knowledge and media. While texts are no doubt essential to these fields, the premise of Where’s Religion? has been to create tools for acknowledging, analyzing, and interpreting religion as a multisensory and multimodal component of human life, both within faith traditions and beyond them in the fabrics of culture and society. We believe that it is time for our research methodologies to catch up with the realities of human experience and that creating a platform for collecting, organizing, and sharing images, videos, and sounds, along with textual notations, sourced from a wide range of users, is a necessary place to start. We also believe that the resulting collection of materials will be of immense value to American public life.
 
@@ -21,11 +25,11 @@ custom_edit_url: https://github.com/oss-slu/lrda_website
 - **Start Date:** 25 Aug 2023
 - **Adoption Date:** 25 Aug 2023
 - **Technologies Used:** 
-  - Tech Stack: The core technologies include React development and TypeScript for adding static type definitions to JavaScript​​.
-  - Key Languages: TypeScript is used along with JavaScript​​​​.
-  - Key Frameworks: Next JS is the primary framework for building the app's user interface, and Tailwind CSS for the designing​​.
-  - Databases: While the specific database technologies are not mentioned in the quoted sections, the app connects to the Rerum Website for data integration.
-  - Critical Dependencies: Node.js is a runtime requirement for executing the JavaScript code, and the dependency management is handled by pnpm.
+  - Tech Stack: React,TypeScript, JavaScript​​.
+  - Key Languages: TypeScript, JavaScript​​​​.
+  - Key Frameworks: Next JS, Tailwind CSS​​.
+  - Databases: Rerum.
+  - Critical Dependencies: Node.js, pnpm.
 - **Type:** Desktop
 - **License:** [MIT](https://opensource.org/license/mit/)
 
