@@ -49,7 +49,7 @@ Where’s Religion is an open-source mobile and desktop application that support
 
 ## Development Priorities
 
-- There is **user interface** changes are required which should follow (ShadCN)[https://github.com/shadcn-ui/ui]
+- There are **user interface** changes are required which should follow (ShadCN)[https://github.com/shadcn-ui/ui]
 - The Pages to add note/edit note should have the functionality to access photos and videos from local systems.
 - The Map Page should be built based on either open street maps or leaflet.
 - The notes should be fetched onto the home page.
