@@ -28,7 +28,7 @@ We are currently accepting project requests. You can submit your request via thi
 - Rerum Geolocator
 - Seeing Is Believing
 - Shelter Volunteers
-- Speech Tagging
+- ![Alt](project_saltify/100x100.png) [**Speech Tagging**](project_saltify/about) - This software transcribes an audio sample into a written format that is accepted by SALT software.
 - Where's Religion Desktop
 - Where's Religion Mobile
 
