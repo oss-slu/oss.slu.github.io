@@ -1,13 +1,14 @@
 ---
-title: Where's Religion Mobile application
+title: Where's Religion Mobile
 custom_edit_url: https://github.com/oss-slu/lrda_mobile
 ---
 <!-- A header image is optional; if used should be no greater than 200x600 -->
 <!--![Header Alt Text](header.png) -->
+![Alt](100x100.png)
 
 ## Overview
 
-![Alt](100x100.png) Where's Religion? is conceptualized and designed for diverse users with interests in sharing media and notes about their respective encounters with "religion" in everyday places. Nearly all digital humanities scholarship in religion, theology, and adjacent fields perpetuates historical biases of text-based knowledge and media. While texts are no doubt essential to these fields, the premise of Where’s Religion? has been to create tools for acknowledging, analyzing, and interpreting religion as a multisensory and multimodal component of human life, both within faith traditions and beyond them in the fabrics of culture and society. We believe that it is time for our research methodologies to catch up with the realities of human experience and that creating a platform for collecting, organizing, and sharing images, videos, and sounds, along with textual notations, sourced from a wide range of users, is a necessary place to start. We also believe that the resulting collection of materials will be of immense value to American public life.
+ Where's Religion? is conceptualized and designed for diverse users with interests in sharing media and notes about their respective encounters with "religion" in everyday places. Nearly all digital humanities scholarship in religion, theology, and adjacent fields perpetuates historical biases of text-based knowledge and media. While texts are no doubt essential to these fields, the premise of Where’s Religion? has been to create tools for acknowledging, analyzing, and interpreting religion as a multisensory and multimodal component of human life, both within faith traditions and beyond them in the fabrics of culture and society. We believe that it is time for our research methodologies to catch up with the realities of human experience and that creating a platform for collecting, organizing, and sharing images, videos, and sounds, along with textual notations, sourced from a wide range of users, is a necessary place to start. We also believe that the resulting collection of materials will be of immense value to American public life.
 
 ### Information
 
@@ -24,11 +25,11 @@ custom_edit_url: https://github.com/oss-slu/lrda_mobile
 - **Start Date:** 20 Feb 2023
 - **Adoption Date:** 20 Feb 2023
 - **Technologies Used:** 
-  - Tech Stack: The core technologies include React Native for cross-platform mobile app development and TypeScript for adding static type definitions to JavaScript​​.
-  - Key Languages: TypeScript is used along with JavaScript, which is compiled by the Expo server​​​​.
-  - Key Frameworks: React Native is the primary framework for building the app's user interface, and Expo CLI is utilized for running the app during development​​.
-  - Databases: While the specific database technologies are not mentioned in the quoted sections, the app connects to the Rerum Website for data integration, which may imply the use of web APIs to interact with backend data storage​​.
-  - Critical Dependencies: Node.js is a runtime requirement for executing the JavaScript code, and the dependency management is handled by Yarn, as indicated by the use of yarn install and yarn run start commands for setting up the app​​​​​​.
+  - Tech Stack: React Native, TypeScript, JavaScript​​.
+  - Key Languages: TypeScript, JavaScript, Expo​​​​.
+  - Key Frameworks: React Native, Expo CLI ​​.
+  - Databases: Rerum.
+  - Critical Dependencies: Node.js, JavaScript, Yarn.
 - **Type:** Mobile
 - **License:** [MIT](https://opensource.org/license/mit/)
 
