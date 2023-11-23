@@ -1,19 +1,19 @@
 ---
-title: Where's Religion Mobile application
+title: Where's Religion Desktop
 custom_edit_url: https://github.com/oss-slu/lrda_website
 ---
-<!-- A header image is optional; if used should be no greater than 200x600 -->
-<!--![Header Alt Text](header.png) -->
+
+![Alt](100x100.png) 
 
 ## Overview
 
-![Alt](100x100.png) Where's Religion? is conceptualized and designed for diverse users with interests in sharing media and notes about their respective encounters with "religion" in everyday places. Nearly all digital humanities scholarship in religion, theology, and adjacent fields perpetuates historical biases of text-based knowledge and media. While texts are no doubt essential to these fields, the premise of Where’s Religion? has been to create tools for acknowledging, analyzing, and interpreting religion as a multisensory and multimodal component of human life, both within faith traditions and beyond them in the fabrics of culture and society. We believe that it is time for our research methodologies to catch up with the realities of human experience and that creating a platform for collecting, organizing, and sharing images, videos, and sounds, along with textual notations, sourced from a wide range of users, is a necessary place to start. We also believe that the resulting collection of materials will be of immense value to American public life.
+Where's Religion? is conceptualized and designed for diverse users with interests in sharing media and notes about their respective encounters with "religion" in everyday places. Nearly all digital humanities scholarship in religion, theology, and adjacent fields perpetuates historical biases of text-based knowledge and media. While texts are no doubt essential to these fields, the premise of Where’s Religion? has been to create tools for acknowledging, analyzing, and interpreting religion as a multisensory and multimodal component of human life, both within faith traditions and beyond them in the fabrics of culture and society. We believe that it is time for our research methodologies to catch up with the realities of human experience and that creating a platform for collecting, organizing, and sharing images, videos, and sounds, along with textual notations, sourced from a wide range of users, is a necessary place to start. We also believe that the resulting collection of materials will be of immense value to American public life.
 
 ### Information
 
 - **Source Code:** <https://github.com/oss-slu/lrda_website>
-- **Client** <!-- Name of the customer, possibly a link (check with them first). -->
-- **Current Tech Lead:** [Yash Bhatia](https://yashb196.github.io/yashb196/, https://github.com/yashb196, https://www.linkedin.com/in/yashbhatia238/.)
+- **Client** Dr. Adam Park
+- **Current Tech Lead:** [Yash Bhatia]([portfolio](https://yashb196.github.io/yashb196/), [github](https://github.com/yashb196), [linkedin](https://www.linkedin.com/in/yashbhatia238/).)
 - **Developers:**
   - [Stuart Ray](https://github.com/Stuartwastaken)(capstone)
   - [Izak Robles](https://github.com/izakrobles)(capstone)
@@ -23,12 +23,12 @@ custom_edit_url: https://github.com/oss-slu/lrda_website
 - **Start Date:** 25 Aug 2023
 - **Adoption Date:** 25 Aug 2023
 - **Technologies Used:** 
-  - Tech Stack: The core technologies include React development and TypeScript for adding static type definitions to JavaScript​​.
-  - Key Languages: TypeScript is used along with JavaScript​​​​.
-  - Key Frameworks: Next JS is the primary framework for building the app's user interface, and Tailwind CSS for the designing​​.
-  - Databases: While the specific database technologies are not mentioned in the quoted sections, the app connects to the Rerum Website for data integration, which may imply the use of web APIs to interact with backend data storage​​.
-  - Critical Dependencies: Node.js is a runtime requirement for executing the JavaScript code, and the dependency management is handled by pnpm, as indicated by the use of pnpm install and pnpm start commands for setting up the app​​​​​​.
-- **Type:** {Desktop}
+  - Tech Stack:  React , TypeScript, JavaScript​​.
+  - Key Languages: TypeScript, JavaScript​​​​.
+  - Key Frameworks: Next JS, Tailwind CSS​.
+  - Databases: Rerum Website​.
+  - Critical Dependencies: Node.js, JavaScript, pnpm​​​​​​.
+- **Type:** Desktop
 - **License:** [MIT](https://opensource.org/license/mit/)
 
 ## Users
@@ -52,7 +52,7 @@ Where’s Religion is an open-source mobile and desktop application that support
 
 ## Development Priorities
 
-- There is UI changes required which should follow (ShadCN)[https://github.com/shadcn-ui/ui]
+- There is user interface changes required which should follow (ShadCN)[https://github.com/shadcn-ui/ui]
 - The Pages to add note/edit note should have the functionality to access photos and videos from local systems.
 - The Map Page should be built based on either open street maps or leaflet.
 - The notes should be fetched onto the home page.
