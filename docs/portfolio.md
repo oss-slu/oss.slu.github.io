@@ -22,7 +22,7 @@ We are currently accepting project requests. You can submit your request via thi
 - ![DEER](project_deer/deer_100.jpg) **[Data Entry & Exhibition for Rerum](project_deer/about)** A designer's framework for non-destructive annotation and template rendering for distributed digital resources and collections.
 - **[Drone World](project_droneworld/about)** - DroneWorld is a platform for testing small unmanned aerial systems (sUAS) applications by simulating realistic test scenarios based on specified requirements.
 - [Gallery of Glosses](./project_gallery_of_glosses/about) - Interfaces to view and manage Glosses. 
-- MeltShiny
+- **[MeltShiny](project_meltshiny/about)** - automates the analysis and visualization of DNA melting curves for researchers in chemistry, biology, and genetics..
 - ![Mouser](project_mouser/100x100.png) [**Mouser**](project_mouser/about) - This software is used for tracking the data of animal experiments.
 - **[Pi4Micronaut](project_pi4micronaut/about)** - A Java library crafted for developers who aim to build IoT  applications leveraging the Raspberry Pi platform.
 - **[Rerum Geolocator](project_rerum_geolocator/about)** - The application enables users to enhance discovery and access to digital resources through geographic visualization and annotation.
