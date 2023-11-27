@@ -1,0 +1,36 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+!define DEVICONS https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons
+!define DEVICONS2 https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2
+!define FONTAWESOME https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome-5
+!include DEVICONS2/python.puml
+!include DEVICONS/sqllite.puml
+!include FONTAWESOME/file_excel.puml
+!include FONTAWESOME/file_alt.puml
+!include FONTAWESOME/file_word.puml
+!include FONTAWESOME/copy.puml
+!include FONTAWESOME/box_open.puml
+!include FONTAWESOME/microchip.puml
+
+UpdateElementStyle(external_system, $sprite="box_open", $legendText="external package", $shape=RoundedBoxShape())
+UpdateElementStyle(external_person, $sprite="person", $legendText="user")
+UpdateElementStyle(container, $legendText="internal component", $sprite="copy")
+
+
+
+
+Boundary(b1, "MeltShiny"){
+Person_Ext(users, "End Users")
+   Container(MA, "MeltShiny Application", "R Language", "This tool facilitates the easy transformation of melting curve data into parameters compatible with MeltWin", $sprite="r")
+   Container(lang, "MeltR", "", "MeltShiny's functionality relies on an existing open-source package written in the R programming language called MeltR. Users are provided with automated processing of input files, as well as the automated removal of outliers from both the Van't Hoff plot and the results table. ", $sprite="file_alft")
+   Container(server, "Shiny", "Server", "This enables hosting and deploying interactive R Shiny web applications for data visualization and analysis on servers.", $sprite="file_alft")
+}
+
+Rel_D(MA, lang, "relies on")
+Rel_D(lang, server, "uses")
+Rel_D(users, MA, "Interact with", "Graphical User Interface")
+
+SHOW_LEGEND()
+@enduml
