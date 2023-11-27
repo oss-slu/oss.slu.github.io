@@ -1,0 +1,39 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+!define DEVICONS https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons
+!define DEVICONS2 https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2
+!define FONTAWESOME https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome-5
+!include DEVICONS2/python.puml
+!include DEVICONS/sqllite.puml
+!include FONTAWESOME/file_excel.puml
+!include FONTAWESOME/file_alt.puml
+!include FONTAWESOME/file_word.puml
+!include FONTAWESOME/copy.puml
+!include FONTAWESOME/box_open.puml
+!include FONTAWESOME/microchip.puml
+
+
+
+Person_Ext(users, "End Users")
+
+Boundary(b1, "Seeing Is Believing"){
+   Container(MA, "Learning Management Tool", "React+NextJS", "Able to practice pronunciation of Spanish words", $sprite="react")
+   Container(setup, "Login/Register", "", "This application offers three distinct user roles: Administrator, Teacher, and Student. Users can register for their respective universities and subsequently login.", $sprite="")
+   Container(map, "Spectogram Views", "", "It is a visual representation of different frequencies in spoken words. It can enhance the understanding and pronunciation of spoken language.", $sprite="")
+   Container(data, "Words Collection", "", "Additional word collection sets can be incorporated and utilized.", $sprite="")
+
+   Container(database, "Database", "Firebase", "Stores information regarding classes, assignments, words and user data", $sprite="")
+}
+
+Rel_D(MA, setup, "require")
+Rel_D(MA, map, "have")
+Rel_D(MA, data, "add")
+Rel_D(setup, database, "Reads/Writes")
+Rel_D(map, database, "Writes")
+Rel_D(data, database, "Reads/Writes")
+Rel_R(users, MA, "Interact with", "Graphical User Interface")
+
+SHOW_LEGEND()
+@enduml
