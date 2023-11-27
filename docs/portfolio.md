@@ -18,15 +18,15 @@ We are currently accepting project requests. You can submit your request via thi
 ## Current Capstone Projects
 
 <!-- - ![Alt](project_name/100x100.png) **Project Name** One-sentence description of the purpose of the project -->
-- [DADS (Database of Arithmetic Dynamical Systems)](./project_dads/about) - The goal of this project is to create a flexible, web-based, search-driven user interface for a database of arithmetic dynamical systems
-- ![DEER](project_deer/deer_100.jpg) **[Data Entry & Exhibition for Rerum](./project_deer/about.md)** A designer's framework for non-destructive annotation and template rendering for distributed digital resources and collections.
+- [DADS (Database of Arithmetic Dynamical Systems)](project_dads/about) - The goal of this project is to create a flexible, web-based, search-driven user interface for a database of arithmetic dynamical systems
+- ![DEER](project_deer/deer_100.jpg) **[Data Entry & Exhibition for Rerum](project_deer/about)** A designer's framework for non-destructive annotation and template rendering for distributed digital resources and collections.
 - Drone World
 - Gallery of Glosses
 - MeltShiny
 - ![Mouser](project_mouser/100x100.png) [**Mouser**](project_mouser/about) - This software is used for tracking the data of animal experiments.
-- **[Pi4Micronaut](./project_pi4micronaut/about.md)** - A Java library crafted for developers who aim to build IoT  applications leveraging the Raspberry Pi platform.
+- **[Pi4Micronaut](project_pi4micronaut/about)** - A Java library crafted for developers who aim to build IoT  applications leveraging the Raspberry Pi platform.
 - Rerum Geolocator
-- Seeing Is Believing
+- **[Seeing Is Believing](project_sib/about)** - An educational learning tool enabling visualizing the pronunciation of Spanish words.
 - Shelter Volunteers
 - ![Alt](project_saltify/100x100.png) [**Speech Tagging**](project_saltify/about) - This software transcribes an audio sample into a written format that is accepted by SALT software.
 - ![Where's Religion Desktop](project_wheres_religion_desktop/100x100.png) [**Where's Religion Desktop**](project_wheres_religion_desktop/about) - Where's Religion Desktop is an enhancement on the mobile version which will have extended features.
