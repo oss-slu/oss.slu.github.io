@@ -25,8 +25,7 @@ We are currently accepting project requests. You can submit your request via thi
 - MeltShiny
 - ![Mouser](project_mouser/100x100.png) [**Mouser**](project_mouser/about) - This software is used for tracking the data of animal experiments.
 - **[Pi4Micronaut](project_pi4micronaut/about)** - A Java library crafted for developers who aim to build IoT  applications leveraging the Raspberry Pi platform.
-- Rerum Geolocator
-- **[Rerum Geolocator](./rerum_geolocator/about.md)** - The application enables users to enhance discovery and access to digital resources through geographic visualization and annotation.
+- **[Rerum Geolocator](project_rerum_geolocator/about)** - The application enables users to enhance discovery and access to digital resources through geographic visualization and annotation.
 - Seeing Is Believing
 - Shelter Volunteers
 - ![Alt](project_saltify/100x100.png) [**Speech Tagging**](project_saltify/about) - This software transcribes an audio sample into a written format that is accepted by SALT software.
