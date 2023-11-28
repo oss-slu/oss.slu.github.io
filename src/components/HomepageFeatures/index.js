@@ -34,14 +34,12 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_data_processing_yrrv.svg").default,
     description: (
       <>
-        <p>We are open to new project requests.  Tell us about your ideas using our{" "}
-        <a href="https://forms.gle/QwJYztXK5VrXG6K38" target="_blank">request form </a>.
-          We are especially interested in projects
-          <ul>
-            <li>supporting SLU researchers,</li>
-            <li>focused on research outcomes,</li>
-            <li>meeting unmet needs.</li>
-          </ul>
+        <p>We are open to new project requests. Learn more on our{" "}
+        <a href="docs/about/software">software request page</a>.<br/>
+          We are especially interested in projects<br/>
+            supporting researchers,<br/>
+            focused on research outcomes,<br/>
+            meeting unmet needs.<br/>
         </p>
       </>
     ),
