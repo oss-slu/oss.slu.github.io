@@ -9,13 +9,13 @@ The application also supports adding a `navPlace` property to IIIF Defined Types
 
 ### Information
 
-- **Source Code:**  https://github.com/CenterForDigitalHumanities/geolocator [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/free/svgs/brands/git-alt.svg" width="25" height="25" />](https://github.com/CenterForDigitalHumanities/geolocator) , https://github.com/CenterForDigitalHumanities/navplace-viewer [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/free/svgs/brands/git-alt.svg" width="25" height="25" />](https://github.com/CenterForDigitalHumanities/navplace-viewer)
-- **Client** Bryan Haberberger [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/free/svgs/brands/github.svg" width="25" height="25" />](https://github.com/thehabes), Patrick Cuba [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/free/svgs/brands/github.svg" width="25" height="25" />](https://github.com/cubap)
-- **Current Tech Lead:** Yashaswini Shivalingaiah [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/free/svgs/brands/github.svg" width="25" height="25" />](https://github.com/yashaswini-slu)  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/free/svgs/brands/linkedin.svg" width="25" height="25" />](https://www.linkedin.com/in/yashaswini-shivalingaiah-467a9652/)
+- **Source Code:**  https://github.com/CenterForDigitalHumanities/geolocator [<img src="/img/git-alt.svg" alt="image" width="25" height="25" />](https://github.com/CenterForDigitalHumanities/geolocator) , https://github.com/CenterForDigitalHumanities/navplace-viewer [<img src="/img/git-alt.svg" alt="image" width="25" height="25" />](https://github.com/CenterForDigitalHumanities/navplace-viewer)
+- **Client** Bryan Haberberger [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/thehabes), Patrick Cuba [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/cubap)
+- **Current Tech Lead:** Yashaswini Shivalingaiah [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/yashaswini-slu)  [<img src="/img/linkedin.svg" alt="image" width="25" height="25" />](https://www.linkedin.com/in/yashaswini-shivalingaiah-467a9652/)
 - **Developers:**
-    - Tony Obradovic [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/free/svgs/brands/github.svg" width="25" height="25" />](https://github.com/tobradovic)
-    - Emily Henken [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/free/svgs/brands/github.svg" width="25" height="25" />](https://github.com/em-henken)
-    - Kyla McMakin [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/free/svgs/brands/github.svg" width="25" height="25" />](https://github.com/kmcmakin00)
+    - Tony Obradovic [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/tobradovic)
+    - Emily Henken [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/em-henken)
+    - Kyla McMakin [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/kmcmakin00)
 - **Start Date:** 30 May 2020
 - **Adoption Date:** 25 Aug 2023
 - **Technologies Used:**
