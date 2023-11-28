@@ -4,9 +4,11 @@ title: Seeing-Is-Believing
 custom_edit_url: https://seeing-is-believing.herokuapp.com/
 ---
 
+![Seeing Is Believing Logo](100x100.jpg)
+
 ## Overview
 
-![Alt](100x100.jpg) The objective of this project is to create an educational learning tool enabling teachers to showcase the pronunciation of Spanish words. Students can use this application to practice pronunciation, observing their improvement through a compilation of spectrograms.
+The objective of this project is to create an educational learning tool enabling teachers to showcase the pronunciation of Spanish words. Students can use this application to practice pronunciation. Students can observe their improvement through a compilation of spectrograms that compare their pronunciations with native speakers' pronunciations.
 
 ### Information
 
@@ -24,7 +26,7 @@ custom_edit_url: https://seeing-is-believing.herokuapp.com/
   - [Carlos Salinas](https://github.com/carlossalinas6) (alumni)
   - [Daniel Mao](https://github.com/danmao1) (alumni)
 
-- **Start Date:** July 2022
+- **Start Date:** January 2015
 - **Adoption Date:** July 2022
 - **Technologies Used:**
   - React

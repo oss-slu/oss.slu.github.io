@@ -8,13 +8,13 @@ DroneWorld is a platform developed by Dr.Ankit Agrawal and his team for testing 
 
 ### Information
 
-- **Source Code:**  https://github.com/oss-slu/DroneWorld [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/git-alt.svg" width="25" height="25" />](https://github.com/oss-slu/DroneWorld)
-- **Client** Dr.Ankit Agrawal [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/ankyAgrawal)
-- **Current Tech Lead:** Yashaswini Shivalingaiah [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/yashaswini-slu)  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="25" height="25" />](https://www.linkedin.com/in/yashaswini-shivalingaiah-467a9652/)
+- **Source Code:**  https://github.com/oss-slu/DroneWorld [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/free/svgs/brands/git-alt.svg" width="25" height="25" />](https://github.com/oss-slu/DroneWorld)
+- **Client** Dr.Ankit Agrawal [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/free/svgs/brands/github.svg" width="25" height="25" />](https://github.com/ankyAgrawal)
+- **Current Tech Lead:** Yashaswini Shivalingaiah [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/free/svgs/brands/github.svg" width="25" height="25" />](https://github.com/yashaswini-slu)  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/free/svgs/brands/linkedin.svg" width="25" height="25" />](https://www.linkedin.com/in/yashaswini-shivalingaiah-467a9652/)
 - **Developers:**
-    - Kaleb Yu [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/kalyus)
-    - Szymon Rostkowski [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/sr259)
-    - Hebron Bekele [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/hebronh)
+    - Kaleb Yu [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/free/svgs/brands/github.svg" width="25" height="25" />](https://github.com/kalyus)
+    - Szymon Rostkowski [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/free/svgs/brands/github.svg" width="25" height="25" />](https://github.com/sr259)
+    - Hebron Bekele [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/free/svgs/brands/github.svg" width="25" height="25" />](https://github.com/hebronh)
 - **Start Date:** 9th Feb 2023
 - **Adoption Date:** 25 Aug 2023
 - **Technologies Used:**

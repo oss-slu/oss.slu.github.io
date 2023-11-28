@@ -49,9 +49,11 @@ mode, that will bypass GetHelp authentication API and allow anyone to run the co
 ## Software Architecture Overview
 
 We defie the context of our software system in the diagram below. Users (volunteers) and shelter staff will access the application through a web browser, and sign-in to their account with their own credentials. Our application relies on GetHelp system for shelter specific data and for authentication.
+
 ![Software Architecture Context Diagram](context.png)
 
 The details of the different containers within our system are shown in the picture below. The user interface of the application (the client side of our system) is written in React. The client side uses GetHelp API to locate nearby shelters. The client side of the application sends requests to sign in, save/retrieve user specific work shift data, and calculate the times when shelters need the most help to our server-side application. The server-side application communicates with the database to read/write user specific data.
+
 ![Software Architecture Container Diagram](container.png)
 
 ## Development Priorities

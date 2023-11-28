@@ -11,9 +11,9 @@ MeltShiny is a software application that automates the analysis and visualizatio
 ### Information
 
 - **Source Code:** <https://github.com/oss-slu/MeltWin2.0>
-- **Clients:** 
+- **Clients:**
   - [Dr. Brent Znosko](https://www.slu.edu/science-and-engineering/academics/chemistry/faculty/brent-znosko.php)
-  - Sebastian Arteaga(Assistant)
+  - Sebastian Arteaga (Assistant)
 - **Current Tech Lead:** [Sailikhita Pulijala](https://github.com/LikhitaPulijala)
 - **Developers:**
 
