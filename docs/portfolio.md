@@ -38,7 +38,7 @@ We are currently accepting project requests. You can submit your request via thi
 
 **[Shelter Volunteers](project_shelter_volunteers/about.md)** - Simplify the process of scheduling work shifts for volunteers, and to give homeless shelters visibility into their upcoming staffing.  
   
-**[Speech Tagging](project_saltify/about** - This software transcribes an audio sample into a written format that is accepted by SALT software.   
+**[Speech Tagging](project_saltify/about)** - This software transcribes an audio sample into a written format that is accepted by SALT software.   
   
 **[Where's Religion Desktop](project_wheres_religion_desktop/about.md)** - Where's Religion Desktop is an enhancement on the mobile version which will have extended features.  
   
