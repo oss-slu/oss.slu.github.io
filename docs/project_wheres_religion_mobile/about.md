@@ -14,7 +14,7 @@ custom_edit_url: https://github.com/oss-slu/lrda_mobile
 
 - **Source Code:** <https://github.com/oss-slu/lrda_mobile>
 - **Client** Dr. Adam Park
-- **Current Tech Lead:** [Yash Bhatia]([portfolio](https://yashb196.github.io/yashb196/), [github](https://github.com/yashb196), [linkedin](https://www.linkedin.com/in/yashbhatia238/).)
+- **Current Tech Lead:** Yash Bhatia [portfolio](https://yashb196.github.io/yashb196/), [github](https://github.com/yashb196), [linkedin](https://www.linkedin.com/in/yashbhatia238/).
 - **Developers:**
   - [Andrew Chen](https://github.com/AndchooChen) (capstone)
   - [Tom Irvine](https://github.com/irvinet20) (capstone)

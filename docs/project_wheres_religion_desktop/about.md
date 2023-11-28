@@ -13,7 +13,7 @@ Where's Religion? is conceptualized and designed for diverse users with interest
 
 - **Source Code:** <https://github.com/oss-slu/lrda_website>
 - **Client** Dr. Adam Park
-- **Current Tech Lead:** [Yash Bhatia]([portfolio](https://yashb196.github.io/yashb196/), [github](https://github.com/yashb196), [linkedin](https://www.linkedin.com/in/yashbhatia238/).)
+- **Current Tech Lead:** Yash Bhatia [portfolio](https://yashb196.github.io/yashb196/), [github](https://github.com/yashb196), [linkedin](https://www.linkedin.com/in/yashbhatia238/).
 - **Developers:**
   - [Stuart Ray](https://github.com/Stuartwastaken)(capstone)
   - [Izak Robles](https://github.com/izakrobles)(capstone)
