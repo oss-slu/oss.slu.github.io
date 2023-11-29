@@ -10,20 +10,20 @@ MeltShiny is a software application that automates the analysis and visualizatio
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/MeltWin2.0>
+- **Source Code:** <https://github.com/oss-slu/MeltWin2.0>[<img src="/img/git-alt.svg" alt="image" width="25" height="25" />](https://github.com/oss-slu/MeltWin2.0)
 - **Clients:**
   - [Dr. Brent Znosko](https://www.slu.edu/science-and-engineering/academics/chemistry/faculty/brent-znosko.php)
   - Sebastian Arteaga (Assistant)
-- **Current Tech Lead:** [Sailikhita Pulijala](https://github.com/LikhitaPulijala)
+- **Current Tech Lead:** Sailikhita Pulijala [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/LikhitaPulijala)
 - **Developers:**
 
-  - [Zohaib Ahmed](https://github.com/zohaib-a-ahmed) (capstone)
-  - [Ethan Gray](https://github.com/ethan-gray-01) (capstone)
-  - [Massimo Evelti](https://github.com/Massi-Papi) (capstone)
-  - [Uday Prasad Aitha](https://github.com/aithaprasad) (alumni, previous tech lead)
-  - [Shlok Patel](https://github.com/shlokpat6) (alumni)
-  - [Colleen Wade](https://github.com/cwade6) (alumni)
-  - [Anthony Hampton](https://github.com/adhampton110) (alumni)
+  - Zohaib Ahmed (capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/zohaib-a-ahmed)
+  - Ethan Gray (capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/ethan-gray-01)
+  - Massimo Evelti (capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/Massi-Papi)
+  - Uday Prasad Aitha (alumni, previous tech lead) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/aithaprasad) 
+  - Shlok Patel (alumni) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/shlokpat6) 
+  - Colleen Wade (alumni) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/cwade6) 
+  - Anthony Hampton (alumni) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/adhampton110) 
 
 - **Start Date:** July 2022
 - **Adoption Date:** July 2022
