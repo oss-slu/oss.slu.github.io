@@ -18,13 +18,13 @@ The Gallery of Glosses is a combination of interfaces that allow non-technical u
   - [Public Website](https://github.com/CenterForDigitalHumanities/Gallery-of-Glosses)
 - **Client** Dr Atria Larson
 - **Current Tech Leads:** 
-  - Bryan Haberberger (Research computing group) [ [GitHub](https://github.com/thehabes) ] [ [LinkedIn](https://www.linkedin.com/in/bryan-haberberger-7033a0b3/) ]
-  - Patrick Cuba (Research computing group) [ [GitHub](https://github.com/cubap) ] [ [LinkedIn](https://www.linkedin.com/in/patrick-cuba-9539334/) ]
-  - Abhilash Kotha (Capstone) [ [GitHub](https://github.com/AbhilashKotha) ] [ [LinkedIn](https://www.linkedin.com/in/abhilashkotha/) ]
+  - Bryan Haberberger (Research computing group)  [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/thehabes)   [<img src="/img/linkedin.svg" alt="image" width="25" height="25" />](https://www.linkedin.com/in/bryan-haberberger-7033a0b3/) 
+  - Patrick Cuba (Research computing group)  [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/cubap)   [<img src="/img/linkedin.svg" alt="image" width="25" height="25" />](https://www.linkedin.com/in/patrick-cuba-9539334/) 
+  - Abhilash Kotha (Capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/AbhilashKotha)   [<img src="/img/linkedin.svg" alt="image" width="25" height="25" />](https://www.linkedin.com/in/abhilashkotha/) 
 - **Developers:**
-  - [Tu Tran](https://github.com/TheTuTran) (capstone)
-  - [Kameron Bustos](https://github.com/KamBustos) (capstone)
-  - [Josh Cohen](https://github.com/cohen-j) (capstone)
+  - Tu Tran (capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/TheTuTran)
+  - Kameron Bustos (capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/KamBustos)
+  - Josh Cohen (capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/cohen-j) 
 
 - **Start Date:** Aug, 2020 
 - **Adoption Date:** Jul, 2023
