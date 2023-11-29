@@ -84,9 +84,9 @@ const config = {
                 docId: 'about/students',
               },
               {
-                label: 'Faculty',
+                label: 'Software Requests',
                 type: 'doc',
-                docId: 'about/faculty',
+                docId: 'about/software',
               },
               {
                 label: 'Community',

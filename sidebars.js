@@ -29,11 +29,11 @@ const sidebars = {
         },
         {
           type: 'doc',
-          id: 'about/students'
+          id: 'about/software'
         },
         {
           type: 'doc',
-          id: 'about/faculty'
+          id: 'about/students'
         },
         {
           type: 'doc',
