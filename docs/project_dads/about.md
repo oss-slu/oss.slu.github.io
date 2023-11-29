@@ -13,16 +13,16 @@ The goal of this project is to create a flexible, web-based, search-driven user 
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/dads>
+- **Source Code:** <https://github.com/oss-slu/dads> [<img src="/img/git-alt.svg" alt="image" width="25" height="25" />](https://github.com/oss-slu/dads)
 - **Client** Dr Benjamin Hutz
-- **Current Tech Lead:** Abhilash Kotha [GitHub](https://github.com/AbhilashKotha)  [LinkedIn](https://www.linkedin.com/in/abhilashkotha/)
+- **Current Tech Lead:** Abhilash Kotha [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/AbhilashKotha)  [<img src="/img/linkedin.svg" alt="image" width="25" height="25" />](https://www.linkedin.com/in/abhilashkotha/)
 - **Developers:**
-  - [Evan Richmond](https://github.com/Evan-Richmond) (capstone)
-  - [Andrew Jelliss](https://github.com/AJelliss) (capstone)
-  - [Louis Rolwes](https://github.com/lRolwes) (capstone)
-  - [Greih Murray](https://github.com/GreihMurray) (alumni)
-  - [Josiah Glyshaw](https://github.com/jglyshaw) (alumni)
-  - [Thomas McGuigan](https://github.com/thomasmcg77) (alumni)
+  - Evan Richmond (capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/Evan-Richmond) 
+  - Andrew Jelliss (capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/AJelliss) 
+  - Louis Rolwes (capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/lRolwes) 
+  - Greih Murray (alumni) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/GreihMurray) 
+  - Josiah Glyshaw (alumni) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/jglyshaw) 
+  - Thomas McGuigan (alumni) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/thomasmcg77) 
 
 - **Start Date:** Mar, 2023 
 - **Adoption Date:** Mar, 2023
