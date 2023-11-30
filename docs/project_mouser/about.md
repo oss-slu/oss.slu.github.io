@@ -10,17 +10,17 @@ custom_edit_url: null
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/Mouser>
+- **Source Code:** <https://github.com/oss-slu/Mouser> [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/Mouser)
 - **Client:** Dr. Karoly Toth
-- **Current Tech Lead:** [Logan Wyas](https://github.com/loganwyas)
+- **Current Tech Lead:** Logan Wyas [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
 - **Developers:**
 
-  - [Ryan Carmody](https://github.com/rc10283) (capstone)
-  - [Andrew Obermiller](https://github.com/aobermiller) (capstone)
-  - [Stanley Yang](https://github.com/stanleyyang2001) (capstone)
-  - [Uday Prasad Aitha](https://github.com/aithaprasad) (alumni, previous tech lead)
-  - [Tyler Bush](https://github.com/tbush03) (alumni)
-  - [Cori Diaz](https://github.com/coridiaz) (alumni)
+  - Ryan Carmody (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rc10283) 
+  - Andrew Obermiller (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aobermiller)
+  - Stanley Yang (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/stanleyyang2001)
+  - Uday Prasad Aitha (alumni, previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aithaprasad)
+  - Tyler Bush (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tbush03) 
+  - Cori Diaz (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/coridiaz) 
 
 - **Start Date:** July 2022
 - **Adoption Date:** July 2022
