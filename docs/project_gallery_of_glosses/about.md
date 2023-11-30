@@ -18,13 +18,13 @@ The Gallery of Glosses is a combination of interfaces that allow non-technical u
   - [Public Website](https://github.com/CenterForDigitalHumanities/Gallery-of-Glosses)
 - **Client** Dr Atria Larson
 - **Current Tech Leads:** 
-  - Bryan Haberberger (Research computing group)  [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/thehabes)   [<img src="/img/linkedin.svg" alt="image" width="25" height="25" />](https://www.linkedin.com/in/bryan-haberberger-7033a0b3/) 
-  - Patrick Cuba (Research computing group)  [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/cubap)   [<img src="/img/linkedin.svg" alt="image" width="25" height="25" />](https://www.linkedin.com/in/patrick-cuba-9539334/) 
-  - Abhilash Kotha (Capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/AbhilashKotha)   [<img src="/img/linkedin.svg" alt="image" width="25" height="25" />](https://www.linkedin.com/in/abhilashkotha/) 
+  - Bryan Haberberger (Research computing group)  [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thehabes)   [<img src="/img/linkedin.svg" alt="LinkedIn" width="25" height="25" />](https://www.linkedin.com/in/bryan-haberberger-7033a0b3/) 
+  - Patrick Cuba (Research computing group)  [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cubap)   [<img src="/img/linkedin.svg" alt="LinkedIn" width="25" height="25" />](https://www.linkedin.com/in/patrick-cuba-9539334/) 
+  - Abhilash Kotha (Capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AbhilashKotha)   [<img src="/img/linkedin.svg" alt="LinkedIn" width="25" height="25" />](https://www.linkedin.com/in/abhilashkotha/) 
 - **Developers:**
-  - Tu Tran (capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/TheTuTran)
-  - Kameron Bustos (capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/KamBustos)
-  - Josh Cohen (capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/cohen-j) 
+  - Tu Tran (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/TheTuTran)
+  - Kameron Bustos (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/KamBustos)
+  - Josh Cohen (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cohen-j)
 
 - **Start Date:** Aug, 2020 
 - **Adoption Date:** Jul, 2023
@@ -35,7 +35,7 @@ The Gallery of Glosses is a combination of interfaces that allow non-technical u
 - **Type:** Web Applications
 - **License:** NA
 
-## Users
+### User Guide
 
 **Public Website:** Users can visit the public website using this [link](https://gog-public-site.vercel.app/).  They can read more about the application and glossing terminology as well as browse through the public glosses.  
 **Data entry Website** Researchers and contributors can access the data entry application [here](https://glossing.rerum.io/).  Note you must be a registered user and must sign in, as this data entry portal is not public.  Verified users can 
@@ -45,12 +45,12 @@ The Gallery of Glosses is a combination of interfaces that allow non-technical u
 
 ## Technical Information
 
-## Overview
+### Technical Overview
 
 Overview of the software architecture.
 ![Software Architecture](architecture.png)
 
-## Development Priorities
+### Development Priorities
 
 - Feature to add a reference to any witness added
 - Add clear instructions for users on all the user forms

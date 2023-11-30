@@ -13,16 +13,16 @@ The goal of this project is to create a flexible, web-based, search-driven user 
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/dads> [<img src="/img/git-alt.svg" alt="image" width="25" height="25" />](https://github.com/oss-slu/dads)
+- **Source Code:** <https://github.com/oss-slu/dads> [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/dads)
 - **Client** Dr Benjamin Hutz
-- **Current Tech Lead:** Abhilash Kotha [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/AbhilashKotha)  [<img src="/img/linkedin.svg" alt="image" width="25" height="25" />](https://www.linkedin.com/in/abhilashkotha/)
+- **Current Tech Lead:** Abhilash Kotha [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AbhilashKotha)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/abhilashkotha/)
 - **Developers:**
-  - Evan Richmond (capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/Evan-Richmond) 
-  - Andrew Jelliss (capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/AJelliss) 
-  - Louis Rolwes (capstone) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/lRolwes) 
-  - Greih Murray (alumni) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/GreihMurray) 
-  - Josiah Glyshaw (alumni) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/jglyshaw) 
-  - Thomas McGuigan (alumni) [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/thomasmcg77) 
+  - Evan Richmond (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Evan-Richmond) 
+  - Andrew Jelliss (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AJelliss) 
+  - Louis Rolwes (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lRolwes) 
+  - Greih Murray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/GreihMurray) 
+  - Josiah Glyshaw (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jglyshaw) 
+  - Thomas McGuigan (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thomasmcg77) 
 
 - **Start Date:** Mar, 2023 
 - **Adoption Date:** Mar, 2023
@@ -33,18 +33,18 @@ The goal of this project is to create a flexible, web-based, search-driven user 
 - **Type:** Web application
 - **License:** [MIT](https://opensource.org/license/mit)
 
-## Users
+### User Guide
 
 Upon launching the web application the users are taken to the Home page of the application where they see information about the application. User needs to click on "Dynamical Systems" page which loads all the systems in the page in a table. User can apply filters based on dimension, degree, class and other attributes. User can also click on a row and can get more information about the selected row. On the right side, user can see a few statistics of the filtered results. 
 
 ## Technical Information
 
-## Overview
+### Technical Overview
 
 Overview of the software architecture.
 ![Software Architecture](architecture.png)
 
-## Development Priorities
+### Development Priorities
 
 - Complete implememting all the existing flters and statistics
 - Interact with a larger set of data

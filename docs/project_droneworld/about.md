@@ -8,13 +8,13 @@ DroneWorld is a platform developed by Dr.Ankit Agrawal and his team for testing 
 
 ### Information
 
-- **Source Code:**  https://github.com/oss-slu/DroneWorld [<img src="/img/git-alt.svg" alt="image" width="25" height="25" />](https://github.com/oss-slu/DroneWorld)
-- **Client** Dr.Ankit Agrawal [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/ankyAgrawal)
-- **Current Tech Lead:** Yashaswini Shivalingaiah [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/yashaswini-slu)  [<img src="/img/linkedin.svg" alt="image" width="25" height="25" />](https://www.linkedin.com/in/yashaswini-shivalingaiah-467a9652/)
+- **Source Code:**  https://github.com/oss-slu/DroneWorld [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/DroneWorld)
+- **Client** Dr.Ankit Agrawal [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ankyAgrawal)
+- **Current Tech Lead:** Yashaswini Shivalingaiah [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashaswini-slu)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/yashaswini-shivalingaiah-467a9652/)
 - **Developers:**
-    - Kaleb Yu [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/kalyus)
-    - Szymon Rostkowski [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/sr259)
-    - Hebron Bekele [<img src="/img/github.svg" alt="image" width="25" height="25" />](https://github.com/hebronh) 
+    - Kaleb Yu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kalyus)
+    - Szymon Rostkowski [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sr259)
+    - Hebron Bekele [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hebronh) 
 - **Start Date:** 9th Feb 2023
 - **Adoption Date:** 25 Aug 2023
 - **Technologies Used:**
@@ -28,18 +28,23 @@ DroneWorld is a platform developed by Dr.Ankit Agrawal and his team for testing 
 - **Type:** Desktop
 - **License:**
 
-## User Guide
+### User Guide
+
 - The user will configure a test scenario through the web interface by specifying details like the number of drones, their sensors, the mission objectives, and the operating environment.
 - The user define critical safety properties that must be monitored during the test, such as minimum separation distance between drones. These properties are based on your system requirements or regulations.
 - DroneWorld generates a detailed test report analyzing the execution. This includes logs, telemetry data, analysis of property violations, and visualizations of key metrics
 
-## Overview
+## Technical Information
+
+### Technical Overview
+
 Overview of the software architecture.
 ![Architecture](DroneWorld%20Architecture.png)
 
 The test scenario uses a testbed, represented by the "DRV Testbed" box. The testbed includes things like sensor models, GPS models, plugins, and shadow models. First, the environment is configured and the tests are defined. The "Configure Environment" and "Configure Application & Define Tests" boxes do this. The environment configuration sets system properties, settings, and features. The application configuration sets drone configuration, simulation settings, and safety/test properties. Once the environment and tests are configured, the test scenario is run using the "Execute Test Scenario" box. The testbed runs the tests and collects monitoring data. The monitoring data comes from monitors that track humans, drones, and the environment. After running the test, the monitoring data is combined and analyzed using the "Consolidate & Analyze Monitoring Data" box. Analyzing the data can diagnose the system under test and generate a test result. The test result is represented by the "Acceptance Test Result" box.
 
-## Development Priorities
+### Development Priorities
+
 - There is UI changes for the displaying the simulation response, which contains image and graphs.
 - Unrealengine implementation for the drone types.
 - Implementing MongoDB for the storing the pre defined values.

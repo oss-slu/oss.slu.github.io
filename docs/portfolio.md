@@ -9,11 +9,8 @@ Open Source with SLU makes open source software that supports research.
 
 ## New Projects
 
-We are currently accepting project requests. You can submit your request via this [Google Form](https://forms.gle/QwJYztXK5VrXG6K38). We will prioritize requests that:
-
-- Come from Saint Louis University
-- Focus on tools that help with specific research goals
-- Will help researchers obtain specific preliminary results
+We are open to new project requests. Learn more on our [software request page](about/software).
+We are especially interested in projects supporting researchers, focused on research outcomes, meeting unmet needs.
 
 ## Current Capstone Projects
 
