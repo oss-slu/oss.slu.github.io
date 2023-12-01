@@ -14,7 +14,7 @@ custom_edit_url: https://github.com/oss-slu/lrda_mobile
 
 - **Source Code:** <https://github.com/oss-slu/lrda_mobile> [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/lrda_mobile)
 - **Client** Dr. Adam Park
-- **Current Tech Lead:** Yash Bhatia [portfolio](https://yashb196.github.io/yashb196/), [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashb196) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/yashbhatia238/).
+- **Current Tech Lead:** [Yash Bhatia](https://yashb196.github.io/yashb196/) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashb196) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/yashbhatia238/)
 - **Developers:**
   - Andrew Chen (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AndchooChen)
   - Tom Irvine (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/irvinet20) 

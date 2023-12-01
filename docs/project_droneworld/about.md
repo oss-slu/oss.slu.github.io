@@ -9,8 +9,8 @@ DroneWorld is a platform developed by Dr.Ankit Agrawal and his team for testing 
 ### Information
 
 - **Source Code:**  https://github.com/oss-slu/DroneWorld [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/DroneWorld)
-- **Client** Dr.Ankit Agrawal [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ankyAgrawal)
-- **Current Tech Lead:** Yashaswini Shivalingaiah [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashaswini-slu)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/yashaswini-shivalingaiah-467a9652/)
+- **Client** [Dr.Ankit Agrawal](https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/ankit-agrawal.php) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ankyAgrawal)
+- **Current Tech Lead:** [Yashaswini Shivalingaiah](https://yashaswinishivalingaiah.com/) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashaswini-slu)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/yashaswini-shivalingaiah-467a9652/)
 - **Developers:**
     - Kaleb Yu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kalyus)
     - Szymon Rostkowski [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sr259)
