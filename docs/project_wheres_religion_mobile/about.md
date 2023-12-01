@@ -33,7 +33,7 @@ custom_edit_url: https://github.com/oss-slu/lrda_mobile
 - **Type:** Mobile
 - **License:** [MIT](https://opensource.org/license/mit/)
 
-## User Guide
+### User Guide
 
 - End user will log into the application 
 - When logged in there will be an option to either view global notes(notes that other people published) or view an empty page with a + sign at the bottom to add a note 
@@ -45,13 +45,14 @@ custom_edit_url: https://github.com/oss-slu/lrda_mobile
 
 ## Technical Information
 
-## Overview
+### Technical Overview
+
 Overview of the software architecture.
 ![Software Architecture](architecture.png)
 
 Where’s Religion is an open-source mobile and desktop application that supports in-person research, remote data entry, media sharing, and mapping. To do this, the mobile app enables users to collect fieldnotes, images, videos, and audio files - all geotagged and timestamped. The desktop companion app provides a more feature-rich format to refine fieldnotes, make new entries, or, for certain user profiles, review or grade other users’ entries. When published, all entries are automatically curated on a publicly available, interactive map with search and filter functions for research. We have conceptualized and designed for students, researchers, and public users to document and share their respective encounters with “religion” in everyday life – all with the intended purpose of democratizing data collection and visualizing religious diversity at scale.
 
-## Development Priorities
+### Development Priorities
 
 - The app does not compile to the web due to a dependency on react-native-maps.
 - In the location data section of a note, an error displaying "NaN" may appear.

@@ -31,7 +31,7 @@ Where's Religion? is conceptualized and designed for diverse users with interest
 - **Type:** Desktop
 - **License:** [MIT](https://opensource.org/license/mit/)
 
-## Users
+### User Guide
 
 - End user will log into the application 
 - When logged in there will be an option to either view global notes(notes that other people published) or view an empty page with a button on the left "Add Note" which will enable the user to create a note.
@@ -44,13 +44,14 @@ Where's Religion? is conceptualized and designed for diverse users with interest
 
 ## Technical Information
 
-## Overview
+### Technical Overview
+
 Overview of the software architecture.
 ![Software Architecture](architecture.png)
 
 Where’s Religion is an open-source mobile and desktop application that supports in-person research, remote data entry, media sharing, and mapping. To do this, the mobile app enables users to collect fieldnotes, images, videos, and audio files - all geotagged and timestamped. The desktop companion app provides a more feature-rich format to refine fieldnotes, make new entries, or, for certain user profiles, review or grade other users’ entries. When published, all entries are automatically curated on a publicly available, interactive map with search and filter functions for research. We have conceptualized and designed for students, researchers, and public users to document and share their respective encounters with “religion” in everyday life – all with the intended purpose of democratizing data collection and visualizing religious diversity at scale.
 
-## Development Priorities
+### Development Priorities
 
 - There is user interface changes required which should follow (ShadCN)[https://github.com/shadcn-ui/ui]
 - The Pages to add note/edit note should have the functionality to access photos and videos from local systems.

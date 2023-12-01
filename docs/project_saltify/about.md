@@ -39,13 +39,13 @@ _Note: careful review by a knowledgeable speech-language pathologist is required
 - **Type:** Desktop
 - **License:** [GNU General Public License v3.0](https://opensource.org/license/gpl-3-0/)
 
-## User Guide
+### User Guide
 
 Upon running the software, you will be given the option to either upload an audio file, or record one yourself. If choosing to upload a file, you can upload either an MP3 or a WAV file. Assuming that the audio is successfully added, you are ready to transcribe it. You will then click the "Transcribe" button to start the transcription process. After the transcribing finishes, the transcription will appear on the screen. You can play the audio file and look over the transcription at the same time, checking if there are any errors. You will then decide whether you want to do manual/automatic grammar checking through the program, or you can let the program add morphemes to the transcription. Once everything with the transcription is complete, you can export the transcription to a Word document.
 
 ## Technical Information
 
-### Overview
+### Technical Overview
 
 Overview of the software architecture.
 ![Software Architecture](architecture.png)

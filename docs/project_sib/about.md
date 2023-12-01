@@ -35,13 +35,13 @@ The objective of this project is to create an educational learning tool enabling
 - **Type:** Web Application
 - **License:** [GNU General Public License v3.0](https://opensource.org/license/gpl-3-0/)
 
-## User Guide
+### User Guide
 
 This application provides login and registration features, offering three distinct roles: Admin, Teacher, and Student. Teachers can manage classes, add homework, and access the words library. Students can practice words, check grades, and view homework assignments. Admins have full access to the entire application, including all modules.
 
 ## Technical Information
 
-### Overview
+### Technical Overview
 
 ![Software Architecture](architecture.png)
 
