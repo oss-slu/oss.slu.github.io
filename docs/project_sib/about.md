@@ -4,27 +4,29 @@ title: Seeing-Is-Believing
 custom_edit_url: https://seeing-is-believing.herokuapp.com/
 ---
 
+![Seeing Is Believing Logo](100x100.jpg)
+
 ## Overview
 
-![Alt](100x100.jpg) The objective of this project is to create an educational learning tool enabling teachers to showcase the pronunciation of Spanish words. Students can use this application to practice pronunciation, observing their improvement through a compilation of spectrograms.
+The objective of this project is to create an educational learning tool enabling teachers to showcase the pronunciation of Spanish words. Students can use this application to practice pronunciation. Students can observe their improvement through a compilation of spectrograms that compare their pronunciations with native speakers' pronunciations.
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/Seeing-is-Believing>
+- **Source Code:** <https://github.com/oss-slu/Seeing-is-Believing> [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/Seeing-is-Believing)
 - **Client:** 
   - [Dr. Christina Garcia](https://www.slu.edu/arts-and-sciences/languages-literatures-cultures/faculty/garcia-christina.php)
-- **Current Tech Lead:** [Sailikhita Pulijala](https://github.com/LikhitaPulijala)
+- **Current Tech Lead:** Sailikhita Pulijala [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/LikhitaPulijala)
 - **Developers:**
 
-  - [Anna Kidwell](https://github.com/akidSLU) (capstone)
-  - [Owen Thomasson](https://github.com/OwenAThomasson) (capstone)
-  - [Miles Monday](https://github.com/mmonday0) (capstone)
-  - [Halima Malik](https://github.com/HalimaMalik) (alumni, previous tech lead)
-  - [Sivaprasad Vishnu](https://github.com/sivaprasadvishnu18) (alumni)
-  - [Carlos Salinas](https://github.com/carlossalinas6) (alumni)
-  - [Daniel Mao](https://github.com/danmao1) (alumni)
+  - Anna Kidwell (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/akidSLU) 
+  - Owen Thomasson (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/OwenAThomasson) 
+  - Miles Monday (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mmonday0) 
+  - Halima Malik (alumni, previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/HalimaMalik) 
+  - Sivaprasad Vishnu (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sivaprasadvishnu18) 
+  - Carlos Salinas (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/carlossalinas6) 
+  - Daniel Mao (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/danmao1) 
 
-- **Start Date:** July 2022
+- **Start Date:** January 2015
 - **Adoption Date:** July 2022
 - **Technologies Used:**
   - React
@@ -33,13 +35,13 @@ custom_edit_url: https://seeing-is-believing.herokuapp.com/
 - **Type:** Web Application
 - **License:** [GNU General Public License v3.0](https://opensource.org/license/gpl-3-0/)
 
-## User Guide
+### User Guide
 
 This application provides login and registration features, offering three distinct roles: Admin, Teacher, and Student. Teachers can manage classes, add homework, and access the words library. Students can practice words, check grades, and view homework assignments. Admins have full access to the entire application, including all modules.
 
 ## Technical Information
 
-### Overview
+### Technical Overview
 
 ![Software Architecture](architecture.png)
 
