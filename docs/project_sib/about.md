@@ -12,19 +12,19 @@ The objective of this project is to create an educational learning tool enabling
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/Seeing-is-Believing>
+- **Source Code:** <https://github.com/oss-slu/Seeing-is-Believing> [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/Seeing-is-Believing)
 - **Client:** 
   - [Dr. Christina Garcia](https://www.slu.edu/arts-and-sciences/languages-literatures-cultures/faculty/garcia-christina.php)
-- **Current Tech Lead:** [Sailikhita Pulijala](https://github.com/LikhitaPulijala)
+- **Current Tech Lead:** Sailikhita Pulijala [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/LikhitaPulijala)
 - **Developers:**
 
-  - [Anna Kidwell](https://github.com/akidSLU) (capstone)
-  - [Owen Thomasson](https://github.com/OwenAThomasson) (capstone)
-  - [Miles Monday](https://github.com/mmonday0) (capstone)
-  - [Halima Malik](https://github.com/HalimaMalik) (alumni, previous tech lead)
-  - [Sivaprasad Vishnu](https://github.com/sivaprasadvishnu18) (alumni)
-  - [Carlos Salinas](https://github.com/carlossalinas6) (alumni)
-  - [Daniel Mao](https://github.com/danmao1) (alumni)
+  - Anna Kidwell (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/akidSLU) 
+  - Owen Thomasson (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/OwenAThomasson) 
+  - Miles Monday (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mmonday0) 
+  - Halima Malik (alumni, previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/HalimaMalik) 
+  - Sivaprasad Vishnu (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sivaprasadvishnu18) 
+  - Carlos Salinas (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/carlossalinas6) 
+  - Daniel Mao (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/danmao1) 
 
 - **Start Date:** January 2015
 - **Adoption Date:** July 2022
