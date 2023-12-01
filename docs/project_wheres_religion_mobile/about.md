@@ -12,16 +12,16 @@ custom_edit_url: https://github.com/oss-slu/lrda_mobile
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/lrda_mobile>
+- **Source Code:** <https://github.com/oss-slu/lrda_mobile> [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/lrda_mobile)
 - **Client** Dr. Adam Park
-- **Current Tech Lead:** Yash Bhatia [portfolio](https://yashb196.github.io/yashb196/), [github](https://github.com/yashb196), [linkedin](https://www.linkedin.com/in/yashbhatia238/).
+- **Current Tech Lead:** Yash Bhatia [portfolio](https://yashb196.github.io/yashb196/), [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashb196) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/yashbhatia238/).
 - **Developers:**
-  - [Andrew Chen](https://github.com/AndchooChen) (capstone)
-  - [Tom Irvine](https://github.com/irvinet20) (capstone)
-  - [Tianhao Wang](https://github.com/SamSam9812) (capstone)
+  - Andrew Chen (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AndchooChen)
+  - Tom Irvine (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/irvinet20) 
+  - Tianhao Wang (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SamSam9812) 
 
-  -[Stuart Ray](https://github.com/Stuartwastaken)(alumni)
-  -[Izak Robles](https://github.com/izakrobles)(alumni)
+  - Stuart Ray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Stuartwastaken)
+  - Izak Robles (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/izakrobles)
 - **Start Date:** 20 Feb 2023
 - **Adoption Date:** 20 Feb 2023
 - **Technologies Used:** 
