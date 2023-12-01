@@ -12,14 +12,14 @@ Homeless shelters rely on volunteers' help. When inclement weather strikes, home
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/shelter_volunteers>
+- **Source Code:** <https://github.com/oss-slu/shelter_volunteers> [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/shelter_volunteers)
 - **Client** Tim Huffman (House Everyone StL)
 - **External Mentors** Women in Technology Group (WWT), GetHelp
-- **Current Tech Lead:** Kate Holdener [GitHub](https://github.com/kate-holdener) [LinkedIn](https://www.linkedin.com/in/kate-holdener-ba032a3/)
+- **Current Tech Lead:** Kate Holdener [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kate-holdener) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/kate-holdener-ba032a3/)
 - **Developers:**
-  - [Abhilash Kotha](https://github.com/AbhilashKotha)
-  - [Logan Wyas](https://github.com/loganwyas)
-  - [Saiteja Gollapalli](https://github.com/Sai9797)
+  - Abhilash Kotha [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AbhilashKotha)
+  - Logan Wyas [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
+  - Saiteja Gollapalli [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Sai9797)
 - **Start Date:** August, 2023
 - **Adoption Date:** August, 2023
 - **Technologies Used:** 
