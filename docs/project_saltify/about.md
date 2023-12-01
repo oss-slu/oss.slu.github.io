@@ -12,20 +12,20 @@ _Note: careful review by a knowledgeable speech-language pathologist is required
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/SpeechTranscription>
+- **Source Code:** <https://github.com/oss-slu/SpeechTranscription> [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/SpeechTranscription)
 - **Clients:**
   - [Dr. Sara Steele](https://www.slu.edu/doisy/faculty/steele-sara.php)
   - [Dr. Elizabeth Roepke](https://www.slu.edu/doisy/faculty/roepke-elizabeth.php)
-- **Current Tech Lead:** [Logan Wyas](https://github.com/loganwyas)
+- **Current Tech Lead:** Logan Wyas [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
 - **Developers:**
 
-  - [Colin Bush](https://github.com/cbush201) (capstone)
-  - [Travis Herrick](https://github.com/TravisHerrick7) (capstone)
-  - [Jack Pifer](https://github.com/JackPifer) (capstone)
-  - [Omar Al Akkad](https://github.com/OmarAlAkkad) (alumni, previous tech lead)
-  - [Sean Gerty](https://github.com/gertysr) (alumni)
-  - [Drew Hediger](https://github.com/ahediger) (alumni)
-  - [Jake Wahle](https://github.com/jakewahle) (alumni)
+  - Colin Bush (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cbush201)
+  - Travis Herrick (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/TravisHerrick7)
+  - Jack Pifer (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/JackPifer)
+  - Omar Al Akkad (alumni, previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/OmarAlAkkad)
+  - Sean Gerty (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/gertysr)
+  - Drew Hediger (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ahediger)
+  - Jake Wahle (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jakewahle) 
 
 - **Start Date:** September 2022
 - **Adoption Date:** September 2022
