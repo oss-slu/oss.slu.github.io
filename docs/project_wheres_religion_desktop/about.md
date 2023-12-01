@@ -11,15 +11,15 @@ Where's Religion? is conceptualized and designed for diverse users with interest
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/lrda_website>
+- **Source Code:** <https://github.com/oss-slu/lrda_website> [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/lrda_website)
 - **Client** Dr. Adam Park
-- **Current Tech Lead:** Yash Bhatia [portfolio](https://yashb196.github.io/yashb196/), [github](https://github.com/yashb196), [linkedin](https://www.linkedin.com/in/yashbhatia238/).
+- **Current Tech Lead:** Yash Bhatia [portfolio](https://yashb196.github.io/yashb196/), [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashb196) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/yashbhatia238/).
 - **Developers:**
-  - [Stuart Ray](https://github.com/Stuartwastaken)(capstone)
-  - [Izak Robles](https://github.com/izakrobles)(capstone)
-  - [Josh Hogan](https://github.com/Josh-Hogan-87)(capstone)
+  - Stuart Ray (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Stuartwastaken)
+  - Izak Robles (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/izakrobles)
+  - Josh Hogan (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Josh-Hogan-87)
 
-  - [Varsith Reddy Legala](https://github.com/VarsithReddyLegala)(volunteer)
+  - Varsith Reddy Legala (volunteer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/VarsithReddyLegala)
 - **Start Date:** 25 Aug 2023
 - **Adoption Date:** 25 Aug 2023
 - **Technologies Used:** 
