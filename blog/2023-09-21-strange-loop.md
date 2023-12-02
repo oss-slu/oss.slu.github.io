@@ -8,7 +8,7 @@ image: ./oss-strange-loop-20230921/1695328700073.jpeg
 hide_table_of_contents: false
 ---
 
-The last Strange loop conference took place in Saint Louis this September and our students got the great opportunity to volunteer for the event. It was a unique experience for our students. 
+The last Strange loop conference took place in Saint Louis this September and our students got the opportunity to volunteer at the event. It was a unique learning experience for the students. 
 
 <!--truncate-->
 
