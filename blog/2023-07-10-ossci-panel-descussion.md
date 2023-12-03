@@ -22,4 +22,4 @@ Students had an incredible time as they had an opportunity to be panelists and o
 
 [Ossci Newsletter](https://medium.com/open-source-science-initiative/st-louis-university-july-10-panel-discussion-accelerating-scientific-discovery-2285eb2bfb60)
 
-![Discussion panel](./oss-ossci-2023/panel.jpg)
+![Discussion panel](./oss-ossci-20230710/panel.jpg)
