@@ -4,7 +4,7 @@ description: Members from Open-Source Science (OSSci) were at Saint Louis Univer
 slug: ossci-panel-discussion
 authors: [daniel]
 tags: [announcement, news]
-image: ./oss-ossci-2023/panel.jpg
+image: ./oss-ossci-20230710/panel.jpg
 hide_table_of_contents: false
 ---
 
