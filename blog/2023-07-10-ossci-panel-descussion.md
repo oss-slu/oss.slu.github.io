@@ -14,7 +14,7 @@ Members from Open-Source Science (OSSci) were at Saint Louis University and our 
 
 **What:** <br/>
 **Who:** [Abhilash Kotha](https://www.linkedin.com/in/abhilashkotha/), student in MS Computer Science and graduate research assistant at Open Source with SLU and [Raju Karmuri](https://www.linkedin.com/in/rajukarmuri731/) alumni and tech lead at Open-Source at SLU were part of the discussion panel<br/>
-**When:** Thursday, September 21 to Friday, September 22 (2 days)<br/>
+**When:** Monday, July 10 <br/>
 **Where:** [Saint Louis University](https://www.slu.edu/admission/visit/index.php)
 **Resources:** [OSSci Website](https://opensource.science/)
 
