@@ -43,8 +43,9 @@ We are especially interested in projects supporting researchers, focused on rese
 
 ## Current Internal Service Projects
 
+**[Ispraak](project_ispraak/about.md)** - This project is to automate speech evaluation of language learners and to provide them with instantaneous corrective feedback.
+
 - Inner Peace Time
-- iSpraak
 
 ## Other Projects
 
