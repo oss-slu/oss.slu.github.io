@@ -12,7 +12,7 @@ The last Strange loop conference took place in Saint Louis this September and ou
 
 <!--truncate-->
 
-**What:** strange Loop Conference<br/>
+**What:** Strange Loop Conference<br/>
 **Who:** [Abhilash Kotha](https://www.linkedin.com/in/abhilashkotha/) and [Sai Likhita Pulijala](https://www.linkedin.com/in/sailikhita-pulijala/), MS students in Computer Science along with a few other students volunteered at the conference<br/>
 **When:** Thursday, September 21 to Friday, September 22 (2 days)<br/>
 **Where:** [Union Station, Saint Louis](https://www.thestrangeloop.com/venue.html)
