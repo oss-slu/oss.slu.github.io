@@ -2,7 +2,7 @@
 title: Global grad Hackathon Ignites Innovation Amongst Future Tech Leaders
 description: 18 teams comprising 58 students put all their programming skills to work for a two-hour hackathon that took place on 27th November at Saint Louis University.
 slug: hackathon
-authors: [daniel]
+authors: [abhilash]
 tags: [announcement, news]
 image: ./hackathon-20231127/participants.JPG
 hide_table_of_contents: false
@@ -16,7 +16,7 @@ hide_table_of_contents: false
 **Who:** [Abhilash Kotha](https://www.linkedin.com/in/abhilashkotha/), student in MS Computer Science and graduate research assistant organized the hackathon in collboration with global grad initiative at SLU<br/>
 **When:** Thursday, September 21 to Friday, September 22 (2 days)<br/>
 **Where:** [Saint Louis University](https://www.slu.edu/admission/visit/index.php)
-**Resources:** [Problem Statement](https://github.com/slu-hackathon-2023/Get-Started)
+**Resources:** [Problem Statement](https://github.com/slu-hackathon-2023/Get-Started), [SLU - Newslink](https://www.slu.edu/news/announcements/2023/december/global-graducate-scholars-hackaton.php)
 
 On Monday the 27th of November, a Hackathon was conducted as part of a project under the Global Grad Initiative. With the support of Dr. Eric Armbrecht, the founding director of the Global Grad initiative, Hackathon was organized by Abhilash Kotha and a dedicated team of 7 other MS students.
 

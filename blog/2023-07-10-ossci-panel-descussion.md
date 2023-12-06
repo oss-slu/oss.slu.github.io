@@ -2,7 +2,7 @@
 title: OSSci Panel Discussion - Accelerating Scientific Discovery
 description: Members from Open-Source Science (OSSci) were at Saint Louis University and our students had an opportunity to be panelists and organizing members for discussion. 
 slug: ossci-panel-discussion
-authors: [daniel]
+authors: [abhilash]
 tags: [announcement, news]
 image: ./oss-ossci-20230710/panel.jpg
 hide_table_of_contents: false
@@ -12,7 +12,7 @@ Members from Open-Source Science (OSSci) were at Saint Louis University and our 
 
 <!--truncate-->
 
-**What:** <br/>
+**What:** Hackathon<br/>
 **Who:** [Abhilash Kotha](https://www.linkedin.com/in/abhilashkotha/), student in MS Computer Science and graduate research assistant at Open Source with SLU and [Raju Karmuri](https://www.linkedin.com/in/rajukarmuri731/) alumni and tech lead at Open-Source at SLU were part of the discussion panel<br/>
 **When:** Monday, July 10 <br/>
 **Where:** [Saint Louis University](https://www.slu.edu/admission/visit/index.php)
