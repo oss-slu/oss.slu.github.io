@@ -1,17 +1,17 @@
 ---
 id: about
-title: Ispraak
+title: iSpraak
 custom_edit_url: null
 ---
 <!-- A header image is optional; if used should be no greater than 200x600 -->
-<!--![Header Alt Text](header.png) -->
+![iSpraak](ispraak.png)
 
 ## Overview
 
 
 ### Information
 
-- **Web URL:** [Ispraak](https://ispraak.net)[<img src="/img/ispraak.png" alt="git" width="60" height="70" />](https://Ispraak.net)
+- **Web URL:** [iSpraak](https://ispraak.net)
 - **Source Code:** [GitHub](https://github.com/dnickol1/ispraak_open/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/dnickol1/ispraak_open/)
 - **Client** [Dr. Dan Nickolai (Director of the Language Resource Center)](https://www.slu.edu/arts-and-sciences/languages-literatures-cultures/faculty/nickolai-dan.php)
 - **Current SDE:** [Chintak Joshi](https://chintakjoshi.github.io/chintakjoshi) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/chintakjoshi) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/chintak-joshi-882260115/)
@@ -24,9 +24,9 @@ custom_edit_url: null
 - **Type:** Web Application
 - **License:** [MIT](https://opensource.org/license/mit)
 
-## Users
+### User Guide
 
-The primary users of Ispraak are educators and students, each with distinct roles and interactions within the platform.
+The primary users of iSpraak are educators and students, each with distinct roles and interactions within the platform.
 
 #### Educators:
 * Create and manage language learning activities.
@@ -45,20 +45,20 @@ The primary users of Ispraak are educators and students, each with distinct role
 Overview of the software architecture.
 ![Software Architecture](architecture.png)
  
-## Software Architecture Overview
+### Software Architecture Overview
 
-Ispraak is a tool designed for educational purposes, focusing on automated speech evaluation to assist language learners with immediate feedback. Its primary users are students and educators. Educators have the ability to create reading activities for their students, with three distinct options for delivering the text: 1) Utilizing a synthetic text-to-speech (TTS) voice, 2) Uploading a custom MP3 audio file, or 3) Recording a new audio prompt directly within the application.
+iSpraak is a tool designed for educational purposes, focusing on automated speech evaluation to assist language learners with immediate feedback. Its primary users are students and educators. Educators have the ability to create reading activities for their students, with three distinct options for delivering the text: 1) Utilizing a synthetic text-to-speech (TTS) voice, 2) Uploading a custom MP3 audio file, or 3) Recording a new audio prompt directly within the application.
 
-When an educator finalizes and submits an activity, Ispraak generates two unique URLs. The first URL is for the educator, allowing them to view all participating students' scores and progress. The second URL is distributed to students, providing them access to undertake the specified activity.
+When an educator finalizes and submits an activity, iSpraak generates two unique URLs. The first URL is for the educator, allowing them to view all participating students' scores and progress. The second URL is distributed to students, providing them access to undertake the specified activity.
 
-Moreover, Ispraak enables educators to monitor and assess each student's progress and academic performance. This is facilitated through the integration of the JPGraph library, which offers graphical representations of student progress and grade analytics.
+Moreover, iSpraak enables educators to monitor and assess each student's progress and academic performance. This is facilitated through the integration of the JPGraph library, which offers graphical representations of student progress and grade analytics.
 
 The application's architecture comprises a frontend developed in JavaScript, a backend powered by PHP, and a MySQL database for data management and storage. This structure ensures a seamless and interactive user experience while maintaining robust data handling and processing capabilities.
 
-## Development Priorities
+### Development Priorities
 
-- Integrating Ispraak with Learning Management Systems (LMS) using the LTI 1.3 Protocol.
-- Enhancing the frontend design of Ispraak for improved user-friendliness and aesthetic appeal.
+- Integrating iSpraak with Learning Management Systems (LMS) using the LTI 1.3 Protocol.
+- Enhancing the frontend design of iSpraak for improved user-friendliness and aesthetic appeal.
 
 ## Get Involved
 
