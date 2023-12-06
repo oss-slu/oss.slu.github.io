@@ -1,0 +1,31 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
+
+LAYOUT_WITH_LEGEND()
+
+' External users
+Person_Ext(teachers, "Teachers", "Create activities, track progress")
+Person_Ext(students, "Students", "Participate in activities")
+
+' System Boundary for ispraak.net
+System_Boundary(ispraak, "ispraak.net Web Application") {
+    ' Internal Systems
+    System(backend, "Backend Server", "Handles logic, audio processing, data management")
+    System(database, "MySQL Database", "Stores user data, activities, grades")
+    System(audioProcessing, "Audio Processing", "TTS, MP3 handling, Recording")
+    System(dataVisualization, "JPGraph", "Visualizes student progress and grades")
+    System(ui, "User Interface", "JavaScript-based frontend for user interaction")
+}
+
+' Relationships
+Rel(teachers, backend, "Submits activities", "Web Interface")
+Rel(students, backend, "Participates in activities", "Web Interface")
+Rel(ui, backend, "Interfaces with")
+Rel(backend, database, "Reads/Writes data")
+Rel(backend, audioProcessing, "Processes audio")
+Rel(audioProcessing, database, "Stores processed audio")
+Rel(teachers, dataVisualization, "Views progress")
+Rel(students, dataVisualization, "Views grades")
+Rel(dataVisualization, database, "Fetches data")
+
+@enduml
