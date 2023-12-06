@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oss-slu.github.io/news/</id>
     <title>Open Source with SLU Blog</title>
-    <updated>2023-09-16T00:00:00.000Z</updated>
+    <updated>2023-09-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oss-slu.github.io/news/"/>
     <subtitle>Open Source with SLU Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Strange Loop Conference]]></title>
+        <id>strange-loop</id>
+        <link href="https://oss-slu.github.io/news/strange-loop"/>
+        <updated>2023-09-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The last Strange loop conference took place in Saint Louis this September and our students got the great opportunity to volunteer for the event. It was a unique experience for our students.]]></summary>
+        <content type="html"><![CDATA[<p>The last Strange loop conference took place in Saint Louis this September and our students got the opportunity to volunteer at the event. It was a unique learning experience for the students. </p><p><strong>What:</strong> Strange Loop Conference<br>
+<strong>Who:</strong> <a href="https://www.linkedin.com/in/abhilashkotha/" target="_blank" rel="noopener noreferrer">Abhilash Kotha</a> and <a href="https://www.linkedin.com/in/sailikhita-pulijala/" target="_blank" rel="noopener noreferrer">Sailikhita Pulijala</a>, MS students in Computer Science along with a few other students volunteered at the conference<br>
+<strong>When:</strong> Thursday, September 21 to Friday, September 22 (2 days)<br>
+<strong>Where:</strong> <a href="https://www.thestrangeloop.com/venue.html" target="_blank" rel="noopener noreferrer">Union Station, Saint Louis</a>
+<strong>Resources:</strong> <a href="https://www.thestrangeloop.com/index.html" target="_blank" rel="noopener noreferrer">Strange Loop Website</a></p><p>Strange Loop is an annual technology conference that gathers innovators,
+researchers, and professionals from diverse fields to explore and discuss emerging
+trends, cutting-edge technologies, and unconventional ideas. The conference held
+in St. Louis, Missouri, featured a wide range of topics, including programming
+languages, web development, artificial intelligence, distributed systems, and more.</p><p>Abhilash Kotha and Sai Likhita Pulijala, second-year Master's students in Computer Science and Research Assistants with Open Source with SLU along with a few other students from the department had an opportunity to attend the event as volunteers. They not only contributed to the success of the event but also gained valuable experience in the process.  The two-day conference was full of opportunities for students. A few students were at the <a href="https://dgtized.github.io/lemniscate/" target="_blank" rel="noopener noreferrer">Lemniscate sculpture</a> created by  <a href="https://annjohnson.art/" target="_blank" rel="noopener noreferrer">Ann Johnson</a> and <a href="https://github.com/dgtized" target="_blank" rel="noopener noreferrer">Charles L.G. Comstock</a> explaining the participants about the sculpture and answering any questions they had. The volunteers also assisted the organizers in distributing the merchandise and facilitating the book signing event on the second day of the event. They were able to connect with representatives from SafeStack, Strava, Swimm, Vonage, Improving, Capital One, Flexiana, John Deere and many other companies about their newest inventions and products.</p><p><img loading="lazy" alt="Abhilash and other students with Charles L.G. Comstock, one of the creators of the strange loop lemniscate sculpture" src="/assets/images/1695328700073-fb60cc3c833cc611c7541173fc5e49d2.jpeg" width="1170" height="878" class="img_ev3q">
+<img loading="lazy" alt="Lemniscate sculpture" src="/assets/images/lemniscate-15e460e63b85e319297d2c026c7689a0.png" width="1124" height="1334" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Abhilash Kotha</name>
+            <uri>https://github.com/AbhilashKotha</uri>
+        </author>
+        <author>
+            <name>Sailikhita Pulijala</name>
+            <uri>https://github.com/LikhitaPulijala</uri>
+        </author>
+        <category label="announcement" term="announcement"/>
+        <category label="news" term="news"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elementary OS Workshop]]></title>
         <id>elementary-os</id>
