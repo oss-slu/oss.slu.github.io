@@ -2,7 +2,7 @@
 title: Strange Loop Conference
 description: The last Strange loop conference took place in Saint Louis this September and our students got the great opportunity to volunteer for the event. It was a unique experience for our students. 
 slug: strange-loop
-authors: [daniel]
+authors: [abhilash,likhita]
 tags: [announcement, news]
 image: ./oss-strange-loop-20230921/1695328700073.jpeg
 hide_table_of_contents: false
@@ -13,7 +13,7 @@ The last Strange loop conference took place in Saint Louis this September and ou
 <!--truncate-->
 
 **What:** Strange Loop Conference<br/>
-**Who:** [Abhilash Kotha](https://www.linkedin.com/in/abhilashkotha/) and [Sai Likhita Pulijala](https://www.linkedin.com/in/sailikhita-pulijala/), MS students in Computer Science along with a few other students volunteered at the conference<br/>
+**Who:** [Abhilash Kotha](https://www.linkedin.com/in/abhilashkotha/) and [Sailikhita Pulijala](https://www.linkedin.com/in/sailikhita-pulijala/), MS students in Computer Science along with a few other students volunteered at the conference<br/>
 **When:** Thursday, September 21 to Friday, September 22 (2 days)<br/>
 **Where:** [Union Station, Saint Louis](https://www.thestrangeloop.com/venue.html)
 **Resources:** [Strange Loop Website](https://www.thestrangeloop.com/index.html)
