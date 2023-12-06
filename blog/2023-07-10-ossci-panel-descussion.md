@@ -2,7 +2,7 @@
 title: OSSci Panel Discussion - Accelerating Scientific Discovery
 description: Members from Open-Source Science (OSSci) were at Saint Louis University and our students had an opportunity to be panelists and organizing members for discussion. 
 slug: ossci-panel-discussion
-authors: [daniel]
+authors: [abhilash]
 tags: [announcement, news]
 image: ./oss-ossci-20230710/panel.jpg
 hide_table_of_contents: false
