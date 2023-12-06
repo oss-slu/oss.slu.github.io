@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oss-slu.github.io/news/</id>
     <title>Open Source with SLU Blog</title>
-    <updated>2023-09-21T00:00:00.000Z</updated>
+    <updated>2023-11-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oss-slu.github.io/news/"/>
     <subtitle>Open Source with SLU Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Global grad Hackathon Ignites Innovation Amongst Future Tech Leaders]]></title>
+        <id>hackathon</id>
+        <link href="https://oss-slu.github.io/news/hackathon"/>
+        <updated>2023-11-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[18 teams comprising 58 students put all their programming skills to work for a two-hour hackathon that took place on 27th November at Saint Louis University.]]></summary>
+        <content type="html"><![CDATA[<p>18 teams comprising 58 students put all their programming skills to work for a two-hour hackathon that took place on 27th November at Saint Louis University.</p><p><strong>What:</strong> <br>
+<strong>Who:</strong> <a href="https://www.linkedin.com/in/abhilashkotha/" target="_blank" rel="noopener noreferrer">Abhilash Kotha</a>, student in MS Computer Science and graduate research assistant organized the hackathon in collboration with global grad initiative at SLU<br>
+<strong>When:</strong> Thursday, September 21 to Friday, September 22 (2 days)<br>
+<strong>Where:</strong> <a href="https://www.slu.edu/admission/visit/index.php" target="_blank" rel="noopener noreferrer">Saint Louis University</a>
+<strong>Resources:</strong> <a href="https://github.com/slu-hackathon-2023/Get-Started" target="_blank" rel="noopener noreferrer">Problem Statement</a></p><p>On Monday the 27th of November, a Hackathon was conducted as part of a project under the Global Grad Initiative. With the support of Dr. Eric Armbrecht, the founding director of the Global Grad initiative, Hackathon was organized by Abhilash Kotha and a dedicated team of 7 other MS students.</p><p>As part of the challenge, all the 18 teams tried to solve a real-time issue of grading scantron answer sheets. Orchestrated with the help of Dr. Kate Holdener and Mr. Daniel Shown, the challenge kept the participants busy for the entire duration. The prize money of $500 will be awarded to the winning team in the coming week once submissions have been reviewed.</p><p>Throughout the day, students collaborated and put their skills to practice, benefiting from the opportunity to solve practical problems and gain hands-on experience. Dr. Holdener and Mr. Shown visited the venue to support the student teams. They interacted with teams and clarified any doubts the students had about the requirements.</p><p>The hackathon concluded with Dr. Armbrecht distributing certificates of participation to the teams and applauding their efforts and engagement. Feedback from participants highlighted appreciation for the practical experience and the motivation they gained from working under such conditions. Describing his experience with the event, one of the participants Ramakanth said,</p><p>“This Hackathon was my first technical competition ever. Throughout the intense 2 hours, I learned so much from my teammates about collaborating under pressure to tackle a complex real-world problem. I am looking forward to more such events”</p><p>Any promising solutions produced as part of the students can potentially be used by Open Source with SLU in building an open source software product that automatically grades scantron answer sheets. </p><p><img loading="lazy" alt="Mr. Daniel Shown explaining the requirements" src="/assets/images/daniel-fa493f96d02a9aaf6e444a7aec74b269.jpg" width="4080" height="3072" class="img_ev3q">
+<img loading="lazy" alt="Abhilash kotha with Dr. Eric armbrecht" src="/assets/images/eric_and_abhilash-acf5ef5d35548978022908a32fe34790.JPG" width="4032" height="3024" class="img_ev3q">
+<img loading="lazy" alt="Participants busy solving the problem" src="/assets/images/participants-db59cae88e77d2a48975178828c2f437.JPG" width="4032" height="3024" class="img_ev3q">
+<img loading="lazy" alt="One of the teams recieving a certificate" src="/assets/images/certificates-25b5881e24c92afe0ee70a73eb75967f.jpg" width="4080" height="3072" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Daniel Shown</name>
+            <uri>https://github.com/kungfuchicken.com</uri>
+        </author>
+        <category label="announcement" term="announcement"/>
+        <category label="news" term="news"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strange Loop Conference]]></title>
         <id>strange-loop</id>
