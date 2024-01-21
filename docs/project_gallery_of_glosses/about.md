@@ -18,8 +18,8 @@ The Gallery of Glosses is a combination of interfaces that allow non-technical u
   - [Public Website](https://github.com/CenterForDigitalHumanities/Gallery-of-Glosses)
 - **Client** Dr Atria Larson
 - **Current Tech Leads:** 
-  - Bryan Haberberger (Research computing group)  [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thehabes)   [<img src="/img/linkedin.svg" alt="LinkedIn" width="25" height="25" />](https://www.linkedin.com/in/bryan-haberberger-7033a0b3/) 
-  - Patrick Cuba (Research computing group)  [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cubap)   [<img src="/img/linkedin.svg" alt="LinkedIn" width="25" height="25" />](https://www.linkedin.com/in/patrick-cuba-9539334/) 
+  - Bryan Haberberger (SLU Research Computing Group staff)  [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thehabes)   [<img src="/img/linkedin.svg" alt="LinkedIn" width="25" height="25" />](https://www.linkedin.com/in/bryan-haberberger-7033a0b3/) 
+  - Patrick Cuba (SLU Research Computing Group staff)  [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cubap)   [<img src="/img/linkedin.svg" alt="LinkedIn" width="25" height="25" />](https://www.linkedin.com/in/patrick-cuba-9539334/) 
   - Abhilash Kotha (Capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AbhilashKotha)   [<img src="/img/linkedin.svg" alt="LinkedIn" width="25" height="25" />](https://www.linkedin.com/in/abhilashkotha/) 
 - **Developers:**
   - Tu Tran (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/TheTuTran)
