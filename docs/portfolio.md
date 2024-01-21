@@ -44,7 +44,9 @@ We are especially interested in projects supporting researchers, focused on rese
 ## Current Internal Service Projects
 
 **[Inner Peace Time](project_innerpeacetime/about.md)** - Inner peace time is a guided meditation app developed to help children and families breathe for calm and find their safe place for LOVE and HEALING.
-- iSpraak
+
+**[iSpraak](project_ispraak/about.md)** - This project is to automate speech evaluation of language learners and to provide them with instantaneous corrective feedback.
+
 
 ## Other Projects
 
