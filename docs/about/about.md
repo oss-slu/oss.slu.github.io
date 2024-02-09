@@ -26,6 +26,7 @@ Graduate students are at the heart of our open-sour​ce program. They work with
 - Logan Wyas
 - Ruthvik Mannem
 - Sailikhita Pulijala
+- Siri Chandana Garimella
 - Yash Kamal Bhatia
 - Yashaswini Shivalingaiah
 
