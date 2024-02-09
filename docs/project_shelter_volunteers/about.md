@@ -17,9 +17,9 @@ Homeless shelters rely on volunteers' help. When inclement weather strikes, home
 - **External Mentors** Women in Technology Group (WWT), GetHelp
 - **Current Tech Lead:** Siri Chandana Garimella [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChandanaGarimella)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/sirichandana-garimella/)
 - **Developers:**
-  - Akhil Vemulapally [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vakhil-98)
-  - Chloe Biddle [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cbiddle3)
-  - Ngoc Yen Nhi Tran [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tnhi26990)
+  - Akhil Vemulapally (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vakhil-98)
+  - Chloe Biddle (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cbiddle3)
+  - Ngoc Yen Nhi Tran (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tnhi26990)
   - Abhilash Kotha (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AbhilashKotha)
   - Logan Wyas (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
   - Saiteja Gollapalli (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Sai9797)
