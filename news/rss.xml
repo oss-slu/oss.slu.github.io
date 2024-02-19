@@ -4,10 +4,24 @@
         <title>Open Source with SLU Blog</title>
         <link>https://oss-slu.github.io/news/</link>
         <description>Open Source with SLU Blog</description>
-        <lastBuildDate>Mon, 27 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Innovation Challenge: Raspberry Pi Application for Research Support]]></title>
+            <link>https://oss-slu.github.io/news/innovation-challenge</link>
+            <guid>innovation-challenge</guid>
+            <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Research labs are filled with real innovation opportunities,  from data acquisition to automation infrastructure. This is your chance to help accelerate discovery.]]></description>
+            <content:encoded><![CDATA[<p>Research labs are filled with real innovation opportunities,  from data acquisition to automation infrastructure. This is your chance to help accelerate discovery.</p><p><img loading="lazy" alt="innovation_challenge" src="/assets/images/innovation_challenge-d7bd90080cfc8ac06206922b2252644f.png" width="1456" height="816" class="img_ev3q"></p><p><strong>What:</strong> $500 Innovation Challenge: <a href="https://www.raspberrypi.org/" target="_blank" rel="noopener noreferrer">Raspberry Pi</a> Application for Research Support<br>
+<strong>Who:</strong> Saint Louis University students<br>
+<strong>When:</strong> Spring 2024<br>
+<strong>Where:</strong> <a href="https://www.slu.edu/admission/visit/index.php" target="_blank" rel="noopener noreferrer">Saint Louis University</a><br>
+<strong>Resources:</strong> <a href="https://forms.gle/r7jb9wb22y1pMqVP9" target="_blank" rel="noopener noreferrer">Sign Up</a></p><p>Get ready to unleash your creativity and make a real impact to SLU research. We're calling all students to participate in a competition to create applications using <a href="https://www.raspberrypi.org/" target="_blank" rel="noopener noreferrer">Raspberry Pi</a> technology. Your creations must be game-changers for real research labs. Some examples are: replacing manual work with a <a href="https://www.raspberrypi.org/" target="_blank" rel="noopener noreferrer">Raspberry Pi</a> based automation, using sensors to collect data, alerting on something, achieving something new, etc.</p><p>Here's how it works:</p><ol><li>Form a Team or Compete Individually</li><li>Identify an Opportunity</li><li><a href="https://forms.gle/r7jb9wb22y1pMqVP9" target="_blank" rel="noopener noreferrer">Propose a Solution</a></li><li>Finalists Announced on <a href="https://www.piday.org/" target="_blank" rel="noopener noreferrer">Pi Day</a></li><li>Build your Solution</li><li>Win Cash and Glory</li></ol><h2 class="anchor anchorWithStickyNavbar_LWe7" id="deadlines">Deadlines<a class="hash-link" href="#deadlines" title="Direct link to heading">​</a></h2><ul><li><a href="https://forms.gle/r7jb9wb22y1pMqVP9" target="_blank" rel="noopener noreferrer">Proposal form submissions</a> are due by 11:59pm on March 4.</li><li>Finalists will be announced on 3.14, <a href="https://www.piday.org/" target="_blank" rel="noopener noreferrer">Pi Day</a>, March 14.</li><li>Project builds must be submitted by April 22.</li><li>Winners will bew announced at the SSE Senior Showcase, April 24.</li></ul>]]></content:encoded>
+            <category>announcement</category>
+            <category>news</category>
+        </item>
         <item>
             <title><![CDATA[Global grad Hackathon Ignites Innovation Amongst Future Tech Leaders]]></title>
             <link>https://oss-slu.github.io/news/hackathon</link>
