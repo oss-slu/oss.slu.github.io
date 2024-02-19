@@ -4,7 +4,7 @@ description: OSS workshop about open source alternatives to everyday tools was c
 slug: os-alternatives-workshop
 authors: [likhita]
 tags: [announcement, news]
-image: ./oss-atc-20230915/20230915_003.jpg
+image: ./os-alternatives-20240219/2024-02-19-4.png
 hide_table_of_contents: false   
 ---
 
