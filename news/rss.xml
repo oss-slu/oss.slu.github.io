@@ -4,10 +4,20 @@
         <title>Open Source with SLU Blog</title>
         <link>https://oss-slu.github.io/news/</link>
         <description>Open Source with SLU Blog</description>
-        <lastBuildDate>Mon, 19 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[What's cooking at Open Source with SLU]]></title>
+            <link>https://oss-slu.github.io/news/pi4micronaut</link>
+            <guid>pi4micronaut</guid>
+            <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[We are coming up with a special recipe on the occasion of Pi Day i.e,. on March 14.]]></description>
+            <content:encoded><![CDATA[<p>We are coming up with a special recipe on the occasion of Pi Day, March 14.</p><p>Have you ever heard about Pi Day? Let me summarize it for you.</p><p><i>Pi Day is an annual celebration of the mathematical constant π. Pi Day is observed on March 14 since 3, 1, and 4 are the first three significant figures of π.</i></p><p>Here is a fun fact: March 14th is Albert Einstein's Birthday! One of science's greatest minds.</p><p>People across the world celebrate Pi Day by eating pie, hosting fun events, and holding community gatherings related to STEM. But what does this have to do with us? Well, we are contributing our special recipe to Raspberry Pi community.</p><p>We are coming up with a big announcement on Pi Day related to <a href="https://github.com/oss-slu/Pi4Micronaut" target="_blank" rel="noopener noreferrer">Pi4Micronaut</a>.</p><p><strong>Stay Tuned!</strong></p><p><img loading="lazy" alt="Baking at Open Source with SLU" src="/assets/images/baking@oss-slu-78173fe77e688bdef28644b09a33fac7.png" width="2938" height="1959" class="img_ev3q"></p>]]></content:encoded>
+            <category>announcement</category>
+            <category>news</category>
+        </item>
         <item>
             <title><![CDATA[Exploring Open-Source Alternatives to Everyday IT Tools]]></title>
             <link>https://oss-slu.github.io/news/os-alternatives-workshop</link>

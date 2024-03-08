@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oss-slu.github.io/news/</id>
     <title>Open Source with SLU Blog</title>
-    <updated>2024-02-19T00:00:00.000Z</updated>
+    <updated>2024-03-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oss-slu.github.io/news/"/>
     <subtitle>Open Source with SLU Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[What's cooking at Open Source with SLU]]></title>
+        <id>pi4micronaut</id>
+        <link href="https://oss-slu.github.io/news/pi4micronaut"/>
+        <updated>2024-03-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are coming up with a special recipe on the occasion of Pi Day i.e,. on March 14.]]></summary>
+        <content type="html"><![CDATA[<p>We are coming up with a special recipe on the occasion of Pi Day, March 14.</p><p>Have you ever heard about Pi Day? Let me summarize it for you.</p><p><i>Pi Day is an annual celebration of the mathematical constant π. Pi Day is observed on March 14 since 3, 1, and 4 are the first three significant figures of π.</i></p><p>Here is a fun fact: March 14th is Albert Einstein's Birthday! One of science's greatest minds.</p><p>People across the world celebrate Pi Day by eating pie, hosting fun events, and holding community gatherings related to STEM. But what does this have to do with us? Well, we are contributing our special recipe to Raspberry Pi community.</p><p>We are coming up with a big announcement on Pi Day related to <a href="https://github.com/oss-slu/Pi4Micronaut" target="_blank" rel="noopener noreferrer">Pi4Micronaut</a>.</p><p><strong>Stay Tuned!</strong></p><p><img loading="lazy" alt="Baking at Open Source with SLU" src="/assets/images/baking@oss-slu-78173fe77e688bdef28644b09a33fac7.png" width="2938" height="1959" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Ruthvik Mannem</name>
+            <uri>https://github.com/ruthvikm</uri>
+        </author>
+        <category label="announcement" term="announcement"/>
+        <category label="news" term="news"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring Open-Source Alternatives to Everyday IT Tools]]></title>
         <id>os-alternatives-workshop</id>
