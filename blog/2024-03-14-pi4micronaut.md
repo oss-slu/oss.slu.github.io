@@ -1,7 +1,7 @@
 ---
 title: Pi4Micronaut - A new recipe from Open Source with SLU
 description: Is it a 'Pi'e? Yes, we made a recipe named **Pi4Micronaut** with the base of Java using the ingredients like Micronaut and Pi4J. This is baked at Open Source with SLU research lab and served hot on a Raspberry Pi. Confused? Let me explain what is this all about.
-slug: pi4micronaut
+slug: blog_pi4micronaut
 authors: [ruthvik]
 tags: [announcement, news]
 image: ./pi4micronaut-20240314/Baking_Pi4Micronaut.png
