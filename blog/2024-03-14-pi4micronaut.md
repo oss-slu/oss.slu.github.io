@@ -1,16 +1,16 @@
 ---
-title: Pi4Micronaut - A new recipe from Open Source - SLU
-description: Is it a 'Pi'e? Yes, we made a recipe named **Pi4Micronaut** with the base of Java using the ingredients like Micronaut and Pi4J. This is baked at Open Source - SLU research lab and served hot on a Raspberry Pi. Confused? Let me explain what is this all about.
+title: Pi4Micronaut - A new recipe from Open Source with SLU
+description: Is it a 'Pi'e? Yes, we made a recipe named **Pi4Micronaut** with the base of Java using the ingredients like Micronaut and Pi4J. This is baked at Open Source with SLU research lab and served hot on a Raspberry Pi. Confused? Let me explain what is this all about.
 slug: pi4micronaut
 authors: [ruthvik]
 tags: [announcement, news]
-image: ./pi4micronaut-20240305/Baking_Pi4Micronaut.png
+image: ./pi4micronaut-20240314/Baking_Pi4Micronaut.png
 hide_table_of_contents: false
 ---
 
-Is it a 'Pi'e? Yes, we made a recipe named **Pi4Micronaut** with the base of Java using the ingredients like Micronaut and Pi4J. This is baked at Open Source - SLU research lab and served hot on a Raspberry Pi. Confused? Let me explain what is this all about.
+Is it a 'Pi'e? Yes, we made a recipe named **Pi4Micronaut** with the base of Java using the ingredients like Micronaut and Pi4J. This is baked at Open Source with SLU research lab and served hot on a Raspberry Pi. Confused? Let me explain what is this all about.
 
-![Baking Pi4Micronaut at Open Source SLU](./pi4micronaut-20240305/Baking_Pi4Micronaut.png)
+![Baking Pi4Micronaut at Open Source with SLU](./pi4micronaut-20240314/Baking_Pi4Micronaut.png)
 
 <!--truncate-->
 
@@ -22,7 +22,7 @@ Pi4Micronaut is versatile and can be employed in various real-world scenarios. S
 - Educational Purposes
 
 ## How this is started?
-This project came to life with the collaboration of Open Source-SLU and Unity Foundation. Working with electronic components on the Raspberry Pi using Java has its challenges. Pi4Micronaut aims to address these challenges by providing  an efficient way for Java developers to interface with hardware connected through GPIO extension board.
+This project came to life with the collaboration of Open Source with SLU and Unity Foundation. Working with electronic components on the Raspberry Pi using Java has its challenges. Pi4Micronaut aims to address these challenges by providing  an efficient way for Java developers to interface with hardware connected through GPIO extension board.
 
 ## Why should you use Pi4Micronaut?
 It's hard to write functionalities for an electronic components like lcd's, RFID's etc., that you want to control them using your software. We took that hardest part of the job on us and providing you the functionalities of them to directly integrate with your code.
@@ -63,12 +63,12 @@ You are most welcome! Whether you're a hobbyist or a professional, explore the p
 Ready to get started? Visit the Pi4Micronaut [GitHub](https://github.com/oss-slu/Pi4Micronaut) repository for [documentation](https://oss-slu.github.io/Pi4Micronaut/), code samples, and more. Your feedback and contributions are highly valued!
 
 ## Our Community
-- Thanking Dr. Kate Holdener and Daniel Shown from Open Source - SLU for taking up this initiative.
+- Thanking Dr. Kate Holdener and Daniel Shown from Open Source with SLU for taking up this initiative.
 - Thanking Jeff Brown and Jen Weise from Unity Foundation for providing the technical support whenever required.
-- Thanks to our Developers here at Open Source-SLU, community, contributors, and supporters who have made Pi4Micronaut possible.
+- Thanks to our Developers here at Open Source with SLU, community, contributors, and supporters who have made Pi4Micronaut possible.
 
-![Pi4Micronaut Team](./pi4micronaut-20240305/pi4micronaut_team.jpg)
+![Pi4Micronaut Team](./pi4micronaut-20240314/pi4micronaut_team.jpg)
 
-![Pi4Micronaut Team Working](./pi4micronaut-20240305/pi4micronaut_team_working.jpg)
+![Pi4Micronaut Team Working](./pi4micronaut-20240314/pi4micronaut_team_working.jpg)
 
 ### Let's build a future where interacting with electronic components on the Raspberry Pi is simpler and more enjoyable!!
