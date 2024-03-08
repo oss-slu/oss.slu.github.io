@@ -8,17 +8,20 @@ image: ./pi4micronaut-20240307/baking@oss-slu.png
 hide_table_of_contents: false
 ---
 
-We are coming up with a special recipe on the occasion of Pi Day i.e,. on March 14.
+We are coming up with a special recipe on the occasion of Pi Day, March 14.
 
 <!--truncate-->
 
 Have you ever heard about Pi Day? Let me summarize it for you.
 
-<i>Pi Day is an annual celebration of the mathematical constant π. Pi Day is observed on March 14 since 3, 1, and 4 are the first three significant figures of π.</i>
+<p><i>Pi Day is an annual celebration of the mathematical constant π. Pi Day is observed on March 14 since 3, 1, and 4 are the first three significant figures of π.</i></p>
+
 
 Here is a fun fact: March 14th is Albert Einstein's Birthday! One of science's greatest minds.
 
 People across the world celebrate Pi Day by eating pie, hosting fun events, and holding community gatherings related to STEM. But what does this have to do with us? Well, we are contributing our special recipe to Raspberry Pi community.
+
+We are coming up with a big announcement on Pi Day related to [Pi4Micronaut](https://github.com/oss-slu/Pi4Micronaut).
 
 **Stay Tuned!**
 
