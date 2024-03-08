@@ -1,6 +1,6 @@
 ---
 title: What's cooking at Open Source with SLU
-description: We are coming up with a special recipe on the occasion of Pi Day i.e,. on March 14.
+description: We are coming up with a special recipe on the occasion of Pi Day, March 14.
 slug: pi4micronaut
 authors: [ruthvik]
 tags: [announcement, news]
