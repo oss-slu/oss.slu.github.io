@@ -14,7 +14,7 @@ We are coming up with a special recipe on the occasion of Pi Day i.e,. on March 
 
 Have you ever heard about Pi Day? Let me summarize it for you.
 
-</i>Pi Day is an annual celebration of the mathematical constant π. Pi Day is observed on March 14 since 3, 1, and 4 are the first three significant figures of π.</i>
+<i>Pi Day is an annual celebration of the mathematical constant π. Pi Day is observed on March 14 since 3, 1, and 4 are the first three significant figures of π.</i>
 
 Here is a fun fact: March 14th is Albert Einstein's Birthday! One of science's greatest minds.
 
