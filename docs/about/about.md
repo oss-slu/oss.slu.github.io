@@ -8,9 +8,10 @@ Open Source with SLU was established to help SLU researchers with their custom s
 
 ## Leadership Team
 
-### Daniel Shown
-
-Daniel Shown is the Program Director of the Open Source with SLU program. He handles the program's daily operations, builds connections with industry partners, works with internal and external clients of the program, and guides and supports our graduate students. Daniel's focus is to ensure that the program follows its mission of research support, commitment to open-source, and providing students with relevant software development experience.
+<div style="text-align: center; margin-top: 20px;">
+    <img src="../static/img/daniel.jpg" alt="Daniel Shown - Program Director" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+    <p>Daniel Shown is the Program Director of the Open Source with SLU program. He handles the program's daily operations, builds connections with industry partners, works with internal and external clients of the program, and guides and supports our graduate students. Daniel's focus is to ensure that the program follows its mission of research support, commitment to open-source, and providing students with relevant software development experience.</p>
+</div>
 
 ### Kate Holdener, Ph.D.
 
@@ -22,13 +23,35 @@ Graduate students are at the heart of our open-sour​ce program. They work with
 
 ### Current Graduate Assistant Team Leads
 
-- Abhilash Kotha
-- Logan Wyas
-- Ruthvik Mannem
-- Sailikhita Pulijala
-- Siri Chandana Garimella
-- Yash Kamal Bhatia
-- Yashaswini Shivalingaiah
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+    <div style="text-align: center;">
+        <img src="../static/img/abhilash_avatar.jpg" alt="Abhilash Kotha - Current Graduate Assistant Team Lead" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+        <p>Abhilash Kotha</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="../static/img/LoganWyas.jpg" alt="Logan Wyas - Current Graduate Assistant Team Lead" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+        <p>Logan Wyas</p>
+    </div>
+     <div style="text-align: center;">
+        <img src="../static/img/ruthvik_avatar.jpg" alt="Ruthvik Mannem - Graduate Assistant Team Lead" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+        <p>Ruthvik Mannem</p>
+    </div>
+     <div style="text-align: center;">
+        <img src="../static/img/likhita-avatar.jpg" alt="Sailikhita Pulijala - Graduate Assistant Team Lead" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+        <p>Sailikhita Pulijala</p>
+    </div>
+     <div style="text-align: center;">
+        <img src="../static/img/SiriChandana.jpg" alt="Siri Chandana Garimella - Graduate Assistant Team Lead" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+        <p>Siri Chandana Garimella</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="../static/img/Yash.jpg" alt="Yash Kamal Bhatia - Graduate Assistant Team Lead" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+        <p>Yash Kamal Bhatia</p>
+    </div>
+     <div style="text-align: center;">
+        <img src="path/to/Yashaswini.jpg" alt="Yashaswini Shivalingaiah - Graduate Assistant Team Lead" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+        <p>Yashaswini Shivalingaiah</p>
+    </div>
 
 ### Previous Graduate Assistant Team Leads
 
