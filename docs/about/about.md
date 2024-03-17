@@ -37,7 +37,7 @@ Graduate students are at the heart of our open-sour​ce program. They work with
     </div>
 <div className="techLead">
 <a href = "https://github.com/loganwyas">
-    <img src="/img/logan.jpg" alt="Logan Wyas - Graduate Assistant Team Lead" className="teamLeadImage"/>
+    <img src="/img/logan_avatar.jpg" alt="Logan Wyas - Graduate Assistant Team Lead" className="teamLeadImage"/>
         <p>Logan Wyas</p>
         </a>
     </div>
@@ -55,7 +55,7 @@ Graduate students are at the heart of our open-sour​ce program. They work with
     </div>
     <div className="techLead">
     <a href="https://github.com/SiriChandanaGarimella">
-    <img src="/img/chandana.jpg" alt="Siri Chandana Garimella - Graduate Assistant Team Lead" className="teamLeadImage"/>
+    <img src="/img/siri_avatar.jpg" alt="Siri Chandana Garimella - Graduate Assistant Team Lead" className="teamLeadImage"/>
         <p>Siri Chandana Garimella</p>
         </a>
     </div>
