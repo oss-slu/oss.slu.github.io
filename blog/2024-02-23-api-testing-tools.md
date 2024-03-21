@@ -1,7 +1,7 @@
 ---
 title: The Pioneers of API Testing - Embracing Open Source Tools
 description: List of FOSS API tools that are used in testing REST calls.
-slug: api-testit-tools-workshop
+slug: api-testing-tools-workshop
 authors: [likhita]
 tags: [announcement, news]
 hide_table_of_contents: false
