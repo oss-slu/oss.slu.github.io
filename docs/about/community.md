@@ -18,7 +18,7 @@ Join the conversation in the Open Source with SLU [Slack workspace](https://join
 * Add your name to the Contributors list.
 * After making five contributions, you can be added to the `oss-slu` team in GitHub by contacting one of the program staff.
 
-## Getting Startted
+## Getting Started
 
 The success of our projects depends on active involvement. Anyone interested in getting involved with Open Source with SLU projects can sign up by opening a [Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) on the [contributors](contributors.md) page in this website. The PR will be merged when the Pull Request includes a link to a merged ticket from a project in the [portfolio](../portfolio.md) that they made contribution to, and the PR has been approved by the current tech lead on that project.
 
