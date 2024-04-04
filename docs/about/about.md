@@ -85,7 +85,7 @@ Graduate students are at the heart of our open-sour​ce program. They work with
     </div>
 <div className="techLead">
 <a href = "https://github.com/chintakjoshi">
-    <img src="/img/chintak_avatar.jpeg" alt="Chintak Joshi - Individial Developer" className="teamLeadImage"/>
+    <img src="/img/chintak_avatar1.JPG" alt="Chintak Joshi - Individial Developer" className="teamLeadImage"/>
         <p>Chintak Joshi</p>
         </a>
     </div>
@@ -131,7 +131,7 @@ Staff from Saint Louis University's Research Computing Group have been key partn
 ### Patrick Cuba
 
 <div className="Lead">
-    <img src="/img/patrick_avatar.png" alt="Patrick Cuba - IT Architect" className="LeadImage"/>
+    <img src="/img/patrick_avatar1.jpg" alt="Patrick Cuba - IT Architect" className="LeadImage"/>
 </div>
 
 
