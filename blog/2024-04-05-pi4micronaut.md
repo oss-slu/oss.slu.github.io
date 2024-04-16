@@ -1,7 +1,7 @@
 ---
-title: Pi4Micronaut - A new recipe from Open Source with SLU
+title: Pi4Micronaut Presentation
 description: Pi4Micronaut, a library by Open Source with SLU for Micronaut, enables development on Raspberry Pi. Version 1.0 was released in the Maven repository on Pi Day.
-slug: blog_pi4micronaut
+slug: blog_presentation_pi4micronaut
 authors: [Yash Kamal Bhatia]
 tags: [announcement, news]
 image: ./pi4micronaut-20240314/Baking_Pi4Micronaut.png
@@ -17,7 +17,7 @@ Ruthvik presented the Pi4Micronaut. Students got a hands-on practice using the p
 **When:** Friday, April 5<br/>
   2:00-3:00 p.m. (1 hour)<br/>
 **Where:** [Pius Library, ATC](https://www.slu.edu/library/services/academic-technology-commons/index.php)<br/>
-**Resources:** [presentation of instructions](https://docs.google.com/presentation/d/1QhlBWzoqiha1X8AogqNqMb4jynmaEDOAU2xmdrFD3Cc/edit?usp=sharing)
+**Resources:** [presentation of instructions](https://oss-slu.github.io/Pi4Micronaut/)
 
 A group of students and staff huddled over laptops around a large conference table in the Academic Technology Commons of Saint Louis University's Pius Library.  On an already busy Friday afternoon these students had elected to spend their time getting some hands on experiences with open source software. 
 
@@ -25,5 +25,5 @@ Ruthvik Mannem, a second year Masters student in Computer Science and a Research
 
 ![Ruthvik introduces Pi4Micronaut](./oss-atc-20240405/20240405_2.jpeg)
 ![Students working together](./oss-atc-20240405/20240405_6.jpeg)
-![Ruthvik explaining details](./oss-atc-20240405/20240405_5.jpg)
-![Students all around the table](./oss-atc-20240405/20240405_1.jpg)
+![Ruthvik explaining details](./oss-atc-20240405/20240405_5.jpeg)
+![Students all around the table](./oss-atc-20240405/20240405_1.jpeg)
