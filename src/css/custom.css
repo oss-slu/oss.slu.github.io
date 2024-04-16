@@ -91,10 +91,35 @@
   gap: 20px; /* Adjust the gap between items */
 }
 
+@media (max-width: 480px) {
+  .techLeadsGrid {
+    grid-template-columns: repeat(2, 1fr); /* 2 items per row on small tablets */
+  }
+  .techLead, .Lead {
+    max-width: 100%; /* One item per row on very small screens */
+  }
+  
+  /* Adjust font size and line height for smaller screens */
+  .techLead p, .Lead p {
+    font-size: 14px; /* Smaller font size */
+    line-height: 1.2; /* Adjust line height to improve readability */
+    margin: 10px 0; /* Add space above and below the name */
+  }
+}
+
 
 @media (max-width: 768px) {
-  .techLead, .techLead img {
-    width: 100px; /* Smaller size on smaller screens */
-    height: 100px;
+  .techLeadsGrid {
+    grid-template-columns: repeat(2, 1fr); /* 2 items per row on small tablets */
+  }
+  .techLead, .techLead img, .Lead, .Lead img {
+    max-width: 100%; /* One item per row on very small screens */
+    max-height:100%;
+  }
+  
+  /* Adjust text size for smaller screens */
+  .techLead p, .Lead p {
+    font-size: 0.8rem; /* Smaller font size */
+    margin-top: 0.5rem; /* Adjusted spacing */
   }
 }
