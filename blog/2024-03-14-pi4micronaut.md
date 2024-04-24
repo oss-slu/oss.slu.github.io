@@ -1,6 +1,6 @@
 ---
 title: Pi4Micronaut - A new recipe from Open Source with SLU
-description: Pi4Micronaut, a library by Open Source with SLU for Micronaut, enables development on Raspberry Pi. Version 1.0 was released in the Maven repository on Pi Day.
+description: Pi4Micronaut, a Java library by Open Source with SLU for Micronaut, enables development on Raspberry Pi. Version 1.0 was released in the Maven Central repository on Pi Day.
 slug: blog_pi4micronaut
 authors: [ruthvik]
 tags: [announcement, news]
