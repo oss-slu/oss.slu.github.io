@@ -43,6 +43,10 @@ const sidebars = {
           type: 'doc',
           id: 'about/partners'
         },
+        {
+          type: 'doc',
+          id: 'about/internships'
+        },
       ],
     },
     'portfolio',

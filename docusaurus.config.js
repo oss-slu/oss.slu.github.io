@@ -101,7 +101,7 @@ const config = {
               {
                 label: 'Managed Internships',
                 type: 'doc',
-                docId: 'about/internshps',
+                docId: 'about/internships',
               }
             ]
             
