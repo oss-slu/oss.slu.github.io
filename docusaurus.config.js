@@ -98,6 +98,11 @@ const config = {
                 type: 'doc',
                 docId: 'about/partners',
               }
+              {
+                label: 'Managed Internships',
+                type: 'doc',
+                docId: 'about/internshps',
+              }
             ]
             
           },
