@@ -97,7 +97,7 @@ const config = {
                 label: 'Partners',
                 type: 'doc',
                 docId: 'about/partners',
-              }
+              },
               {
                 label: 'Managed Internships',
                 type: 'doc',
