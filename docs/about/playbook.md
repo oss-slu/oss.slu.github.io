@@ -26,9 +26,19 @@ custom_edit_url: null
 
 #### Overview
 
+We have developed a [rubrik](https://oss-slu.github.io/docs/about/software) for project selection. Since the majority of the developers on the selected projects come from computer science project courses, the rubrik evaluates the projects in terms of value to students, value to the research community, and value to promoting Open Source with SLU. The rubrik is applied to all submitted projects, and the number of 'yes' responses counts as the project score. Projects with higher scores are offered to students, who submit their rank ordered lists of interest. Students are matched to projects based on their interest. Details of the team formation and management are described in the [Software development with enrolled students](#Software-development-with-enrolled-students) section.
+
+Prior to engaging the development team, Open Source with SLU staff creates a brief (1-2 pages) statement of work for each selected project. The statement of work includes a project overview, known high level requirements, desired outcomes, expected deliverables, and success criteria. The statement of work serves as the starting points for the team, with the understanding that consistent communication with all stakeholders is necessary to ensure that the end result is valuable.
+
+Client feedback is solicited on various iterations of the project: the working functionality is presented to the client and client has the opportunity to try it out and report on what is working, what is not working, and what is lacking. This feedback is used to plan out future efforts.
+
+We emphasize that Open Source with SLU builds and maintains software, and can help with deploying the software as necessary. We help clients come up with a deployment plan, and deploy the software for them. However, we do not commit to providing operational support for monitoring deployed services and making sure that they are available and accessible.
+
 #### Known Challenges
 
 #### Success Metrics
+
+1. Number of projects that are being actively used by clients
 
 ### Software development with enrolled students
 
@@ -41,10 +51,18 @@ Prior to the start of the project, tech leads were asked to create GitHub issues
 
 #### Known Challenges
 There are several challenges with the described approach. 
-1. Fair work distribution: the assessment of students' progress and accomplishments is based on successfull resolution of one issue during the 2-week sprint, with a demonstrable progress at the end of week 1. Therefore, the issues/tasks need to be scoped in roughly equivalent amount of work, to keep work distribution fair across teammates. 
-2. Team mentality: our approach highlights individual accountability toward common goal, and initially students working on their individual tasks did not feel like a team. Most students were focused on getting their task completed, to receive class credit for their work. Overtime, students started reaching out to each other for help. I observed such interactions in our Slack workspace. I suspect there were other, in-person interactions, which I was not able to observe, that helped crated a sense of a team. To encourage and support students in helping each other, we crearted an awards system: once a month I recognized students, that were nominated by their tech leads, for their above and beoyond contributions to the team progress. This was an in-class recognition, where the student was issued a regognition sertificate. As a token of appreciation, I also gave each recognized student a coupon that could be redeemd for extra credit or a prize at the end of the semester.
-#### Success Metrics
+1. Fair work distribution: the assessment of students' progress and accomplishments is based on successfull resolution of one issue during the 2-week sprint, with a demonstrable progress at the end of week 1. Therefore, the issues/tasks need to be scoped in roughly equivalent amount of work, to keep work distribution fair across teammates. Occasionally, a task ends up being too challenging to be resolved withou one 2-week sprint. Timely communication between all involved parties becomes a primary tool for identifying these cases. In these cases, the task continues into the next sprint and the student receives credit for their effort. 
+1. Team mentality: our approach highlights individual accountability toward common goal, and initially students working on their individual tasks did not feel like a team. Most students were focused on getting their task completed, to receive class credit for their work. Overtime, students started reaching out to each other for help. I observed such interactions in our Slack workspace. I suspect there were other, in-person interactions, which I was not able to observe, that helped crated a sense of a team. To encourage and support students in helping each other, we crearted an awards system: once a month I recognized students, that were nominated by their tech leads, for their above and beoyond contributions to the team progress. This was an in-class recognition, where the student was issued a regognition sertificate. As a token of appreciation, I also gave each recognized student a coupon that could be redeemd for extra credit or a prize at the end of the semester.
 
+#### Success Metrics
+1. Grades - grades are based on students' contributions, therefore using students grades is a valuable success metric.
+1. Students' feedback - we have developed a student survey, where students are asked to rate various aspects of the process. While these ratings are subjective, they provide a useful perspective on which aspects of the process are more successful than others. The specific areas students are asked to rate are:
+    1. Clarity of project goals
+    1. Team communication
+    1. Tech leads
+    1. Value of the course
+    1. Thier own involvement in the course
+The Spring 2024 student survey report is available [here](https://slu.az1.qualtrics.com/reports/public/c2x1LTY2MzdmMzQ4MWZhNTA1MDAwOGU1NjJmYy1VUl8wd2h1M2Q1eFpaR2lkelU=).
 
 ### Software development with volunteers
 
