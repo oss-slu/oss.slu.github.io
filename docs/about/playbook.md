@@ -26,7 +26,7 @@ custom_edit_url: null
 
 #### Overview
 
-We have developed a [rubrik](https://oss-slu.github.io/docs/about/software) for project selection. Since the majority of the developers on the selected projects come from computer science project courses, the rubrik evaluates the projects in terms of value to students, value to the research community, and value to promoting Open Source with SLU. The rubrik is applied to all submitted projects, and the number of 'yes' responses counts as the project score. Projects with higher scores are offered to students, who submit their rank ordered lists of interest. Students are matched to projects based on their interest. Details of the team formation and management are described in the [Software development with enrolled students](#Software-development-with-enrolled-students) section.
+We have developed a [rubrik](https://oss-slu.github.io/docs/about/software) for project selection. Since the majority of the developers on the selected projects come from computer science project courses, the rubrik evaluates the projects in terms of value to students, value to the research community, and value to promoting Open Source with SLU. The rubrik is applied to all submitted projects, and the number of 'yes' responses counts as the project score. Projects with higher scores are offered to students, who submit their rank ordered lists of interest. Students are matched to projects based on their interest. Details of the team formation and management are described in the [Software development with enrolled students](#software-development-with-enrolled-students) section.
 
 Prior to engaging the development team, Open Source with SLU staff creates a brief (1-2 pages) statement of work for each selected project. The statement of work includes a project overview, known high level requirements, desired outcomes, expected deliverables, and success criteria. The statement of work serves as the starting points for the team, with the understanding that consistent communication with all stakeholders is necessary to ensure that the end result is valuable.
 
@@ -36,9 +36,16 @@ We emphasize that Open Source with SLU builds and maintains software, and can he
 
 #### Known Challenges
 
+Our clients have a varying range of technical knowledge, expectations, and needs. We have defined a standard process for building software through our dedicated GitHub organization. However, some clients already have source code that they either wish for us to build upon or that we need to integrate with. In those cases, the challenge comes from understanding how to properly define the process that brings the most value to the client, while providing consistent experience for our student developers. For example, the [Drone World](https://oss-slu.github.io/docs/project_droneworld/about) project is owned by a Computer Science faculty, and a team of Open Source with SLU developers serve as external contributors to that project. To support this case, we have created a form of the original Drone World project, our student developers make contributions to that fork, and periodically create pull requests to merge the code from our fork's main branch to the original repo. However, it's unclear when the pull request from the form to the original needs to be created.
+
+Another non-standard example is the [DADS] (https://oss-slu.github.io/docs/project_dads/about) project. This project originalted from the Open Source with SLU owned GitHub repository, and served as a user interface for a database that was being developed externally (in parallel) by the client. Once the databse became available, the client was intersted in having the user interface code as part of the same repository as his database code. However, simply copying the code over would mean that we would lose commit and contribution history. To overcome this problem, the client created a sub-module to our repository from his database repository. This created additional challenges for the client - it wasn't too easy for him to make changes to the user interface, when he wanted to contribute to that component.
+
+From the two non-standard examples we described, it becomes apparent that we need to define a clear collaboration process for technical clients that are involved in various aspects of project development.
+
 #### Success Metrics
 
 1. Number of projects that are being actively used by clients
+1. Number of clients interested in continuing to work with us after collaborating with us for one academic year
 
 ### Software development with enrolled students
 
