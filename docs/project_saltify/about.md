@@ -12,7 +12,7 @@ _Note: careful review by a knowledgeable speech-language pathologist is required
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/SpeechTranscription> [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/SpeechTranscription)
+- **Source Code:** [https://github.com/oss-slu/SpeechTranscription](https://github.com/oss-slu/SpeechTranscription) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/SpeechTranscription)
 - **Clients:**
   - [Dr. Sara Steele](https://www.slu.edu/doisy/faculty/steele-sara.php)
   - [Dr. Elizabeth Roepke](https://www.slu.edu/doisy/faculty/roepke-elizabeth.php)

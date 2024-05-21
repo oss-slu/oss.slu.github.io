@@ -12,7 +12,7 @@ Homeless shelters rely on volunteers' help. When inclement weather strikes, home
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/shelter_volunteers> [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/shelter_volunteers)
+- **Source Code:** [https://github.com/oss-slu/shelter_volunteers](https://github.com/oss-slu/shelter_volunteers) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/shelter_volunteers)
 - **Client** Tim Huffman (House Everyone StL)
 - **External Mentors** Women in Technology Group (WWT), GetHelp
 - **Current Tech Lead:** Siri Chandana Garimella [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChandanaGarimella)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/sirichandana-garimella/)

@@ -62,8 +62,7 @@ Graduate students are at the heart of our open-sour​ce program. They work with
  <div className="techLead">
  <a href ="https://yashb196.github.io/yashb196/">
     <img src="/img/yash_avatar1.jpg" alt="Yash Kamal Bhatia - Graduate Assistant Team Lead" className="teamLeadImage"/>
-        <p>
-        Yash Kamal Bhatia</p>
+        <p>Yash Kamal Bhatia</p>
         </a>
     </div>
      <div className="techLead">

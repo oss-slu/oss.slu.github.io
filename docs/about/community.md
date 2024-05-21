@@ -32,7 +32,7 @@ If you want to be recognized as a contributor, your pull request should include 
 
 ## Join the `oss-slu` Team
 
-After making five contributions, you can be added to the `oss-slu` team in GitHub by contacting one of the program staff. Send an e-mail to <oss@slu.edu> or a slack message to the current Tech Lead on the project(s) you made contributions to. Include a list of at least five closed Issues and/or merged Pull Requests that you worked on.
+After making five contributions, you can be added to the `oss-slu` team in GitHub by contacting one of the program staff. Send an e-mail to [oss@slu.edu](mailto:oss@slu.edu) or a slack message to the current Tech Lead on the project(s) you made contributions to. Include a list of at least five closed Issues and/or merged Pull Requests that you worked on.
  
 ## Git
 
