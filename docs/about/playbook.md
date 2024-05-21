@@ -1,139 +1,265 @@
----
-id: playbook
-title: Playbook for creating a university open-source program
-custom_edit_url: null
----
+# Playbook: Operating an Open Source Program Office (OSPO) at a University
 
-# Playbook
-## Purpose
+## Introduction
 
-## Resources needed
+This playbook describes an approach for operating an Open Source Program Office (OSPO) at a university, with a focus on actively building and maintaining research and community software tools. The OSPO serves as a hub for fostering open-source software development, collaboration, and knowledge-sharing within the university community and beyond.
 
-1. Courses that primarily rely on hands-on software development as a teaching mechanism.
-2. Tech leads
-3. Program director (budget to support program director salary)
-4. Computing resources - some projects need more stuff
-5. Software project requests
-6. Partners - faculty needing software, industry willing to sponsor projects
-7. Collaboration tools:
-   * GitHub organization account with teacher benefits
-   * Slack instance
-   * Physical space for meetings and co-development
+The primary goals of the OSPO are:
+
+1. Provide students with hands-on experience in software development through open-source projects.
+2. Develop and maintain software solutions that support research and community needs.
+3. Promote the principles and practices of open-source software development.
+4. Foster collaboration between the university, industry partners, and the broader open-source community.
+
+## Resources Needed
+
+1. **Project-based Courses:** Courses that primarily rely on hands-on software development projects as a teaching mechanism, such as senior capstone courses or software engineering courses.
+
+2. **Tech Leads:** Experienced developers or mentors who can guide and oversee the project teams, provide technical expertise, and ensure adherence to best practices.
+
+3. **Program Director:** A dedicated program director to manage the OSPO, coordinate activities, and oversee the overall operation, with a budget to support their salary.
+
+4. **Computing Resources:** Appropriate computing resources (e.g., servers, cloud infrastructure) for projects that require more resources or specific environments.
+
+5. **Software Project Requests:** A mechanism for faculty, researchers, or community members to submit software project requests or proposals aligning with their needs.
+
+6. **Collaborators (Faculty, Researchers, Industry Partners):** Faculty members or researchers who need software solutions, as well as industry partners willing to sponsor projects or collaborate with the OSPO.
+
+7. **Collaboration Tools:**
+   - A GitHub organization account with teacher benefits for managing source code and collaboration.
+   - A Slack instance (or similar communication platform) for team communication and coordination.
+   - Physical space for meetings, workshops, and collaborative development sessions.
 
 ## Processes
 
-### Project selection, delivery, and support
+### 1. Project Selection, Delivery, and Support
 
-#### Overview
+#### Project Selection Rubric
+We have developed a [rubric](https://oss-slu.github.io/docs/about/software) for project selection. Since the majority of developers on the selected projects come from computer science project courses, the rubric evaluates projects based on their value to students, value to the research community, and value to promoting Open Source at the university. The rubric is applied to all submitted projects, and the number of 'yes' responses counts as the project score. Projects with higher scores are offered to students, who submit their rank-ordered lists of interest.
 
-We have developed a [rubrik](https://oss-slu.github.io/docs/about/software) for project selection. Since the majority of the developers on the selected projects come from computer science project courses, the rubrik evaluates the projects in terms of value to students, value to the research community, and value to promoting Open Source with SLU. The rubrik is applied to all submitted projects, and the number of 'yes' responses counts as the project score. Projects with higher scores are offered to students, who submit their rank ordered lists of interest. Students are matched to projects based on their interest. Details of the team formation and management are described in the [Software development with enrolled students](#software-development-with-enrolled-students) section.
+#### Statement of Work
+Before engaging the development team, the OSPO staff creates a brief (1-2 pages) statement of work for each selected project. The statement of work includes a project overview, known high-level requirements, desired outcomes, expected deliverables, and success criteria. The statement of work serves as the starting point for the team, with the understanding that consistent communication with all stakeholders is necessary to ensure the end result is valuable.
 
-Prior to engaging the development team, Open Source with SLU staff creates a brief (1-2 pages) statement of work for each selected project. The statement of work includes a project overview, known high level requirements, desired outcomes, expected deliverables, and success criteria. The statement of work serves as the starting points for the team, with the understanding that consistent communication with all stakeholders is necessary to ensure that the end result is valuable.
+#### Client Feedback and Iterations
+Client feedback is solicited on various iterations of the project. The working functionality is presented to the client, who has the opportunity to try it out and report on what is working, what is not working, and what is lacking. This feedback is used to plan future efforts and ensure the project remains aligned with the client's needs.
 
-Client feedback is solicited on various iterations of the project: the working functionality is presented to the client and client has the opportunity to try it out and report on what is working, what is not working, and what is lacking. This feedback is used to plan out future efforts.
-
-We emphasize that Open Source with SLU builds and maintains software, and can help with deploying the software as necessary. We help clients come up with a deployment plan, and deploy the software for them. However, we do not commit to providing operational support for monitoring deployed services and making sure that they are available and accessible.
-
-#### Known Challenges
-
-Our clients have a varying range of technical knowledge, expectations, and needs. We have defined a standard process for building software through our dedicated GitHub organization. However, some clients already have source code that they either wish for us to build upon or that we need to integrate with. In those cases, the challenge comes from understanding how to properly define the process that brings the most value to the client, while providing consistent experience for our student developers. For example, the [Drone World](https://oss-slu.github.io/docs/project_droneworld/about) project is owned by a Computer Science faculty, and a team of Open Source with SLU developers serve as external contributors to that project. To support this case, we have created a form of the original Drone World project, our student developers make contributions to that fork, and periodically create pull requests to merge the code from our fork's main branch to the original repo. However, it's unclear when the pull request from the form to the original needs to be created.
-
-Another non-standard example is the [DADS] (https://oss-slu.github.io/docs/project_dads/about) project. This project originalted from the Open Source with SLU owned GitHub repository, and served as a user interface for a database that was being developed externally (in parallel) by the client. Once the databse became available, the client was intersted in having the user interface code as part of the same repository as his database code. However, simply copying the code over would mean that we would lose commit and contribution history. To overcome this problem, the client created a sub-module to our repository from his database repository. This created additional challenges for the client - it wasn't too easy for him to make changes to the user interface, when he wanted to contribute to that component.
-
-From the two non-standard examples we described, it becomes apparent that we need to define a clear collaboration process for technical clients that are involved in various aspects of project development.
-
-#### Success Metrics
-
-1. Number of projects that are being actively used by clients
-1. Number of clients interested in continuing to work with us after collaborating with us for one academic year
-
-### Software development with enrolled students
-
-#### Overview
-The two-semester Computer Science senior capstone course serves as a platform where students transition from being learners to active contributors in the open-source domain. Beyond imparting technical skills, the course focuses on refining collaborative abilities and cultivating a shared understanding of building upon collective knowledge. In this section, we unravel the processes through which students, enrolled in the two-semester sequence, engage with open-source projects. From strategic team formation to meticulous project management on GitHub, the capstone course reflects our dedication to providing students with a comprehensive, hands-on experience that extends beyond conventional classroom boundaries. The methodology described in this section can be applied and adapted to any course that primarily relies on software development projects as a teaching mechanisms.
-
-At the start of the semester, students were presented with project options, and were asked to rank order all projects based on their interest and preferences. The course instructor used these rank orders to form teams. This turned into a multi-objective optimization problem with objectives being: 1) keep team size betwen 2 and 4 people, 2) maximize students' project interest, and 3) balance overall team skill level. While objectives 1 and 2 can be programmed, objective 3 is a subjective and relies heavily on instructor's familiarity with students' skills. In our case, the team formation was done manually. In the future, this process can be improved by programmatically assignming students to teams based on the identified objectives. Once tentative teams were formed, all students interviewed with project-specific tech leads. This served several purposes. Firstly, enrolled students practiced their interviewing skills, tech leads met members of their team and were able to voice concerns they had, and tech leads practiced being an interviewer. Interview feedback allowed the instructor to make team adjustments, if necessary.
-
-Prior to the start of the project, tech leads were asked to create GitHub issues, describing various development tasks that needed to be completed. Once teams were formed, the software development commenced. The work was divided into 2-week sprints. During each sprint, each developer was responsible for resolving one issue in their GitHub repository. We utilized "trunk based" development, to keep the process simple and manageable for the studetns. Each student created a branch from the main branch of their project repo and worked on their selected issue in that branch, pushing their branch to the remote repo occasionally. At the end of week 1, each student was required to submit a draft pull request, demonstrating their progress. At the end of week 2, the work in progress pull request was to be converted to a pull request. The tech lead and other teammates reviewed the pull request, providing comments and requesting changes, if needed. Once all comments were addressed, the tech lead merged the pull request to the main branch. In order to earn credit for week 2, the student's pull request had to be merged to main by the deadline. 
+#### Deployment and Support
+We emphasize that the OSPO builds and maintains software and can help with deploying the software as necessary. We help clients develop a deployment plan and deploy the software for them. However, we do not commit to providing operational support for monitoring deployed services and ensuring they are available and accessible.
 
 #### Known Challenges
-There are several challenges with the described approach. 
-1. Fair work distribution: the assessment of students' progress and accomplishments is based on successfull resolution of one issue during the 2-week sprint, with a demonstrable progress at the end of week 1. Therefore, the issues/tasks need to be scoped in roughly equivalent amount of work, to keep work distribution fair across teammates. Occasionally, a task ends up being too challenging to be resolved withou one 2-week sprint. Timely communication between all involved parties becomes a primary tool for identifying these cases. In these cases, the task continues into the next sprint and the student receives credit for their effort. 
-1. Team mentality: our approach highlights individual accountability toward common goal, and initially students working on their individual tasks did not feel like a team. Most students were focused on getting their task completed, to receive class credit for their work. Overtime, students started reaching out to each other for help. I observed such interactions in our Slack workspace. I suspect there were other, in-person interactions, which I was not able to observe, that helped crated a sense of a team. To encourage and support students in helping each other, we crearted an awards system: once a month I recognized students, that were nominated by their tech leads, for their above and beoyond contributions to the team progress. This was an in-class recognition, where the student was issued a regognition sertificate. As a token of appreciation, I also gave each recognized student a coupon that could be redeemd for extra credit or a prize at the end of the semester.
+Our clients have varying levels of technical knowledge, expectations, and needs. While we have defined a standard process for building software through our dedicated GitHub organization, some clients already have source code that they either wish for us to build upon or integrate with. In these cases, the challenge comes from understanding how to properly define the process that brings the most value to the client while providing a consistent experience for our student developers.
+
+Additionally, we have encountered situations where clients want the code from our repository to be merged into their existing codebase, which can lead to challenges in maintaining contribution history and collaboration workflows.
+
+From these non-standard examples, it becomes apparent that we need to define a clear collaboration process for technical clients who are involved in various aspects of project development.
 
 #### Success Metrics
-1. Grades - grades are based on students' contributions, therefore using students grades is a valuable success metric.
-1. Students' feedback - we have developed a student survey, where students are asked to rate various aspects of the process. While these ratings are subjective, they provide a useful perspective on which aspects of the process are more successful than others. The specific areas students are asked to rate are:
-    1. Clarity of project goals
-    1. Team communication
-    1. Tech leads
-    1. Value of the course
-    1. Thier own involvement in the course
+1. Number of projects actively used by clients.
+2. Number of clients interested in continuing to work with us after collaborating for one academic year.
+
+### 2. Software Development with Enrolled Students
+
+#### Overview of the Capstone Course
+The two-semester Computer Science senior capstone course serves as a platform where students transition from being learners to active contributors in the open-source domain. Beyond imparting technical skills, the course focuses on refining collaborative abilities and cultivating a shared understanding of building upon collective knowledge.
+
+#### Team Formation
+At the start of the semester, students are presented with project options and asked to rank-order all projects based on their interest and preferences. The course instructor uses these rank orders to form teams, which becomes a multi-objective optimization problem with the following objectives:
+
+1. Keep team size between 2 and 4 people.
+2. Maximize students' project interest.
+3. Balance the overall team skill level.
+
+While objectives 1 and 2 can be programmed, objective 3 is subjective and relies heavily on the instructor's familiarity with students' skills. In our case, team formation is done manually, but in the future, this process can be improved by programmatically assigning students to teams based on the identified objectives.
+
+Once tentative teams are formed, all students interview with project-specific tech leads. This serves several purposes: enrolled students practice their interviewing skills, tech leads meet members of their team and can voice concerns, and tech leads practice being interviewers. Interview feedback allows the instructor to make team adjustments if necessary.
+
+#### Development Process (Sprints, Pull Requests, Code Reviews)
+Prior to the project start, tech leads create GitHub issues describing various development tasks that need to be completed. Once teams are formed, software development commences. The work is divided into 2-week sprints. During each sprint, each developer is responsible for resolving one issue in their GitHub repository.
+
+We utilize "trunk-based" development to keep the process simple and manageable for the students. Each student creates a branch from the main branch of their project repository and works on their selected issue in that branch, pushing their branch to the remote repository occasionally.
+
+At the end of week 1, each student is required to submit a draft pull request, demonstrating their progress. At the end of week 2, the work-in-progress pull request is converted to a pull request. The tech lead and other teammates review the pull request, providing comments and requesting changes if needed. Once all comments are addressed, the tech lead merges the pull request into the main branch. To earn credit for week 2, the student's pull request must be merged into the main branch by the deadline.
+
+#### Known Challenges
+1. **Fair Work Distribution:** The assessment of students' progress and accomplishments is based on the successful resolution of one issue during the 2-week sprint, with demonstrable progress at the end of week 1. Therefore, the issues/tasks need to be scoped to roughly equivalent amounts of work to keep the work distribution fair across teammates. Occasionally, a task may be too challenging to resolve within one 2-week sprint. Timely communication between all involved parties becomes a primary tool for identifying these cases. In such cases, the task continues into the next sprint, and the student receives credit for their effort.
+
+2. **Team Mentality:** Our approach highlights individual accountability toward a common goal, and initially, students working on their individual tasks may not feel like a team. Most students are focused on getting their task completed to receive class credit for their work. Over time, students start reaching out to each other for help, as observed in our Slack workspace. There may also be in-person interactions that help create a sense of teamwork. To encourage and support students in helping each other, we have created an awards system: once a month, I recognize students nominated by their tech leads for their above-and-beyond contributions to team progress. This is an in-class recognition, where the student receives a recognition certificate and a coupon that can be redeemed for extra credit or a prize at the end of the semester.
+
+#### Success Metrics
+1. **Grades:** Grades are based on students' contributions, making them a valuable success metric.
+2. **Student Feedback Survey:** We have developed a student survey where students rate various aspects of the process. While subjective, these ratings provide useful perspectives on which aspects of the process are more successful than others. The specific areas students are asked to rate include:
+    - Clarity of project goals
+    - Team communication
+    - Tech leads
+    - Value of the course
+    - Their own involvement in the course
+
 The Spring 2024 student survey report is available [here](https://slu.az1.qualtrics.com/reports/public/c2x1LTY2MzdmMzQ4MWZhNTA1MDAwOGU1NjJmYy1VUl8wd2h1M2Q1eFpaR2lkelU=).
 
-### Software development with volunteers
+### 3. Software Development with Volunteers
 
-(Community outreach - recruiting new developers)
+#### Overview of the Volunteer Contribution Process
+Students often approach faculty looking for opportunities to get involved in research and development. While many seek paid work, some are interested in opportunities that will help them grow their skills and resumes. The OSPO's mission aligns with providing realistic software development experience through open-source contributions, making it an excellent way to involve such students. We refer to these students as volunteers.
 
-#### Overview
-Students often approach faculty looking for opportunities to get involved in research and development. Many students are looking for paid work, but some students are interested in opportunities that will help them grow their skills and resumes. Open Source with SLU's mission is to give students realistic software development experience through open-source contributions, and thus is a great way to get such students involved. We refer to such students as volunteers. Volunteers contact us in person and by email, asking how they can get involved. We direct them to our current projects descriptions and ask them to identify a project they would like to contribute to. Once they select a project, we coach volunteers through the standard open-source contribution practice: create a fork of the repository, run the code in the development environment, select an issue they would like to work on (typically, an issue marked as 'good first issue'), make a comment in that issue requesting to assign it to them. The project tech lead assigns the issue to a volunteer, the volunteer works on the issue in their fork. Once completed, the volunteer submits a pull request to merge the code from their forked repo to the main branch of the original repo. The team (people with write access to the original repo) reviews the pull request, makes comments (asks for changes, if appropriate). After all the comments are addressed, the tech lead merges the pull request to the main branch, and the volunteer becomes an official contributor to the project.
+Volunteers contact us in person and by email, asking how they can get involved. We direct them to our current project descriptions and ask them to identify a project they would like to contribute to. Once they select a project, we coach volunteers through the standard open-source contribution practice:
 
-We invite our volunteers to join Open Source with SLU slack workspace, and their specific project within that workspace. Slack gives volunteers a faster way to communicate with the main development team.
+1. Create a fork of the repository
+2. Run the code in the development environment
+3. Select an issue they would like to work on (typically marked as a 'good first issue')
+4. Make a comment in that issue, requesting to be assigned to it
 
-In addition to student volunteers looking to grow their skills, we have used Open Source with SLU projects as a basis for technical interviews for gradutate assistant jobs and PostDoc jobs offered by various faculty through their other grant funds. We invite the job candidate to select a 'good first issue' from any of the ongoing projects, and resolve the ussue (using the same process as student volunteers). It is a valuable tool that helps us evaluate the candidate's development skills, and this is a service we do for the faculty in our deparment. Successful contributions get merged to the main branch of the candidate-selected repo, which is a benefit for Open Source with SLU.
+#### Integrating Volunteers with the Core Team
+The project tech lead assigns the issue to the volunteer, who works on the issue in their fork. Once completed, the volunteer submits a pull request to merge the code from their forked repository to the main branch of the original repository. The team (people with write access to the original repository) reviews the pull request, makes comments (asks for changes if appropriate), and addresses all comments. After all comments are addressed, the tech lead merges the pull request into the main branch, and the volunteer becomes an official contributor to the project.
 
-#### Known Challenges
-It is challenging to find student developers who are interested in serving as a 'volunteer' contributor. Many students are looking to get monetary compensation for their work, and walk away when they learn that this is a 'volunteer' role. 
+We invite our volunteers to join the OSPO's Slack workspace and their specific project channel within that workspace. Slack provides volunteers with a faster way to communicate with the main development team and feel more integrated with the project.
 
-Integrating external developers with the internal team is also a challenge. We need a better process that will help external developers feel like they are part of the team.
-
-We've had a challenging time in keeping external developers interested: they typically join by resolving one 'good first issue', and then we never hear back from them. Better engagement with external developers could help overcome this challenge.
-
-#### Success Metrics
-1. Number of issues (across all projects) resolved by all external developers
-2. Number of issues resolved per external developer
-
-### Community training
-
-Students in courses and outside of courses (reusable materials)
-
-#### Overview
+#### Using Projects for Technical Interviews
+In addition to student volunteers looking to grow their skills, we have used OSPO projects as a basis for technical interviews for graduate assistant jobs and postdoctoral positions offered by various faculty through their grant funds. We invite the job candidate to select a 'good first issue' from any of the ongoing projects and resolve the issue (using the same process as student volunteers). This is a valuable tool that helps us evaluate the candidate's development skills, and it is a service we provide for the faculty in our department. Successful contributions get merged into the main branch of the candidate-selected repository, which benefits the OSPO.
 
 #### Known Challenges
+1. **Finding Interested Volunteers:** It is challenging to find student developers interested in serving as 'volunteer' contributors. Many students seek monetary compensation for their work and lose interest when they learn this is a 'volunteer' role.
+
+2. **Integrating External Developers:** Integrating external developers with the internal team is also a challenge. We need a better process to help external developers feel like they are part of the team.
+
+3. **Retaining Volunteers:** We've had difficulty keeping external developers interested; they typically join by resolving one 'good first issue' and then we never hear back from them. Better engagement with external developers could help overcome this challenge.
 
 #### Success Metrics
+1. Number of issues (across all projects) resolved by external developers.
+2. Number of issues resolved per external developer.
 
-### Faculty outreach
+### 4. Community Training
 
-Getting research faculty to come to OSS for software needs
-Include OSS development in grant budgets
+#### Formal Training (In-Class)
+Formal training occurs in courses that use OSPO projects as the basis for class assignments. This formal training takes place in class through lectures, hands-on exercises, and personal reflections on the learning experiences. Topics covered in class lectures and exercises include:
 
-#### Overview
+- Version control systems
+- Git workflow
+- Code reviews
+- Presenting work to technical and non-technical audiences
+- Software testing
+- Continuous integration
+- Secure software development
+- Bash scripting
+- Regular expressions
+- System modeling
+- Software performance
+
+These topics are general enough to be applicable to all projects.
+
+#### Semi-Formal Training (Workshops)
+Semi-formal training focuses on specific tools applicable to a subset of projects. This training is led by OSPO graduate students as workshops open to the entire university community. Information about all past workshops is available [here](https://oss-slu.github.io/news).
+
+#### Informal Training (Slack, Online Interactions)
+Informal training takes the form of in-person and online interactions via the OSPO's Slack workspace, which is open to the public. We invite all interested community members (within and outside the university) to join us. Information about how to become part of our community is provided in the [Community section](https://oss-slu.github.io/docs/about/community) of our website.
 
 #### Known Challenges
+The breadth of projects makes it challenging to provide formal in-class training on relevant project-specific technologies because many teams use different technologies. This puts the responsibility for technology-specific training on the community itself. Ultimately, being able to learn new technologies independently is an important skill, and our program helps students develop this skill. Making this expectation clear and more intentional is a way to overcome this challenge.
 
 #### Success Metrics
+1. **Student Engagement Level:** The number of issues students resolve beyond the minimal course requirements.
 
-### Industry outreach
+### 5. Faculty Outreach
 
 #### Overview
+Faculty outreach is a crucial aspect of the OSPO's operations, as it helps identify potential research and development projects that can benefit from the OSPO's resources and expertise. The OSPO actively engages with faculty members across various departments to raise awareness about the services and support available through the program.
+
+#### Strategies for Engaging Faculty
+We have applied the following strategies to engage faculty in our OSPO:
+
+1. **Presentations and Workshops:** The OSPO organizes presentations and workshops to introduce faculty members to the program, showcase successful projects, and highlight the benefits of collaborating with the OSPO.
+
+2. **Individual Meetings:** OSPO representatives schedule individual meetings with faculty members to understand their specific research needs, discuss potential projects, and explore opportunities for collaboration.
+
+3. **Departmental Meetings:** OSPO representatives attend departmental meetings to promote the program and solicit project proposals from faculty members.
+
+4. **Networking Events:** The OSPO participates in university-wide networking events, such as research symposiums or faculty meetings, to raise awareness and connect with potential collaborators.
+
+#### Including OSPO in Grant Budgets
+The OSPO encourages faculty members to include the program's services in their grant proposals and budgets. By allocating funds for the OSPO's involvement, faculty can leverage the program's resources and expertise to develop and maintain software solutions that support their research projects.
 
 #### Known Challenges
+1. **Awareness and Understanding:** Many faculty members may not be aware of the OSPO's existence or may not fully understand the benefits of collaborating with the program.
+
+2. **Competing Priorities:** Faculty members often have multiple responsibilities, including teaching, research, and administrative duties, which can make it challenging to allocate time for engaging with the OSPO.
+
+3. **Funding Constraints:** Limited research budgets or grant restrictions may make it difficult for faculty members to include the OSPO's services in their funding proposals.
 
 #### Success Metrics
+1. Number of faculty members engaged with the OSPO.
+2. Number of projects initiated through faculty collaborations.
+3. Amount of funding secured for OSPO involvement in research projects.
+
+### 6. Industry Outreach
+
+#### Overview
+Industry outreach is an essential component of the OSPO's operations, as it fosters collaboration between the university and industry partners. By engaging with industry, the OSPO can identify potential projects, secure funding, and provide students with real-world software development experiences that align with industry needs.
+
+#### Strategies for Engaging Industry Partners
+We have identified the following strategies and will be implementing these strategies in the near future.
+
+1. **Industry Advisory Board:** Establish an industry advisory board comprising representatives from various companies and organizations. This board can provide valuable insights, identify potential collaboration opportunities, and help align the OSPO's efforts with industry needs.
+
+2. **Industry Events and Conferences:** Participate in industry events, conferences, and networking opportunities to showcase the OSPO's capabilities and connect with potential partners.
+
+3. **Targeted Outreach:** Identify companies and organizations that align with the OSPO's focus areas and conduct targeted outreach efforts to explore potential collaborations or sponsorship opportunities.
+
+4. **Alumni Network:** Leverage the university's alumni network to connect with industry professionals and identify potential partners or sponsors.
+
+#### Sponsoring Projects and Collaboration
+Industry partners can sponsor specific projects or collaborate with the OSPO in various ways:
+
+1. **Project Sponsorship:** Companies can sponsor projects that align with their business needs or areas of interest. This can involve providing funding, technical guidance, or access to proprietary tools or data.
+
+2. **Internships and Co-op Programs:** Collaborate with the OSPO to offer internship or co-op opportunities for students, allowing them to gain practical experience while working on industry-relevant projects.
+
+3. **Knowledge Sharing:** Industry partners can contribute to the OSPO's community training efforts by providing subject matter experts to lead workshops or seminars on industry-specific technologies or best practices.
+
+4. **Mentorship Programs:** Establish mentorship programs where industry professionals can provide guidance and support to student developers working on OSPO projects.
+
+#### Known Challenges
+1. **Competing Priorities:** Industry partners may have competing priorities or limited resources, making it challenging to secure long-term commitments or significant investments.
+
+2. **Intellectual Property Concerns:** Companies may be hesitant to collaborate on open-source projects due to concerns over intellectual property rights or the potential disclosure of proprietary information.
+
+3. **Alignment of Goals:** Ensuring that the goals and objectives of the OSPO and industry partners are well-aligned can be a challenge, as they may have different priorities or expectations.
+
+#### Success Metrics
+1. Number of industry partners engaged with the OSPO.
+2. Amount of funding or in-kind contributions secured from industry partners.
+3. Number of students placed in internships or co-op programs through industry collaborations.
+4. Number of industry-led workshops, seminars, or mentorship programs facilitated by the OSPO.
 
 ## Case Studies
 
-### Successful projects
+### Successful Projects
 
 #### LRDA
+- **Overview:** The LRDA (Lived Religion in the Digital Age) project is a combination of a desktop (browswer based) application and a mobile app for ethnographic work. It was requested by the SLU Center on Lived Religion, which studies how people experience religion outside of traditional places of worship. 
 
-Continued funding
+- **Success Factors:**
+ - Continued funding: The project received multi-year funding through a grant, enabling the OSPO to allocate dedicated resources and maintain consistent development efforts over an extended period.
+ - Collaborative Development: Close collaboration between the OSPO development team and the faculty lead from the Center on Lived Religion ensured that the software met the specific user needs.
+ - Successful Deployment and Utilization: The LRDA software was successfully deployed and utilized by the Center on Lived Religion.
 
 #### Speech Transcription
+- **Overview:** The Speech Transcription project . This project was initiated by a faculty member in the Computer Science department, with potential applications in various domains, including education and healthcare.
 
-Papers, presentations
+- **Success Factors:**
+ - Presentations and Demonstrations: The OSPO team and faculty collaborators presented the Speech Transcription system at various conferences and events, garnering recognition and interest from industry and research communities.
 
-### Failed projects
+### Failed Projects
+- **Project X:** This project aimed to develop a web-based platform for managing and analyzing large-scale scientific datasets. However, the project faced several challenges, including:
+ - Lack of Clear Requirements: 
+ - Limited Domain Knowledge: 
+ - Resource Constraints:
+ 
+- **Project Y:** 
+ - Technological Limitations: The chosen technology stack proved inadequate for handling the required scale and complexity of the application, leading to performance issues and limited functionality.
 
-### Mixed bags
+### Mixed Outcomes
+- **Project Z:** 
+   - Successful Outcomes:
+   - Student Engagement: 
+ - Challenges:
+   - Hardware Limitations: 
+   - Scalability Issues: 
