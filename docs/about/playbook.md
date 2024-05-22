@@ -174,6 +174,9 @@ We have applied the following strategies to engage faculty in our OSPO:
 
 4. **Networking Events:** The OSPO participates in university-wide networking events, such as research symposiums or faculty meetings, to raise awareness and connect with potential collaborators.
 
+#### Preliminary Results support for Grant Applications
+The success of faculty grant applications increases if they have done some preliminary work on the porposed research and have some preliminary results. This often becomes a "chicken and egg" problme - faculty need funding to do the preliminary research, but funding agencies require to show preliminary work and results. Open Source with SLU serves as a technology resource for the preliminary work - we help faculty create software tools they need to get their preliminary results, which they can use to enhance their grant applications. 
+
 #### Including OSPO in Grant Budgets
 The OSPO encourages faculty members to include the program's services in their grant proposals and budgets. By allocating funds for the OSPO's involvement, faculty can leverage the program's resources and expertise to develop and maintain software solutions that support their research projects.
 
@@ -186,8 +189,9 @@ The OSPO encourages faculty members to include the program's services in their g
 
 #### Success Metrics
 1. Number of faculty members engaged with the OSPO.
-2. Number of projects initiated through faculty collaborations.
-3. Amount of funding secured for OSPO involvement in research projects.
+1. Number of projects initiated through faculty collaborations.
+1. Number of faculty grant applications that include prelimiary work/results empowered by our software tools.
+1. Amount of funding secured for OSPO involvement in research projects.
 
 ### 6. Industry Outreach
 
@@ -226,20 +230,21 @@ Industry partners can sponsor specific projects or collaborate with the OSPO in 
 #### Success Metrics
 1. Number of industry partners engaged with the OSPO.
 2. Amount of funding or in-kind contributions secured from industry partners.
-3. Number of students placed in internships or co-op programs through industry collaborations.
+3. Number of students placed in internships, co-op programs, or full-time jobs through industry collaborations.
 4. Number of industry-led workshops, seminars, or mentorship programs facilitated by the OSPO.
 
-## Case Studies
+## 7. Case Studies
 
 ### Successful Projects
 
-#### LRDA
-- **Overview:** The LRDA (Lived Religion in the Digital Age) project is a combination of a desktop (browswer based) application and a mobile app for ethnographic work. It was requested by the SLU Center on Lived Religion, which studies how people experience religion outside of traditional places of worship. 
+#### Where's Religion
+Where's Religion project is a combination of a [desktop (web browser based) application](https://oss-slu.github.io/docs/project_wheres_religion_desktop/about) and a [mobile app](https://oss-slu.github.io/docs/project_wheres_religion_mobile/about) for ethnographic work. This project was developed for the SLU Center on Lived Religion (COLR), which studies how people experience religion outside of traditional places of worship. These applications allow ethnogrophers (people who study customs of people and cultures), or students who are learning about ethnography, to create and access notes, videos, photos, and audio recordings from their field work. These records are stored in the same place, are connected to each other, and can be shared with other users. The initial development of the mobile application was funded by the client - COLR paid an hourly rate for student developers to build a proof of concept application in the Spring 2023 semester. Open Source with SLU provided a tech lead for this team, at no cost to COLR. In the Fall 2023, the mobile app development transitioned to the capstone course student team, as described in the [Software Development with Enrolled Students](#2-software-development-with-enrolled-students) section of this playbook. An additional team from the same course began development of the companion desktop application, which provided users with more features for accessing and editing the notes, photos, videos, and audio recordings they have collected with the mobile app.
 
-- **Success Factors:**
- - Continued funding: The project received multi-year funding through a grant, enabling the OSPO to allocate dedicated resources and maintain consistent development efforts over an extended period.
- - Collaborative Development: Close collaboration between the OSPO development team and the faculty lead from the Center on Lived Religion ensured that the software met the specific user needs.
- - Successful Deployment and Utilization: The LRDA software was successfully deployed and utilized by the Center on Lived Religion.
+This project was successful based on the following success metrics (as described in this playbook):
+ - The project is actively used by the client (success metric from the [Project Selection, Deliveray, and Support](#1-project-selection-delivery-and-support) section)
+ - All students working on these projects received top grades (success metric from the [Software Development with Enrolled Students](#2-software-deveopment-with-enrolled-students) section)
+ - COLR staff applied for an NEH Digital Humanities Advancement Grant to continue their studies, based on the preliminary tools we built (success metric from the [Faculty Outreach](#5-faculty-outreach) section)
+ - Tech lead from this project received a job offer from COLR (success metric from the [Industry Outreach](#6-industry-outreach) section)
 
 #### Speech Transcription
 - **Overview:** The Speech Transcription project . This project was initiated by a faculty member in the Computer Science department, with potential applications in various domains, including education and healthcare.
