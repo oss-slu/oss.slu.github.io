@@ -13,7 +13,7 @@ The goal of this project is to create a flexible, web-based, search-driven user 
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/dads> [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/dads)
+- **Source Code:** [https://github.com/oss-slu/dads](https://github.com/oss-slu/dads) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/dads)
 - **Client** Dr Benjamin Hutz
 - **Current Tech Lead:** Abhilash Kotha [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AbhilashKotha)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/abhilashkotha/)
 - **Developers:**

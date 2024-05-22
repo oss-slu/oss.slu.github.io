@@ -14,7 +14,7 @@ The existence of Pi4Micronaut is justified by the need for a robust, scalable, a
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/Pi4Micronaut/> [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/Pi4Micronaut/)
+- **Source Code:** [https://github.com/oss-slu/Pi4Micronaut/](https://github.com/oss-slu/Pi4Micronaut/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/Pi4Micronaut/)
 - **Client** Jeff Brown - Unity Foundation
 - **Current Tech Lead:** Ruthvik Mannem [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ruthvikm)
 - **Developers:**

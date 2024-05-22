@@ -13,7 +13,7 @@ The chemistry department at SLU uses paper scantron (fill-in-the-bubble) sheets 
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/bubble_scan> [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/bubble_scan)
+- **Source Code:** [https://github.com/oss-slu/bubble_scan](https://github.com/oss-slu/bubble_scan) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/bubble_scan)
 
 - **Client** Dr. Brian Woods
 - **Current Tech Lead:** Raju Karmuri [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rkarmuri) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/rajukarmuri731/)

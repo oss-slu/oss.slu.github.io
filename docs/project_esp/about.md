@@ -13,7 +13,7 @@ The SLU computational chemistry researchers, working on understanding various pr
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/esp> [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/esp)
+- **Source Code:** [https://github.com/oss-slu/esp](https://github.com/oss-slu/esp) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/esp)
 
 - **Client** Dr. Ryan McCulla
 - **Current Tech Lead:** Raju Karmuri [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rkarmuri) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/rajukarmuri731/)

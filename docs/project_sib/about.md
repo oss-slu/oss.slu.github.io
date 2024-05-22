@@ -12,7 +12,7 @@ The objective of this project is to create an educational learning tool enabling
 
 ### Information
 
-- **Source Code:** <https://github.com/oss-slu/Seeing-is-Believing> [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/Seeing-is-Believing)
+- **Source Code:** [https://github.com/oss-slu/Seeing-is-Believing](https://github.com/oss-slu/Seeing-is-Believing) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/Seeing-is-Believing)
 - **Client:** 
   - [Dr. Christina Garcia](https://www.slu.edu/arts-and-sciences/languages-literatures-cultures/faculty/garcia-christina.php)
 - **Current Tech Lead:** Sailikhita Pulijala [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/LikhitaPulijala)

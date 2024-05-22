@@ -12,14 +12,14 @@ DEER is a framework for designers to quickly template web components for exhibit
 
 ### Information
 
-- **Source Code:** <https://github.com/CenterForDigitalHumanities/deer>
+- **Source Code:** [https://github.com/CenterForDigitalHumanities/deer](https://github.com/CenterForDigitalHumanities/deer)
 - **Client**: Research Computing Group, Saint Louis University
 - **Current Tech Lead:** [Bryan Haberberger](https://github.com/theHabes)
 - **Developers:**
-  - https://github.com/sophiabahru (capstone)
-  - https://github.com/Regorh (capstone)
-  - https://github.com/cubap (RCG staff)
-  - https://github.com/theHabes (RCG staff)
+  - Sophia Bahru (capstone) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/sophiabahru)
+  - Rob Helme (capstone) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/Regorh)
+  - Patrick Cuba (RCG staff) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/cubap)
+  - Bryan Haberberger (RCG staff) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25" />](https://github.com/theHabes) 
 - **Start Date:** April 2019
 - **Adoption Date:** August 2023
 - **Technologies Used:** 
@@ -30,7 +30,7 @@ DEER is a framework for designers to quickly template web components for exhibit
 - **License:** none
 - **Version:** 0.92
 
-### Users Guide
+## User Guide
 
 Instructions for use are available in the [project wiki](https://github.com/CenterForDigitalHumanities/deer/wiki/Using-DEER-in-your-project). 
 Examples can be seen at https://deer.rerum.io.
