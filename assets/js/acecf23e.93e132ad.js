@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopen_source_with_slu=self.webpackChunkopen_source_with_slu||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/news/","blogTitle":"Blog"}')}}]);
