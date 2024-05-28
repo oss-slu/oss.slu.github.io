@@ -124,7 +124,7 @@ In addition to student volunteers looking to grow their skills, we have used OSP
 3. **Retaining Volunteers:** We've had difficulty keeping external developers interested; they typically join by resolving one 'good first issue' and then we never hear back from them. Better engagement with external developers could help overcome this challenge.
 
 #### Success Metrics
-1. Number of issues (across all projects) resolved by external developers.
+1. Number of issues resolved by external developers.
 2. Number of issues resolved per external developer.
 
 ### 4. Community Training
@@ -246,25 +246,13 @@ This project was successful based on the following success metrics (as described
  - COLR staff applied for an NEH Digital Humanities Advancement Grant to continue their studies, based on the preliminary tools we built (success metric from the [Faculty Outreach](#5-faculty-outreach) section)
  - Tech lead from this project received a job offer from COLR (success metric from the [Industry Outreach](#6-industry-outreach) section)
 
-#### Speech Transcription
-- **Overview:** The Speech Transcription project . This project was initiated by a faculty member in the Computer Science department, with potential applications in various domains, including education and healthcare.
+#### MeltShiny
+MeltShiny allows computational chemists to perform the analysis of the aminoacid melting temperatures without the need for programming knowledge. It's a web browser based user interface that interacts with the [MeltR](https://github.com/JPSieg/MeltR) library. The application is deployed [here](https://oss-slu.shinyapps.io/MeltShiny/) and can be accessed by anyone with a web browser.
 
-- **Success Factors:**
- - Presentations and Demonstrations: The OSPO team and faculty collaborators presented the Speech Transcription system at various conferences and events, garnering recognition and interest from industry and research communities.
+This project was successful based on the following success metrics (as described in this playbook):
+ - The client is intersted in continuing to work with us (after two years of collaboration). There are a few fixes that remain to be done to get this application to the state when it can be actively used by clients. (success metric from the [Project Selection, Deliveray, and Support](#1-project-selection-delivery-and-support) section)
+ - All students working on this rpoject recieved top grades. (success metric from the [Software Development with Enrolled Students](#2-software-deveopment-with-enrolled-students) section)
+ - We secured $25K in internal funding to continue development of this application. (success metric from the [Faculty Outreach](#5-faculty-outreach) section)
 
-### Failed Projects
-- **Project X:** This project aimed to develop a web-based platform for managing and analyzing large-scale scientific datasets. However, the project faced several challenges, including:
- - Lack of Clear Requirements: 
- - Limited Domain Knowledge: 
- - Resource Constraints:
+### Failed Project - Santiago
  
-- **Project Y:** 
- - Technological Limitations: The chosen technology stack proved inadequate for handling the required scale and complexity of the application, leading to performance issues and limited functionality.
-
-### Mixed Outcomes
-- **Project Z:** 
-   - Successful Outcomes:
-   - Student Engagement: 
- - Challenges:
-   - Hardware Limitations: 
-   - Scalability Issues: 
