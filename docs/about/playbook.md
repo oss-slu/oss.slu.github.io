@@ -297,4 +297,11 @@ This project was successful based on the following success metrics (as described
 - We secured $25K in internal funding to continue development of this application. (success metric from the [Faculty Outreach](#5-faculty-outreach) section)
 
 ### Failed Project - Santiago
- 
+
+A request was submitted by a neuroscience lab for a desktop application for 3D imaging macroscopy data. An existing open source MatLab library was identified in the original request, but the lab did not have anyone with software development skills. The project was accepted on its scientific merits and with the expectation that the MatLab library coud be used as an engine for a desktop app. Early on risks were identified regarding a hard dependency on the upstream library with a sole developer, limited MatLab experience amongst available developers, and engineering challenges using MatLab as a procesing engine for a desktop based app. Ultimately the team faced significant challenges creating a performant application that could handle the volume of data in the 3D point clouds that MatLab was generating, and various team members expressed concern that the upstream library did not seem be getting maintenance updates.
+
+There are several lessons learned from this project:
+
+- The project selection rubric must weigh risk factors and either de-prioritize or find alternative approaches to projects with excessive risks.
+- When considering open source libraries or dependencies, prioritize those with active development communities, frequent updates, and robust documentation, or find ways to engage with single-developer dependencies to begin building communities around their projects.
+- Identify alternative means for supporting research software needs, including helping researchers with training or referrals to developers with more experience in a required tech stack.
