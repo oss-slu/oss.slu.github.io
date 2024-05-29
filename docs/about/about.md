@@ -10,7 +10,8 @@ Open Source with SLU was established to help SLU researchers with their custom s
 
 ### Daniel Shown
 <div className="Lead">
-    <img src="/img/daniel.jpg" alt="Daniel Shown - Program Director" className="LeadImage"/>
+<a href = "https://github.com/kungfuchicken" target = "blank">
+    <img src="/img/daniel.jpg" alt="Daniel Shown - Program Director" className="LeadImage"/></a>
 </div>
 
 Daniel Shown is the Program Director of the Open Source with SLU program. He handles the program's daily operations, builds connections with industry partners, works with internal and external clients of the program, and guides and supports our graduate students. Daniel's focus is to ensure that the program follows its mission of research support, commitment to open-source, and providing students with relevant software development experience.
@@ -18,7 +19,8 @@ Daniel Shown is the Program Director of the Open Source with SLU program. He han
 ### Kate Holdener, Ph.D.
 
 <div className="Lead">
-    <img src="/img/kate.png" alt="Daniel Shown - Program Director" className="LeadImage"/>
+<a href = "https://github.com/kate-holdener" target = "blank">
+    <img src="/img/kate.png" alt="Kate Holdener - Program Director" className="LeadImage"/></a>
 </div>
 
 Kate Holdener is an Assistant Professor of Computer Science at Saint Louis University. Her main focus in the department is on software engineering courses. She founded the open-source software program in an effort to engage more students in open-source development, as a way to give them practical experience during school.
@@ -30,43 +32,43 @@ Graduate students are at the heart of our open-sour​ce program. They work with
 ### Current Graduate Assistant Team Leads
 <div className="techLeadsGrid">
 <div className="techLead">
-<a href = "https://github.com/AbhilashKotha">
+<a href = "https://github.com/AbhilashKotha" target="blank">
     <img src="/img/abhilash_avatar.jpg" alt="Abhilash Kotha - Graduate Assistant Team Lead" className="teamLeadImage"/>
         <p>Abhilash Kotha</p>
         </a>
     </div>
 <div className="techLead">
-<a href = "https://github.com/loganwyas">
+<a href = "https://github.com/loganwyas" target="blank">
     <img src="/img/logan_avatar.jpg" alt="Logan Wyas - Graduate Assistant Team Lead" className="teamLeadImage"/>
         <p>Logan Wyas</p>
         </a>
     </div>
     <div className="techLead">
-    <a href= "https://github.com/ruthvikm">
+    <a href= "https://github.com/ruthvikm" target="blank">
     <img src="/img/ruthvik_avatar.png" alt="Ruthvik Mannem- Graduate Assistant Team Lead" className="teamLeadImage"/>
         <p>Ruthvik Manneem</p>
         </a>
     </div>
 <div className="techLead">
-<a href = "https://github.com/LikhitaPulijala">
+<a href = "https://github.com/LikhitaPulijala" target="blank">
     <img src="/img/likhita-avatar.jpg" alt="Sailikhita Pulijala - Graduate Assistant Team Lead" className="teamLeadImage"/>
         <p>Sailikhita Pulijala</p>
         </a>
     </div>
     <div className="techLead">
-    <a href="https://github.com/SiriChandanaGarimella">
+    <a href="https://github.com/SiriChandanaGarimella" target="blank">
     <img src="/img/siri_avatar.jpg" alt="Siri Chandana Garimella - Graduate Assistant Team Lead" className="teamLeadImage"/>
         <p>Siri Chandana Garimella</p>
         </a>
     </div>
  <div className="techLead">
- <a href ="https://yashb196.github.io/yashb196/">
+ <a href ="https://yashb196.github.io/yashb196/" target="blank">
     <img src="/img/yash_avatar1.jpg" alt="Yash Kamal Bhatia - Graduate Assistant Team Lead" className="teamLeadImage"/>
         <p>Yash Kamal Bhatia</p>
         </a>
     </div>
      <div className="techLead">
-     <a href = "https://github.com/yashaswini-slu">
+     <a href = "https://github.com/yashaswini-slu" target="blank">
     <img src="/img/yashaswini_avatar.jpg" alt="Yashaswini Shivalingaiah - Graduate Assistant Team Lead" className="teamLeadImage"/>
         <p>Yashaswini Shivalingaiah</p>
         </a>
@@ -77,13 +79,13 @@ Graduate students are at the heart of our open-sour​ce program. They work with
 
 <div className="techLeadsGrid">
 <div className="techLead">
-<a href = "https://github.com/rkarmuri">
+<a href = "https://github.com/rkarmuri" target="blank">
     <img src="/img/raju_avatar.jpeg" alt="Raju Karmuri - Individual Developer" className="teamLeadImage"/>
         <p>Raju Karmuri</p>
         </a>
     </div>
 <div className="techLead">
-<a href = "https://github.com/chintakjoshi">
+<a href = "https://github.com/chintakjoshi" target="blank">
     <img src="/img/chintak_avatar1.JPG" alt="Chintak Joshi - Individial Developer" className="teamLeadImage"/>
         <p>Chintak Joshi</p>
         </a>
@@ -94,25 +96,25 @@ Graduate students are at the heart of our open-sour​ce program. They work with
 
 <div className="techLeadsGrid">
  <div className="techLead">
- <a href = "https://github.com/GreihMurray">
+ <a href = "https://github.com/GreihMurray" target="blank">
     <img src="/img/greih.jpg" alt="Greih Murray - Previous Graduate Assistant Team Lead" className="teamLeadImage"/>
         <p>Greih Murray</p>
         </a>
     </div>
     <div className="techLead">
-    <a href = "https://github.com/HalimaMalik">
+    <a href = "https://github.com/HalimaMalik" target="blank">
     <img src="/img/halima.jpg" alt="Halima Malik - Previous Graduate Assistant Team Lead" className="teamLeadImage"/>
         <p>Halima Malik</p>
         </a>
     </div>
     <div className="techLead">
-    <a href = "https://github.com/OmarAlAkkad">
+    <a href = "https://github.com/OmarAlAkkad" target="blank">
     <img src="/img/Omar.jpg" alt="Omar Al Akkad - Previous Graduate Assistant Team Lead" className="teamLeadImage"/>
         <p>Omar Al Akkad</p>
         </a>
     </div>
     <div className="techLead">
-    <a href = "https://github.com/aithaprasad">
+    <a href = "https://github.com/aithaprasad" target="blank">
     <img src="/img/uday.jpg" alt="Uday Prasad Aitha - Previous Graduate Assistant Team Lead" className="teamLeadImage"/>
         <p>Uday Prasad Aitha</p>
         </a>
@@ -130,7 +132,8 @@ Staff from Saint Louis University's Research Computing Group have been key partn
 ### Patrick Cuba
 
 <div className="Lead">
-    <img src="/img/patrick_avatar1.jpg" alt="Patrick Cuba - IT Architect" className="LeadImage"/>
+<a href="https://github.com/cubap" target="blank">
+    <img src="https://github.com/cubap.png" alt="Patrick Cuba - IT Architect" className="LeadImage"/></a>
 </div>
 
 
@@ -139,7 +142,8 @@ Patrick Cuba is the IT Architect for RCG at SLU. His service is focused on consu
 ### Bryan Haberberger
 
 <div className="Lead">
-    <img src="/img/bryan_avatar.jpeg" alt="Bryan Haberberger - Full Stack Developer" className="LeadImage"/>
+<a href = "https://github.com/thehabes" target="blank">
+    <img src="https://github.com/thehabes.png" alt="Bryan Haberberger - Full Stack Developer" className="LeadImage"/> </a>
 </div>
 
 Bryan Haberberger is the Full Stack Developer for RCG at SLU. He works in the technology stacks behind various projects, and his focus shifts sprint by sprint. Simply put, he is a professional developer on campus and a resource for faculty, staff, students, and outside collaborators looking for software development expertise, especially in the realm of Web Applications. In recent years, he has accrued specialized skills with geospatial data on the web and is a member of the Open Geospatial Consortium, as well as an IIIF Maps TSG co-chair, as part of his commitment to open-source technologies.
