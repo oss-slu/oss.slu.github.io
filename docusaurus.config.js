@@ -10,6 +10,7 @@ const config = {
   tagline: 'Experience - Education - Research',
   url: 'https://oss-slu.github.io/',
   baseUrl: '/',
+  favicon: '/img/favicon.ico',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
   trailingSlash: false,
@@ -57,6 +58,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      image: 'img/oss-logo-2.png',
       colorMode: {
         defaultMode: 'light',
         disableSwitch: true,
@@ -65,7 +67,21 @@ const config = {
       navbar: {
         logo: {
           alt: 'Open Source with SLU',
-          src: 'img/oss-logo-2.png',
+          src: 'img/navbar-logo-2.png',
+          href: 'https://oss-slu.github.io/',
+          target: '_self',
+          height: 60,
+          width: 205,
+          style: {
+            height: '80px',
+            width: '225px',
+            marginTop: '-20px',
+            marginLeft: '15px',
+            borderRadius: '0px 0px 30px 30px',
+            background: '#fff',
+            padding: '10px',
+            boxShadow: '0px 1px 2px 0px rgba(0,0,0,0.1)',
+            },
         },
         items: [
           {
