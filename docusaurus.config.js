@@ -10,6 +10,7 @@ const config = {
   tagline: 'Experience - Education - Research',
   url: 'https://oss-slu.github.io/',
   baseUrl: '/',
+  favicon: '/img/favicon.ico',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
   trailingSlash: false,
