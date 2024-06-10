@@ -1,4 +1,5 @@
 import React from 'react';
+import ProfilePic from './Profilepic';
 
 const prevDevelopers = [
     {
@@ -30,18 +31,15 @@ const prevDevelopers = [
 const PrevTechLeads = () => {
   return (
     <div className="techLeadsGrid">
-        {prevDevelopers.map((dev,index)=> {
-            const imgSrc = dev.imgSrc || `${dev.githubUrl}.png`;
-        
-            return (
-                <div className="techLead" key={index}>
-                    <a href={dev.githubUrl} target="_blank" rel="noopener noreferrer">
-                        <img src={imgSrc} alt={dev.altText} className='techLeadImage'/>
-                        <p>{dev.name}</p>
-                    </a>
-                </div>
-            )
-        })}
+      {prevDevelopers.map((lead, index) => (
+        <ProfilePic
+          key={index}
+          githubUrl={lead.githubUrl}
+          imgSrc={lead.imgSrc}
+          altText={lead.altText}
+          name={lead.name}
+        />
+      ))}
     </div>
   );
 }

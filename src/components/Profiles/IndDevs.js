@@ -1,4 +1,5 @@
 import React from 'react';
+import ProfilePic from './Profilepic';
 
 const developers = [
     {
@@ -18,19 +19,15 @@ const developers = [
 const IndDevs = () => {
   return (
     <div className="techLeadsGrid">
-      {developers.map((dev, index) => {
-        // Determine the image source, use GitHub profile picture if imgSrc is not provided
-        const imgSrc = dev.imgSrc || `${dev.githubUrl}.png`;
-
-        return (
-          <div className="techLead" key={index}>
-            <a href={dev.githubUrl} target="_blank" rel="noopener noreferrer">
-              <img src={imgSrc} alt={dev.altText} className="teamLeadImage"/>
-              <p>{dev.name}</p>
-            </a>
-          </div>
-        );
-      })}
+      {developers.map((lead, index) => (
+        <ProfilePic
+          key={index}
+          githubUrl={lead.githubUrl}
+          imgSrc={lead.imgSrc}
+          altText={lead.altText}
+          name={lead.name}
+        />
+      ))}
     </div>
   );
 }

@@ -1,4 +1,5 @@
 import React from 'react';
+import ProfilePic from './Profilepic';
 
 const techLeads = [
   {
@@ -48,18 +49,15 @@ const techLeads = [
 const TechLeads = () => {
   return (
     <div className="techLeadsGrid">
-      {techLeads.map((lead, index) => {
-        const imgSrc = lead.imgSrc || `${lead.githubUrl}.png`;
-
-        return (
-          <div className="techLead" key={index}>
-            <a href={lead.githubUrl} target="_blank" rel="noopener noreferrer">
-              <img src={imgSrc} alt={lead.altText} className="teamLeadImage"/>
-              <p>{lead.name}</p>
-            </a>
-          </div>
-        );
-      })}
+      {techLeads.map((lead, index) => (
+        <ProfilePic
+          key={index}
+          githubUrl={lead.githubUrl}
+          imgSrc={lead.imgSrc}
+          altText={lead.altText}
+          name={lead.name}
+        />
+      ))}
     </div>
   );
 }
