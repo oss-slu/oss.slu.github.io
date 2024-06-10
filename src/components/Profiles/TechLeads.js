@@ -1,5 +1,5 @@
 import React from 'react';
-import ProfilePic from './Profilepic';
+import ProfilePic from './ProfilePic';
 
 const techLeads = [
   {
