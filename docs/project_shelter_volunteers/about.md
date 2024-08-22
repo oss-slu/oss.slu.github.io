@@ -15,7 +15,7 @@ Homeless shelters rely on volunteers' help. When inclement weather strikes, home
 - **Source Code:** [https://github.com/oss-slu/shelter_volunteers](https://github.com/oss-slu/shelter_volunteers) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/shelter_volunteers)
 - **Client** Tim Huffman (House Everyone StL)
 - **External Mentors** Women in Technology Group (WWT), GetHelp
-- **Current Tech Lead:** Siri Chandana Garimella [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChandanaGarimella)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/sirichandana-garimella/)
+- **Current Tech Lead:** Brijitha Tialu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Brijitha1609)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/brijitha-tialu/)
 - **Developers:**
   - Akhil Vemulapally (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vakhil-98)
   - Chloe Biddle (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cbiddle3)
@@ -23,6 +23,7 @@ Homeless shelters rely on volunteers' help. When inclement weather strikes, home
   - Abhilash Kotha (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AbhilashKotha)
   - Logan Wyas (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
   - Saiteja Gollapalli (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Sai9797)
+  - Siri Chandana Garimella (Previous Tech Lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChandanaGarimella)
 - **Start Date:** August, 2023
 - **Adoption Date:** August, 2023
 - **Technologies Used:** 
