@@ -20,7 +20,7 @@ custom_edit_url: https://github.com/oss-slu/lrda_mobile
   - Tom Irvine (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/irvinet20) 
   - Tianhao Wang (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SamSam9812) 
 
-  - Yash Bhatia (alumni, previous tech lead, senior developer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://yashb196.github.io/yashb196/) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />]( https://www.linkedin.com/in/yashbhatia238/)
+  - Yash Bhatia (alumni, previous tech lead, senior developer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashb196) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />]( https://www.linkedin.com/in/yashbhatia238/)
 
   - Stuart Ray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Stuartwastaken)
   - Izak Robles (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/izakrobles)
