@@ -51,4 +51,4 @@ The test scenario utilizes a testbed, represented by the "DRV Testbed" box, whic
 
 ## Get Involved
 
-Contribution and participation overview, with a [contributor's guide.](https://github.com/oss-slu/DroneWorld/wiki/Contributing-Guide)
+To get involved and contribute to this project, please check out our [contribution guide.](https://github.com/oss-slu/DroneWorld/wiki/Contributing-Guide)
