@@ -1,7 +1,6 @@
 ---
 id: about
 title: Drone World
-custom_edit_url: null
 ---
 
 ## Overview
