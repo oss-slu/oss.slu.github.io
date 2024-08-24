@@ -43,7 +43,9 @@ We are especially interested in projects supporting researchers, focused on rese
   
 **[Where's Religion Desktop](project_wheres_religion_desktop/about.md)** - Where's Religion Desktop is an enhancement on the mobile version which will have extended features.  
   
-**[Where's Religion Mobile](project_wheres_religion_mobile/about.md)** - This Project is to create an application for ethnographers to capture the events happening around them along with some audio/visual representation of the event.  
+**[Where's Religion Mobile](project_wheres_religion_mobile/about.md)** - This Project is to create an application for ethnographers to capture the events happening around them along with some audio/visual representation of the event. 
+
+**[Digital Bone Box](project_digital_bone_box/about.md)** - This project is a Web Application aims to convert an existing PowerPoint-based educational tool into an interactive, mobile-friendly web application.
 
 ## Current Internal Service Projects
 
