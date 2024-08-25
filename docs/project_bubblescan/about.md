@@ -16,8 +16,9 @@ The chemistry department at SLU uses paper scantron (fill-in-the-bubble) sheets 
 - **Source Code:** [https://github.com/oss-slu/bubble_scan](https://github.com/oss-slu/bubble_scan) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/bubble_scan)
 
 - **Client** Dr. Brian Woods
-- **Current Tech Lead:** Raju Karmuri [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rkarmuri) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/rajukarmuri731/)
+- **Current Tech Lead:** Chirag Gupta [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Chirag2x) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/chirag-gupta-3911961b4/)
 - **Developers:**
+  - Raju Karmuri (Alumni, Previous Tech lead)[<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rkarmuri) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/rajukarmuri731/)
 
   - Myles Correa [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mylescorrea)
 
