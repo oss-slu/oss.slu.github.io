@@ -23,13 +23,14 @@ The goal of this project is to create a flexible, web-based, search-driven user 
   - Greih Murray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/GreihMurray) 
   - Josiah Glyshaw (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jglyshaw) 
   - Thomas McGuigan (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thomasmcg77) 
+  - Abhilash Kotha (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AbhilashKotha)
 
 - **Start Date:** Mar, 2023 
 - **Adoption Date:** Mar, 2023
 - **Technologies Used:** 
   - React
   - Flask
-  - PstgreSQL
+  - PostgreSQL
 - **Type:** Web application
 - **License:** [MIT](https://opensource.org/license/mit)
 
