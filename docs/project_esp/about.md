@@ -19,7 +19,7 @@ The SLU computational chemistry researchers, working on understanding various pr
 - **Developers:**
   - Hayden Karl [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/haydenkarl22)
   - Medhani Kalal [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mkalal6)
-  - Raju Karmuri(alumni, previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rkarmuri) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/rajukarmuri731/)
+  - Raju Karmuri(alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rkarmuri) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/rajukarmuri731/)
 - **Start Date:** Jan, 2024
 - **Adoption Date:** Aug, 2022
 - **Technologies Used:**
