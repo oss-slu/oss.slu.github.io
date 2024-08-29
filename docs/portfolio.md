@@ -52,6 +52,11 @@ We are especially interested in projects supporting researchers, focused on rese
 **[iSpraak](project_ispraak/about.md)** - This project is to automate speech evaluation of language learners and to provide them with instantaneous corrective feedback.
 
 
+## External Projects
+
+**[TPEN Interfaces](project_tpeninterfaces/about.md)** - The TPEN Interfaces project provides a set of customizable web interfaces that leverage the TPEN Services API.
+
+
 ## Other Projects
 
 - ML Code Generator
