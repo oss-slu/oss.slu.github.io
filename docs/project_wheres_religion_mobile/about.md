@@ -13,15 +13,14 @@ custom_edit_url: https://github.com/oss-slu/lrda_mobile
 ### Information
 
 - **Source Code:** [https://github.com/oss-slu/lrda_mobile](https://github.com/oss-slu/lrda_mobile) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/lrda_mobile)
-- **Client** Dr. Adam Park
+- **Client:** Dr. Adam Park
+- **Senior Developer:** [Yash Bhatia](https://yashb196.github.io/yashb196/) (alumni, previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashb196) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />]( https://www.linkedin.com/in/yashbhatia238/)
+
 - **Current Tech Lead:** - Karthik Mangineni [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rcAsironman) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/karthik-mangineni-086a49234)
 - **Developers:**
-  - Andrew Chen (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AndchooChen)
-  - Tom Irvine (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/irvinet20) 
-  - Tianhao Wang (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SamSam9812) 
-
-  - Yash Bhatia (alumni, previous tech lead, senior developer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashb196) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />]( https://www.linkedin.com/in/yashbhatia238/)
-
+  - Andrew Chen (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AndchooChen)
+  - Tom Irvine (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/irvinet20) 
+  - Tianhao Wang (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SamSam9812) 
   - Stuart Ray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Stuartwastaken)
   - Izak Robles (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/izakrobles)
 
