@@ -18,11 +18,11 @@ The existence of Pi4Micronaut is justified by the need for a robust, scalable, a
 - **Client** Jeff Brown - Unity Foundation
 - **Current Tech Lead:** Yenkatarajalaxmimanohar [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yrlmanoharreddy)
 - **Developers:**
-  - Ruthvik Mannem (Previous Tech Lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ruthvikm)
-  - Adrian Swindle (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SwindleA)
-  - Alex Delgado (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/adelgadoj3)
-  - Joe Folen (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/joefol)
-  - John Yanev (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jyanev)
+  - Ruthvik Mannem (prior tech lead, alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ruthvikm)
+  - Adrian Swindle (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SwindleA)
+  - Alex Delgado (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/adelgadoj3)
+  - Joe Folen (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/joefol)
+  - John Yanev (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jyanev)
   - Greih Murray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/GreihMurray)
   - Austin Howard (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/austinjhoward)
   - Traison Diedrich (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/traison-diedrich)
