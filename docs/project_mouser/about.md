@@ -17,13 +17,13 @@ Created mainly for SLU researchers, this software is used for collecting and ana
 - **Current Tech Lead:** Jack Belyeu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jackbelyeu)
 - **Developers:**
 
-  - Ryan Carmody (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rc10283)
   - Andrew Obermiller (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aobermiller)
-  - Stanley Yang (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/stanleyyang2001)
-  - Uday Prasad Aitha (alumni, previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aithaprasad)
-  - Tyler Bush (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tbush03)
   - Cori Diaz (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/coridiaz)
-  - Logan Wyas (previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
+  - Logan Wyas (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
+  - Ryan Carmody (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rc10283)
+  - Stanley Yang (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/stanleyyang2001)
+  - Tyler Bush (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tbush03)
+  - Uday Prasad Aitha (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aithaprasad)
 
 - **Start Date:** July 2022
 - **Adoption Date:** July 2022
@@ -32,7 +32,6 @@ Created mainly for SLU researchers, this software is used for collecting and ana
     - Tkinter
     - PySerial
   - SQLite
-  - GitHub Actions
 - **Type:** Desktop
 - **License:** [GNU General Public License v3.0](https://opensource.org/license/gpl-3-0/)
 
