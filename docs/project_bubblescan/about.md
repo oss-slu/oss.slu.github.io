@@ -48,11 +48,11 @@ Overview of the software architecture.
 
 ### Development Priorities
 
-- Develop a robust frontend component that allows user to upload the Scantron sheets
-- Develop the backend component to receive the sheets from the frontend component
+- Optimize the AI Components
+- Develop the backend component to accept the custom sheets
+- Develop the frontend componentt to have options for uploading the custom sheets
 - The backend component should work efficiently and send the sheets to the AI component
 - The backend component should receive the results from the AI component
-- The backend component should convert the results to CSV format as expected from client and send it to frontend
 - The frontend component allows user to download the results
 
 ## Get Involved
