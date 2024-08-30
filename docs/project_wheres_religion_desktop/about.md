@@ -21,8 +21,8 @@ Where's Religion? is conceptualized and designed for diverse users with interest
   - Josh Hogan (Alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Josh-Hogan-87)
 
   - Varsith Reddy Legala (volunteer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/VarsithReddyLegala)
-- **Start Date:** 25 Aug 2024
-- **Adoption Date:** 25 Aug 2024
+- **Start Date:** 25 Aug 2023
+- **Adoption Date:** 25 Aug 2023
 - **Technologies Used:** 
   - Tech Stack:  React , TypeScript, JavaScript​​.
   - Key Languages: TypeScript, JavaScript​​​​.
