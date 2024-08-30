@@ -20,7 +20,8 @@ MeltShiny is a software application that automates the analysis and visualizatio
   - Zohaib Ahmed (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/zohaib-a-ahmed)
   - Ethan Gray (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ethan-gray-01)
   - Massimo Evelti (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Massi-Papi)
-  - Uday Prasad Aitha (alumni, previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aithaprasad) 
+  - Uday Prasad Aitha (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aithaprasad) 
+  - Sailikhita Pulijala (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/LikhitaPulijala) 
   - Shlok Patel (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/shlokpat6) 
   - Colleen Wade (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cwade6) 
   - Anthony Hampton (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/adhampton110) 
@@ -35,8 +36,23 @@ MeltShiny is a software application that automates the analysis and visualizatio
 
 ### User Guide
 
-MeltShiny requires specific dependencies to function correctly. Installation files for R packages are included in the application bundle:
+MeltShiny is a web-based tool designed for researchers to easily analyze and visualize DNA melting curves.
 
+**Access the Web App**: Open the MeltShiny web app on any modern browser.
+
+**Upload Your Data**: Use the "Upload Data" section to upload files in .xlsx format.
+
+**Visualize Results**: Customize and generate graphs in the "Visualize Data" section to explore melting curves and other data.
+
+**Analyze and Export**: View detailed thermodynamic parameters in the "Analysis" section and export findings in preferred formats.
+
+**Get Help**: Visit the "Help" section for guides and support, or contact our team directly for assistance.
+
+MeltShiny streamlines complex DNA data analysis, allowing researchers to focus on scientific insights.
+
+## Installation
+
+MeltShiny requires specific dependencies to function correctly. Installation files for R packages are included in the application bundle:
   - **MacOS**: MeltShinyDependenciesInstaller.command (located in the MacOS_Scripts folder)
   - **Windows**: MeltShinyDependenciesInstaller.bat (located in the Windows_Scripts folder)
 
