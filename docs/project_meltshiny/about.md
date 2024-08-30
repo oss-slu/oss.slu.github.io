@@ -40,7 +40,7 @@ MeltShiny is a web-based tool designed for researchers to easily analyze and vis
 
 **Access the Web App**: Open the MeltShiny web app on any modern browser.
 
-**Upload Your Data**: Use the "Upload Data" section to upload files in .xlsx format.
+**Upload Your Data**: Use the "Upload Data" section to upload files in .csv format.
 
 **Visualize Results**: Customize and generate graphs in the "Visualize Data" section to explore melting curves and other data.
 
