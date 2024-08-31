@@ -24,7 +24,7 @@ This interdisciplinary project involves collaboration between Aeronautics studen
   - C++
 
 - **Type:** TBD
-- **License:** [MIT](https://opensource.org/license/mit)
+- **License:** TBD
 
 
 ## Get Involved
