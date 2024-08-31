@@ -31,7 +31,9 @@ We are especially interested in projects supporting researchers, focused on rese
   
 **[Mouser](project_mouser/about.md)** - This software is used for tracking the data of animal experiments.  
   
-**[Pi4Micronaut](project_pi4micronaut/about.md)** - A Java library crafted for developers who aim to build IoT  applications leveraging the Raspberry Pi platform.  
+**[Pi4Micronaut](project_pi4micronaut/about.md)** - A Java library crafted for developers who aim to build IoT  applications leveraging the Raspberry Pi platform.
+
+**[Pilot Data Synchronization](project_pilot_data_synchronization/about.md)** - This project aims to establish a real-time data synchronization channel between a flight simulator and the iMotions platform, enabling the accurate capture and analysis of critical flight data to enhance pilot performance evaluation. 
   
 **[Rerum Geolocator](project_rerum_geolocator/about.md)** - The application enables users to enhance discovery and access to digital resources through geographic visualization and annotation.  
   
@@ -43,9 +45,7 @@ We are especially interested in projects supporting researchers, focused on rese
   
 **[Where's Religion Desktop](project_wheres_religion_desktop/about.md)** - Where's Religion Desktop is an enhancement on the mobile version which will have extended features.  
   
-**[Where's Religion Mobile](project_wheres_religion_mobile/about.md)** - This Project is to create an application for ethnographers to capture the events happening around them along with some audio/visual representation of the event.  
-
-**[Pilot Data Synchronization](project_pilot_data_synchronization/about.md)** - This project aims to establish a real-time data synchronization channel between a flight simulator and the iMotions platform, enabling the accurate capture and analysis of critical flight data to enhance pilot performance evaluation.  
+**[Where's Religion Mobile](project_wheres_religion_mobile/about.md)** - This Project is to create an application for ethnographers to capture the events happening around them along with some audio/visual representation of the event.   
 
 
 ## Current Internal Service Projects
