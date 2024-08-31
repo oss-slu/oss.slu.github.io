@@ -20,7 +20,9 @@ We are especially interested in projects supporting researchers, focused on rese
 **[DADS (Database of Arithmetic Dynamical Systems)](project_dads/about.md)** - The goal of this project is to create a flexible, web-based, search-driven user interface for a database of arithmetic dynamical systems  
   
 **[Data Entry & Exhibition for Rerum](project_deer/about.md)** - A designer's framework for non-destructive annotation and template rendering for distributed digital resources and collections.  
-  
+
+**[Digital Bone Box](project_digital_bone_box/about.md)** - This project is a Web Application aims to convert an existing PowerPoint-based educational tool into an interactive, mobile-friendly web application.
+
 **[Drone World](project_droneworld/about.md)** - DroneWorld is a platform for testing small unmanned aerial systems (sUAS) applications by simulating realistic test scenarios based on specified requirements.
 
 **[Electronic Structure Parser](./project_esp/about.md)** - The esp is a web application that allows the user to upload the ORCA/Gaussian data and the software produces tabular results in a Word document.
@@ -45,7 +47,6 @@ We are especially interested in projects supporting researchers, focused on rese
   
 **[Where's Religion Mobile](project_wheres_religion_mobile/about.md)** - This Project is to create an application for ethnographers to capture the events happening around them along with some audio/visual representation of the event. 
 
-**[Digital Bone Box](project_digital_bone_box/about.md)** - This project is a Web Application aims to convert an existing PowerPoint-based educational tool into an interactive, mobile-friendly web application.
 
 ## Current Internal Service Projects
 
