@@ -30,9 +30,7 @@ TBD
 
 ## Technical Information
 
-### Overview
-
-The Digital Bone Box Web App will be developed based on the content from the existing PowerPoint slides, transforming static presentations into a dynamic, user-centric learning tool.
+### Technical Overview
 
 #### Existing Tool and Conversion
 
