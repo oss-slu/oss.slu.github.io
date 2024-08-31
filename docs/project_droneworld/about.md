@@ -13,26 +13,31 @@ By automating and streamlining the testing process, Drone World improves safety,
 
 - **Source Code:**  https://github.com/oss-slu/DroneWorld [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/DroneWorld)
 - **Client:** [Dr. Ankit Agrawal](https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/ankit-agrawal.php) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ankyAgrawal)
-- **Current Tech Lead:** Mohammad Al-Hanoosh [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mohamdlog)  <!--[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/)-->
+- **Current Tech Lead:** Mohammad Al-Hanoosh [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mohamdlog)
 - **Developers:**
-    - Student [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/)
-    - Student [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/)
-    - Student [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/) 
+    <!--[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/)-->
+    <!--
+    - Student (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/)
+    - Student (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/)
+    - Student (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/) 
+    -->
+    - Yashaswini Shivalingaiah (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashaswini-slu)
+    - Kaleb Yu (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kalyus)
+    - Szymon Rostkowski (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sr259)
+    - Hebron Bekele (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hebronh) 
 - **Start Date:** 9th Feb 2023
 - **Adoption Date:** 25 Aug 2023
-
-### Technologies and Dependencies
-
-- **Key Languages:** Python, TypeScript, JavaScript
-- **Key Technologies:** React (Frontend), Flask (Backend APIs), Unreal Engine with AirSim (Simulation)
-- **Databases:** MongoDB
-- **Critical Dependencies:** PX4, ArduPilot, Unreal Engine
+- **Technologies Used:**
+    - Key Languages: Python, TypeScript, JavaScript
+    - Key Technologies: React (Frontend), Flask (Backend APIs), Unreal Engine with AirSim (Simulation)
+    - Databases: MongoDB
+    - Critical Dependencies: PX4, ArduPilot, Unreal Engine
 - **Type:** Desktop
-- **License:** [MIT](https://opensource.org/license/mit)
+- **License:**
 
 ### User Guide
 
-The user sets up a test scenario via the web interface by specifying the number of drones, their sensors, mission objectives, and operating environment. They also define critical safety properties, such as minimum separation distances between drones, based on system requirements or regulations. After the test, Drone World provides a comprehensive report that includes logs, telemetry data, property violation analysis, and visualizations of key metrics.
+The user sets up a test scenario via the web interface by specifying the number of drones, their sensors, mission objectives, and operating environment. They also define critical safety properties, such as minimum separation distances between drones, based on system requirements or regulations. After the test, Drone World provides a comprehensive report that includes logs, telemetry data, property violation analysis, and visualizations of key metrics. For a more comprehensive guide, [see the User Guide](https://github.com/oss-slu/DroneWorld/wiki/User-Guide).
 
 ## Technical Information
 
@@ -40,7 +45,9 @@ The user sets up a test scenario via the web interface by specifying the number 
 
 ![Architecture](DroneWorld%20Architecture.png)
 
-The test scenario utilizes a testbed, represented by the "DRV Testbed" box, which includes sensor models, GPS models, plugins, and shadow models. Initially, the environment is configured and tests are defined through the "Configure Environment" and "Configure Application & Define Tests" boxes. The environment configuration sets system properties, settings, and features, while the application configuration sets drone parameters, simulation settings, and safety/test properties. After configuring the environment and tests, the scenario is executed using the "Execute Test Scenario" box. The testbed runs the tests, collecting monitoring data from various monitors tracking humans, drones, and the environment. Following the test, the data is consolidated and analyzed using the "Consolidate & Analyze Monitoring Data" box, which helps diagnose the system under test and generate the "Acceptance Test Result."
+The test scenario uses the "DRV Testbed" which includes sensor models, GPS models, plugins, and shadow models. First, configure the environment and define the tests. The "Configure Environment" box sets system properties, settings, and features. The "Configure Application & Define Tests" box sets drone parameters, simulation settings, and safety/test properties.
+
+Next, execute the test scenario with the "Execute Test Scenario" box. This runs the tests and collects monitoring data on humans, drones, and the environment. After the tests are complete, consolidate and analyze the monitoring data using the "Consolidate & Analyze Monitoring Data" box. This helps diagnose the system and generate the "Acceptance Test Result."
 
 ### Development Priorities
 
