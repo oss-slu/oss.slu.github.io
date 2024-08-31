@@ -17,7 +17,7 @@ The app will categorize the bones into modules such as the bony pelvis, lower li
 
 - **Source Code:** -
 - **Client** Dr. Brian Elliot - Program Director - Clinical Health Sciences
-- **Current Tech Lead:** Devi Priya Kolla
+- **Current Tech Lead:** Devi Priya Kolla [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/DeviPriya-Kolla)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/devi-priya-kolla-a95a78174)
 - **Developers:**
 TBD
 - **Start Date:** Aug, 2024
