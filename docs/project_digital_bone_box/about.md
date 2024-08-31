@@ -28,21 +28,19 @@ TBD
 - **License:** [MIT](https://opensource.org/license/mit)
 
 
-### Project Vision
+## Technical Information
 
-- **Transforming an Educational Tool:** Convert the Digital Bone Box, which includes real photos of bones with overlays and detailed descriptions, into a web application.
+### Overview
 
-- **Enhancing Student Learning:** Provide students with an engaging and interactive way to study anatomy compared to traditional methods.
+The Digital Bone Box Web App will be developed based on the content from the existing PowerPoint slides, transforming static presentations into a dynamic, user-centric learning tool.
 
-### Existing Tool and Conversion
+#### Existing Tool and Conversion
 
 - **From PowerPoint to Interactive App:** The current Digital Bone Box is a PowerPoint presentation with educational content. This project will transform it into a mobile app that students can easily use on their devices.
 
 - **Features of the Pre-existing Digital Bone Box:** Includes real photos of bones, overlays, and detailed descriptions to aid in the study of human anatomy
 
-### Description
-
-The Digital Bone Box Web App will be developed based on the content from the existing PowerPoint slides, transforming static presentations into a dynamic, user-centric learning tool. Key features of the app will include: 
+Key features of the app will include: 
 
 - **Categorized Bone Modules:**
 
