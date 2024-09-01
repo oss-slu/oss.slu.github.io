@@ -15,13 +15,15 @@ The Material Donor Mutual Assist project by BWorks is designed to streamline the
 - **Current Tech Lead:** Anjali Putta [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Anjali0407-git/) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/anjali-putta-278164227/)
 - **Developers:**
 
-  - Siri Chandana Garimella
-  - Manohar Reddy YRL
-  - Chirag Gupta
-  - Karthik Mangineni
-  - Abhi Stephen
-  - Krishnakanth
-  - Brijitha
+  - Siri Chandana Garimella [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChandanaGarimella)
+  - Manohar Reddy YRL [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yrlmanoharreddy)
+  - Chirag Gupta [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Chirag2x)
+  - Abhi Stephen Rokkam [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Abhi-Stephen)
+  - Krishnakanth Burugu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/krishnakanth-slu)
+  - Brijitha Tialu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Brijitha1609)
+  - Deepak PVSN [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/deepak-pvsn)
+  - Maryam Moshrefizadeh [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Moshrefi)
+  - Lalith Adithya Reddy Avuthu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/alar12)
 
 - **Start Date:** Mar, 2024
 - **Adoption Date:** Mar, 2024
