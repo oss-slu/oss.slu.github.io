@@ -56,6 +56,7 @@ We are especially interested in projects supporting researchers, focused on rese
 
 **[TPEN Interfaces](project_tpeninterfaces/about.md)** - The TPEN Interfaces project provides a set of customizable web interfaces that leverage the TPEN Services API.
 
+**[Rerum Playground](project_rerum_playground/about.md)** - Rerum Playground project is a webspace with tools to interact with objects that may exist in RERUM and all over the internet.
 
 ## Other Projects
 
