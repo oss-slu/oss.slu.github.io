@@ -16,9 +16,9 @@ _Note: careful review by a knowledgeable speech-language pathologist is required
 - **Clients:**
   - [Dr. Sara Steele](https://www.slu.edu/doisy/faculty/steele-sara.php)
   - [Dr. Elizabeth Roepke](https://www.slu.edu/doisy/faculty/roepke-elizabeth.php)
-- **Current Tech Lead:** Logan Wyas [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
+- **Current Tech Lead:** Sagar Rajesh Badgujar [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sagar3181)
 - **Developers:**
-
+  - Logan Wyas (previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
   - Colin Bush (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cbush201)
   - Travis Herrick (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/TravisHerrick7)
   - Jack Pifer (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/JackPifer)
