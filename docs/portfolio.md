@@ -15,6 +15,7 @@ We are especially interested in projects supporting researchers, focused on rese
 ## Current Capstone Projects
 
 <!-- **Project Name** One-sentence description of the purpose of the project  -->
+
 **[Bubble Scan](project_bubblescan/about.md)** - The bubble scan is a web application where the user provides digital copies of standard paper scantron sheets in a PDF format and the software produces tabular results in a CSV file.
 
 **[DADS (Database of Arithmetic Dynamical Systems)](project_dads/about.md)** - The goal of this project is to create a flexible, web-based, search-driven user interface for a database of arithmetic dynamical systems  
@@ -33,7 +34,9 @@ We are especially interested in projects supporting researchers, focused on rese
   
 **[Mouser](project_mouser/about.md)** - This software is used for tracking the data of animal experiments.  
   
-**[Pi4Micronaut](project_pi4micronaut/about.md)** - A Java library crafted for developers who aim to build IoT  applications leveraging the Raspberry Pi platform.  
+**[Pi4Micronaut](project_pi4micronaut/about.md)** - A Java library crafted for developers who aim to build IoT  applications leveraging the Raspberry Pi platform.
+
+**[Pilot Data Synchronization](project_pilot_data_synchronization/about.md)** - This project aims to establish a real-time data synchronization channel between a flight simulator and the iMotions platform, enabling the accurate capture and analysis of critical flight data to enhance pilot performance evaluation. 
   
 **[Rerum Geolocator](project_rerum_geolocator/about.md)** - The application enables users to enhance discovery and access to digital resources through geographic visualization and annotation.  
   
@@ -54,6 +57,11 @@ We are especially interested in projects supporting researchers, focused on rese
 
 **[iSpraak](project_ispraak/about.md)** - This project is to automate speech evaluation of language learners and to provide them with instantaneous corrective feedback.
 
+## External Projects
+
+**[TPEN Interfaces](project_tpeninterfaces/about.md)** - The TPEN Interfaces project provides a set of customizable web interfaces that leverage the TPEN Services API.
+
+**[Material Donor Mutual Assist](project_MDMA/about.md)** - The Material Donor Mutual Assist project by BWorks simplifies donation management by allowing donors to track their contributions from donation to use, fostering trust and encouraging ongoing support.
 
 ## Other Projects
 
