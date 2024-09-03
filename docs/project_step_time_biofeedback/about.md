@@ -20,7 +20,7 @@ The StepTB is a project focused on developing a tool that leverages force signal
   - TBD
 
 - **Start Date:** August 2024
-- **Adoption Date:** TBD
+- **Adoption Date:** August 2024
 - **Technologies Used:**
   - TBD
 - **Type:** TBD
