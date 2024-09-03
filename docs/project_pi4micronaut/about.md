@@ -16,17 +16,17 @@ The existence of Pi4Micronaut is justified by the need for a robust, scalable, a
 
 - **Source Code:** [https://github.com/oss-slu/Pi4Micronaut/](https://github.com/oss-slu/Pi4Micronaut/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/Pi4Micronaut/)
 - **Client** Jeff Brown - Unity Foundation
-- **Current Tech Lead:** Ruthvik Mannem [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ruthvikm)
+- **Current Tech Lead:** Yenkatarajalaxmimanohar [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yrlmanoharreddy)
 - **Developers:**
-  - Adrian Swindle (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SwindleA) 
-  - Alex Delgado (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/adelgadoj3)
-  - Joe Folen (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/joefol) 
-  - John Yanev (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jyanev) 
-  - Greih Murray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/GreihMurray) 
-  - Austin Howard (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/austinjhoward) 
-  - Traison Diedrich  (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/traison-diedrich)
-  - Sinuo Liu (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/liusinuo2000) 
-  
+  - Ruthvik Mannem (prior tech lead, alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ruthvikm)
+  - Adrian Swindle (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SwindleA)
+  - Alex Delgado (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/adelgadoj3)
+  - Joe Folen (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/joefol)
+  - John Yanev (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jyanev)
+  - Greih Murray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/GreihMurray)
+  - Austin Howard (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/austinjhoward)
+  - Traison Diedrich (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/traison-diedrich)
+  - Sinuo Liu (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/liusinuo2000)
 - **Start Date:** August 2022
 - **Adoption Date:** August 2022
 - **Technologies Used:**
@@ -39,7 +39,6 @@ The existence of Pi4Micronaut is justified by the need for a robust, scalable, a
 ### User Guide
 
 Pi4Micronaut is designed for Java developers who need to create IoT applications on the Raspberry Pi. To use this software, a developer would include the Pi4Micronaut library in their Java project, leveraging a build tool like Maven or Gradle for dependency management. The software facilitates interaction with the hardware peripherals of the Raspberry Pi via the GPIO pins, making use of the Micronaut framework's easy-to-use, compile-time dependency injection and aspect-oriented programming capabilities. To use it, developers include the Pi4Micronaut library in their Java project, write the application logic, and deploy it on the Raspberry Pi. The software abstracts the complexity of hardware interaction, allowing developers to focus on the application functionality and logic, thereby enabling the creation of efficient, scalable IoT solutions.
-
 
 [Pi4Micronaut Documentation](https://oss-slu.github.io/Pi4Micronaut/index.html)
 
@@ -64,9 +63,9 @@ Here is an overview of the software architecture.
 ### Development Priorities
 
 - Integrate new components
+- Developing Test Suite
 - Enhance existing component functionalities
 - Fixing build errors
-- Developing Test Suite
 - Documentation for each component
 
 ## Get Involved
