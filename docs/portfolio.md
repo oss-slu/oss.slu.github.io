@@ -47,11 +47,12 @@ We are especially interested in projects supporting researchers, focused on rese
 **[Shelter Volunteers](project_shelter_volunteers/about.md)** - Simplify the process of scheduling work shifts for volunteers, and to give homeless shelters visibility into their upcoming staffing.  
   
 **[Speech Tagging](project_saltify/about)** - This software transcribes an audio sample into a written format that is accepted by SALT software.   
-  
+
+**[Step Time Biofeedback](project_step_time_biofeedback/about)** - This project is focused on developing a tool that leverages force signal data from a Bertec split-belt treadmill to calculate step time and project target zones into a biofeedback system.
+
 **[Where's Religion Desktop](project_wheres_religion_desktop/about.md)** - Where's Religion Desktop is an enhancement on the mobile version which will have extended features.  
   
-**[Where's Religion Mobile](project_wheres_religion_mobile/about.md)** - This Project is to create an application for ethnographers to capture the events happening around them along with some audio/visual representation of the event. 
-
+**[Where's Religion Mobile](project_wheres_religion_mobile/about.md)** - This Project is to create an application for ethnographers to capture the events happening around them along with some audio/visual representation of the event.  
 
 **[Open Energy Dashboard](project_open_energy_dashboard/about.md)** - Open Energy Dashboard is a user-friendly way to display energy information from smart energy meters or uploaded via CSV files.
 
