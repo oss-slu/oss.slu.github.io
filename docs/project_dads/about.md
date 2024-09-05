@@ -15,7 +15,7 @@ The goal of this project is to create a flexible, web-based, search-driven user 
 
 - **Source Code:** [https://github.com/oss-slu/dads](https://github.com/oss-slu/dads) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/dads)
 - **Client** Dr Benjamin Hutz
-- **Current Tech Lead:** Abhilash Kotha [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AbhilashKotha)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/abhilashkotha/)
+- **Current Tech Lead:** Supraja Mannava [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/suprajamannava17)
 - **Developers:**
   - Evan Richmond (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Evan-Richmond) 
   - Andrew Jelliss (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AJelliss) 
@@ -23,13 +23,14 @@ The goal of this project is to create a flexible, web-based, search-driven user 
   - Greih Murray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/GreihMurray) 
   - Josiah Glyshaw (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jglyshaw) 
   - Thomas McGuigan (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thomasmcg77) 
+  - Abhilash Kotha (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AbhilashKotha)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/abhilashkotha/)
 
 - **Start Date:** Mar, 2023 
 - **Adoption Date:** Mar, 2023
 - **Technologies Used:** 
   - React
   - Flask
-  - PstgreSQL
+  - PostgreSQL
 - **Type:** Web application
 - **License:** [MIT](https://opensource.org/license/mit)
 
