@@ -13,11 +13,12 @@ Where's Religion? is conceptualized and designed for diverse users with interest
 
 - **Source Code:** [https://github.com/oss-slu/lrda_website](https://github.com/oss-slu/lrda_website) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/lrda_website)
 - **Client** Dr. Adam Park
-- **Current Tech Lead:** [Yash Bhatia](https://yashb196.github.io/yashb196/) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashb196) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/yashbhatia238/)
+- **Senior Developer:** [Yash Bhatia](https://yashb196.github.io/yashb196/) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashb196) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/yashbhatia238/)
+- **Current Tech Lead:** Zanxiang Wang [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/BaloneyBoy97) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/zanxiang-wang-352b112a0/)
 - **Developers:**
-  - Stuart Ray (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Stuartwastaken)
-  - Izak Robles (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/izakrobles)
-  - Josh Hogan (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Josh-Hogan-87)
+  - Stuart Ray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Stuartwastaken)
+  - Izak Robles (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/izakrobles)
+  - Josh Hogan (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Josh-Hogan-87)
 
   - Varsith Reddy Legala (volunteer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/VarsithReddyLegala)
 - **Start Date:** 25 Aug 2023
