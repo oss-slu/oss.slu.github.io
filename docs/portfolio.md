@@ -18,24 +18,28 @@ We are especially interested in projects supporting researchers, focused on rese
 
 **[Bubble Scan](project_bubblescan/about.md)** - The bubble scan is a web application where the user provides digital copies of standard paper scantron sheets in a PDF format and the software produces tabular results in a CSV file.
 
-**[DADS (Database of Arithmetic Dynamical Systems)](project_dads/about.md)** - The goal of this project is to create a flexible, web-based, search-driven user interface for a database of arithmetic dynamical systems
+**[DADS (Database of Arithmetic Dynamical Systems)](project_dads/about.md)** - The goal of this project is to create a flexible, web-based, search-driven user interface for a database of arithmetic dynamical systems  
+  
+**[Data Entry & Exhibition for Rerum](project_deer/about.md)** - A designer's framework for non-destructive annotation and template rendering for distributed digital resources and collections.  
 
-**[Data Entry & Exhibition for Rerum](project_deer/about.md)** - A designer's framework for non-destructive annotation and template rendering for distributed digital resources and collections.
+**[Digital Bone Box](project_digital_bone_box/about.md)** - This project is a Web Application aims to convert an existing PowerPoint-based educational tool into an interactive, mobile-friendly web application.
 
 **[Drone World](project_droneworld/about.md)** - DroneWorld is a platform for testing small unmanned aerial systems (sUAS) applications by simulating realistic test scenarios based on specified requirements.
 
 **[Electronic Structure Parser](./project_esp/about.md)** - The esp is a web application that allows the user to upload the ORCA/Gaussian data and the software produces tabular results in a Word document.
+  
+**[Gallery of Glosses](./project_gallery_of_glosses/about.md)** - Interfaces to view and manage Glosses  
+  
+**[MeltShiny](project_meltshiny/about.md)** - automates the analysis and visualization of DNA melting curves for researchers in chemistry, biology, and genetics.  
+  
+**[Mouser](project_mouser/about.md)** - This software is used for tracking the data of animal experiments.  
+  
+**[Pi4Micronaut](project_pi4micronaut/about.md)** - A Java library crafted for developers who aim to build IoT  applications leveraging the Raspberry Pi platform.
 
-**[Gallery of Glosses](./project_gallery_of_glosses/about.md)** - Interfaces to view and manage Glosses
-
-**[MeltShiny](project_meltshiny/about.md)** - automates the analysis and visualization of DNA melting curves for researchers in chemistry, biology, and genetics.
-
-**[Mouser](project_mouser/about.md)** - This software is used for tracking the data of animal experiments.
-
-**[Pi4Micronaut](project_pi4micronaut/about.md)** - A Java library crafted for developers who aim to build IoT applications leveraging the Raspberry Pi platform.
-
-**[Rerum Geolocator](project_rerum_geolocator/about.md)** - The application enables users to enhance discovery and access to digital resources through geographic visualization and annotation.
-
+**[Pilot Data Synchronization](project_pilot_data_synchronization/about.md)** - This project aims to establish a real-time data synchronization channel between a flight simulator and the iMotions platform, enabling the accurate capture and analysis of critical flight data to enhance pilot performance evaluation. 
+  
+**[Rerum Geolocator](project_rerum_geolocator/about.md)** - The application enables users to enhance discovery and access to digital resources through geographic visualization and annotation.  
+  
 **[Seeing Is Believing](project_sib/about.md)** - An educational learning tool enabling visualizing the pronunciation of Spanish words.
 
 **[Shelter Volunteers](project_shelter_volunteers/about.md)** - Simplify the process of scheduling work shifts for volunteers, and to give homeless shelters visibility into their upcoming staffing.  

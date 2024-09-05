@@ -3,7 +3,8 @@ id: about
 title: Mouser
 custom_edit_url: null
 ---
-![Alt](100x100.png) 
+
+![Alt](100x100.png)
 
 ## Overview
 
@@ -13,15 +14,16 @@ Created mainly for SLU researchers, this software is used for collecting and ana
 
 - **Source Code:** [https://github.com/oss-slu/Mouser](https://github.com/oss-slu/Mouser) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/Mouser)
 - **Client:** Dr. Karoly Toth
-- **Current Tech Lead:** Logan Wyas [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
+- **Current Tech Lead:** Jack Belyeu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jackbelyeu)
 - **Developers:**
 
-  - Ryan Carmody (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rc10283) 
   - Andrew Obermiller (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aobermiller)
+  - Cori Diaz (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/coridiaz)
+  - Logan Wyas (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
+  - Ryan Carmody (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rc10283)
   - Stanley Yang (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/stanleyyang2001)
-  - Uday Prasad Aitha (alumni, previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aithaprasad)
-  - Tyler Bush (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tbush03) 
-  - Cori Diaz (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/coridiaz) 
+  - Tyler Bush (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tbush03)
+  - Uday Prasad Aitha (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aithaprasad)
 
 - **Start Date:** July 2022
 - **Adoption Date:** July 2022
@@ -35,7 +37,7 @@ Created mainly for SLU researchers, this software is used for collecting and ana
 
 ### User Guide
 
-Upon running the software, you will first login using the account information you have been given. Then, to get to the main part of the application, click on the "Experiments" button. This will bring you to a page with have a list of experiments and the option to create a new experiment. If chosing to create a new experiment, you will enter in all of the experiment information that is necessary for the application. If you click on one of the experiments, it will bring you to the menu of that experiment. From there, you have the option to map animals with RFID, collect measurement data, and configure animal groups.
+Upon running the software, it will open to the Mouser home page. From there, you can click 'Settings' in the top navbar to edit serial port settings; or 'File' to access the program's core functionalities. 'New Experiment' handles the creation of initial experiment parameters and creates a corresponding .mouser file. 'Open Experiment' opens .mouser files and allows the user to collect data for the opened experiment, use RFID to map and scan animals for easy data collection, and analyze or export the experiment data. The program currently supports simulated RFID so that a user can model realistic workflows without the need for real hardware or animals.
 
 ## Technical Information
 
@@ -47,12 +49,11 @@ Overview of the software architecture.
 
 ### Development Priorities
 
-- Connect the application to hardware devices
-- Create a modern-looking user interface
-- Add automated testing
-- Implement account management
-- Build an executable for the software
-- Make warning/error screens to prevent internal issues
+- Ensure the application connects and works with common lab hardware
+- Modernize and improve the user interface without sacrificing 0-click data collection
+- Build a working executable that runs on the client's machines
+- Improve auditory feedback, especially for errors and warnings
+- Expand data export functionality to work with other statistics and data analysis tools
 
 ## Get Involved
 
