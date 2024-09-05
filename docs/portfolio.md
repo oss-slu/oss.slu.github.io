@@ -27,6 +27,8 @@ We are especially interested in projects supporting researchers, focused on rese
 **[Drone World](project_droneworld/about.md)** - DroneWorld is a platform for testing small unmanned aerial systems (sUAS) applications by simulating realistic test scenarios based on specified requirements.
 
 **[Electronic Structure Parser](./project_esp/about.md)** - The esp is a web application that allows the user to upload the ORCA/Gaussian data and the software produces tabular results in a Word document.
+
+**[Enhancing Bioinformatics Research through LLM](project_enhancing_bioinformatics_research_through_LLM/about.md)** - This project is focused on developing an AI-driven tool that supports bioinformatics research by providing intelligent API recommendations, detecting errors, and offering real-time corrections. The tool leverages large language models trained on bioinformatics codebases to ensure reliable data retrieval and analysis, ultimately improving research accuracy and efficiency.
   
 **[Gallery of Glosses](./project_gallery_of_glosses/about.md)** - Interfaces to view and manage Glosses  
   
