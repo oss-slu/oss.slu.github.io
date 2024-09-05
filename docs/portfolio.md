@@ -53,8 +53,6 @@ We are especially interested in projects supporting researchers, focused on rese
 **[Where's Religion Mobile](project_wheres_religion_mobile/about.md)** - This Project is to create an application for ethnographers to capture the events happening around them along with some audio/visual representation of the event. 
 
 
-**[Enhancing Bioinformatics Research through LLM](project_enhancing_bioinformatics_research_through_LLM/about.md)** - This project is focused on developing an AI-driven tool that supports bioinformatics research by providing intelligent API recommendations, detecting errors, and offering real-time corrections. The tool leverages large language models trained on bioinformatics codebases to ensure reliable data retrieval and analysis, ultimately improving research accuracy and efficiency.
-
 ## Current Internal Service Projects
 
 **[Inner Peace Time](project_innerpeacetime/about.md)** - Inner peace time is a guided meditation app developed to help children and families breathe for calm and find their safe place for LOVE and HEALING.
