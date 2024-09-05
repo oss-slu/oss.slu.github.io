@@ -18,7 +18,7 @@ _Note: careful review by a knowledgeable speech-language pathologist is required
   - [Dr. Elizabeth Roepke](https://www.slu.edu/doisy/faculty/roepke-elizabeth.php)
 - **Current Tech Lead:** Sagar Rajesh Badgujar [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sagar3181)
 - **Developers:**
-  - Logan Wyas (previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
+  - Logan Wyas (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
   - Colin Bush (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cbush201)
   - Travis Herrick (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/TravisHerrick7)
   - Jack Pifer (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/JackPifer)
@@ -52,11 +52,10 @@ Overview of the software architecture.
 
 ### Development Priorities
 
-- Improve the user interface
+- Fix user interface errors
+- Fixing occasional code crashes and errors
 - Add diarization to the transcription
 - Fix the errors when adding morphemes
-- Implement automated testing
-- Address the freezing of certain processes
 
 ## Get Involved
 
