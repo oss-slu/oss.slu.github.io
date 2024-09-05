@@ -53,6 +53,8 @@ We are especially interested in projects supporting researchers, focused on rese
 **[Where's Religion Mobile](project_wheres_religion_mobile/about.md)** - This Project is to create an application for ethnographers to capture the events happening around them along with some audio/visual representation of the event. 
 
 
+**[Open Energy Dashboard](project_open_energy_dashboard/about.md)** - Open Energy Dashboard is a user-friendly way to display energy information from smart energy meters or uploaded via CSV files.
+
 ## Current Internal Service Projects
 
 **[Inner Peace Time](project_innerpeacetime/about.md)** - Inner peace time is a guided meditation app developed to help children and families breathe for calm and find their safe place for LOVE and HEALING.
