@@ -15,16 +15,14 @@ By automating and streamlining the testing process, Drone World improves safety,
 - **Client:** [Dr. Ankit Agrawal](https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/ankit-agrawal.php) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ankyAgrawal)
 - **Current Tech Lead:** Mohammad Al-Hanoosh [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mohamdlog)
 - **Developers:**
-    <!--[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/)-->
-    <!--
-    - Student (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/)
-    - Student (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/)
-    - Student (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/) 
-    -->
+    - Darweshi Amerson (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/damerson1)
+    - Noah Guzinski (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/nguzinski) 
+    - Valerie Galiano (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Hoshi-Okami)
     - Yashaswini Shivalingaiah (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashaswini-slu)
+    - Hebron Bekele (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hebronh)
     - Kaleb Yu (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kalyus)
     - Szymon Rostkowski (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sr259)
-    - Hebron Bekele (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hebronh) 
+     
 - **Start Date:** 9th Feb 2023
 - **Adoption Date:** 25 Aug 2023
 - **Technologies Used:**
@@ -33,7 +31,7 @@ By automating and streamlining the testing process, Drone World improves safety,
     - Databases: MongoDB
     - Critical Dependencies: PX4, ArduPilot, Unreal Engine
 - **Type:** Desktop
-- **License:**
+- **License:** [MIT](https://opensource.org/license/mit)
 
 ### User Guide
 
