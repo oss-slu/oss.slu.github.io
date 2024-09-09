@@ -10,7 +10,7 @@ The Material Donor Mutual Assist project by BWorks is designed to streamline the
 
 ### Information
 
-- **Source Code:** [https://github.com/slu-csci-5030/material-donor-mutual-assist/](https://github.com/slu-csci-5030/material-donor-mutual-assist/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/slu-csci-5030/material-donor-mutual-assist/)
+- **Source Code:** [https://github.com/oss-slu/material-donor-mutual-assist](https://github.com/oss-slu/material-donor-mutual-assist) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/material-donor-mutual-assist)
 - **Client** BWorks Organization
 - **Current Tech Lead:** Anjali Putta [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Anjali0407-git/) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/anjali-putta-278164227/)
 - **Developers:**
@@ -53,4 +53,4 @@ After logging in, users are redirected to the homepage where they are presented 
 
 ## Get Involved
 
-If you would like to contribute to this project, please visit our [GitHub page](https://github.com/slu-csci-5030/material-donor-mutual-assist/) to create your own issues or pull requests.
+If you would like to contribute to this project, please visit our [GitHub page](https://github.com/oss-slu/material-donor-mutual-assist) to create your own issues or pull requests.
