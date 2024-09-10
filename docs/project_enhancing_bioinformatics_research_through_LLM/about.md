@@ -16,7 +16,10 @@ This project aims to develop a tool leveraging large language models (LLMs) to r
 
 - **Current Tech Lead:** Ajith Akuthota [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AjithAkuthota23) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/ajith-akuthota-4693081a8/)
 
-- **Developers:** TBD
+- **Developers:**
+  - Oam Khatavkar [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/oam67) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/oam-khatavkar-557775278/)
+  -  Pranavi Kolouju [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/PranaviKolouju) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/pranavi-kolouju-a77582247/)
+  - Om Patel [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Omp06) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/om-patel-73a0b220a/) 
 
 
 ### User Guide
