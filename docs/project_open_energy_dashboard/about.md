@@ -13,7 +13,12 @@ The Open Energy Dashboard (OED) is a crucial open-source project that facilitate
 
 - **Source Code:** [https://github.com/oss-slu/OED](https://github.com/oss-slu/OED) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/OED)
 - **Client:** Steve Huss-Lederman
-- **Current Tech Lead:** Rakesh Ranga Buram [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
+- **Current Tech Lead:** Rakesh Ranga Buram [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Rakesh-Ranga-Buram)
+- **Developers:**
+
+  - Nischita Nannapaneni (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/nneni)
+  - Joijanae  Laws (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lawsj)
+  - Mark Mehta (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lawsj)
 
 - **Start Date:** September 2023
 - **Adoption Date:** September 2023
