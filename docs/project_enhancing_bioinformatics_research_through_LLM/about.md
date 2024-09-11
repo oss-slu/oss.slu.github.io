@@ -21,7 +21,6 @@ This project aims to develop a tool leveraging large language models (LLMs) to r
   -  Pranavi Kolouju [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/PranaviKolouju) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/pranavi-kolouju-a77582247/)
   - Om Patel [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Omp06) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/om-patel-73a0b220a/) 
 
-
 ### User Guide
 
 This tool is designed to assist researchers by recommending appropriate APIs, detecting coding errors, and suggesting real-time corrections. It enhances the accuracy and efficiency of bioinformatics research by leveraging advanced language models.
@@ -33,11 +32,9 @@ Phase 4: Performance Optimization and Scalability Testing
 Phase 5: Security Audit and Compliance Check
 Phase 6: Final Testing, Documentation, and Deployment
 
-
 ## Technical Information
 
 ### Technical Overview(Might Be Changed)
-
 
 Programming Languages:
 Python: Core language for developing the LLM model, integrating APIs, implementing error detection algorithms, and building the user interface. Recommended version: 3.11.
