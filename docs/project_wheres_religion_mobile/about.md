@@ -17,11 +17,21 @@ custom_edit_url: https://github.com/oss-slu/lrda_mobile
 - **Senior Developer:** [Yash Bhatia](https://yashb196.github.io/yashb196/) (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashb196) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />]( https://www.linkedin.com/in/yashbhatia238/)
 - **Current Tech Lead:** - Karthik Mangineni [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rcAsironman) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/karthik-mangineni-086a49234)
 - **Developers:**
+  - Adem Durakovic (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ademDurakovic)
+
+  - Amar Hadzic (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AmarHadzic)
+
+  - Nikhil Muthukumar (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/teamomiamigo)
+
   - Andrew Chen (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AndchooChen)
   - Tom Irvine (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/irvinet20) 
   - Tianhao Wang (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SamSam9812) 
   - Stuart Ray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Stuartwastaken)
   - Izak Robles (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/izakrobles)
+
+
+
+
 
 - **Start Date:** 20 Feb 2023
 - **Adoption Date:** 20 Feb 2023
