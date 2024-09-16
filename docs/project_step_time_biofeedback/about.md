@@ -17,20 +17,35 @@ The StepTB is a project focused on developing a tool that leverages force signal
 - **Current Tech Lead:** Victor Ojogbane Onoja [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jsvoo)
 - **Developers:**
 
-  - TBD
+  - Collin Seper (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colinseper)
+  - Jack McPhillips (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/JackMcPhillips1543)
+  - Noor Issa (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Nissa9902)
+
 
 - **Start Date:** August 2024
 - **Adoption Date:** August 2024
 - **Technologies Used:**
-  - TBD
+  - Python
+  - QTM
+  - JavaScript (React JS, Electron JS)
+  - Websockets
+  - Lab Streaming Layer (Pylsl)
 - **Type:** TBD
 - **License:** [GNU General Public License v3.0](https://opensource.org/license/gpl-3-0/)
+
+## Technical Information
+The application leverages real-time data acquisition from a dual-belt Bertec Treadmill via the QTM software. This data is then streamed to the frontend interface using WebSocket technology. The frontend is developed using React JS for web-based access and bundled with Electron JS for desktop applications.
+
+### Technical Overview
+
+![Software Architecture](architecture.webp)
 
 <!-- ### User Guide
 
 Add guide when Type is determined. options include Desktop app, module, package, library
 
 ## Technical Information
+The application gets real time data from dual belt Bertec Treadmil through QTM and streams data to the frontend using websockets
 
 ### Technical Overview
 
