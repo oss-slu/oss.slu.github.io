@@ -18,13 +18,14 @@ Homeless shelters rely on volunteers' help. When inclement weather strikes, home
 - **Current Tech Lead:** Brijitha Tialu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Brijitha1609)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/brijitha-tialu/)
 - **Developers:**
   - Siri Chandana Garimella (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChandanaGarimella)
-  - Akhil Vemulapally (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vakhil-98)
+  - Amal Rizvi (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/amalrzv)
   - Chloe Biddle (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cbiddle3)
   - Ngoc Yen Nhi Tran (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tnhi26990)
   - Abhilash Kotha (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AbhilashKotha)
+  - Akhil Vemulapally (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vakhil-98)
   - Logan Wyas (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
   - Saiteja Gollapalli (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Sai9797)
-
+  
 - **Start Date:** August, 2023
 - **Adoption Date:** August, 2023
 - **Technologies Used:** 
