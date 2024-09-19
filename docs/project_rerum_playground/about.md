@@ -21,6 +21,9 @@ This is a web space that uses the RERUM installation at the Walter J. Ong, S.J. 
 - **Developers:**
     - Bryan Haberberger [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thehabes)
     - Patrick Cuba [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cubap)
+    - Haneen AlSewari [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/haneenalsewari)
+    - Hayden Karl [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/haydenkarl22)
+    - Samuel Sheppard [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sesheppard)
 
 - **Start Date:**  June 2020
 - **Adoption Date:**  Aug 2024
