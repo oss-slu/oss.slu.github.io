@@ -17,9 +17,12 @@ The SLU computational chemistry researchers, working on understanding various pr
 - **Client** Dr. Ryan McCulla
 - **Current Tech Lead:** Siri Chandana Garimella [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChandanaGarimella) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/sirichandana-garimella/)
 - **Developers:**
-  - Hayden Karl [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/haydenkarl22)
-  - Medhani Kalal [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mkalal6)
-  - Raju Karmuri(alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rkarmuri) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/rajukarmuri731/)
+  - Eric Bruns (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Ebruns4)
+  - Medhani Kalal (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mkalal6)
+  - Sam Lyskawa (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Lyskawa-Aonyx)
+  - Raju Karmuri (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rkarmuri) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/rajukarmuri731/)  
+  - Hayden Karl (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/haydenkarl22)
+ 
 - **Start Date:** Jan, 2024
 - **Adoption Date:** Aug, 2022
 - **Technologies Used:**
