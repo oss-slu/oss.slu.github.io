@@ -15,7 +15,10 @@ Where's Religion? is conceptualized and designed for diverse users with interest
 - **Client** Dr. Adam Park
 - **Senior Developer:** [Yash Bhatia](https://yashb196.github.io/yashb196/) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashb196) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/yashbhatia238/)
 - **Current Tech Lead:** Zanxiang Wang [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/BaloneyBoy97) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/zanxiang-wang-352b112a0/)
-- **Developers:**
+- **Current Developers:**
+  - Amy Chen (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/amychen108)
+  - Justin Wang (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jwang-101)
+- **Previous Developers:**
   - Stuart Ray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Stuartwastaken)
   - Izak Robles (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/izakrobles)
   - Josh Hogan (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Josh-Hogan-87)
