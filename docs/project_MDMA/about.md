@@ -11,10 +11,12 @@ The Material Donor Mutual Assist project by BWorks is designed to streamline the
 ### Information
 
 - **Source Code:** [https://github.com/oss-slu/material-donor-mutual-assist](https://github.com/oss-slu/material-donor-mutual-assist) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/material-donor-mutual-assist)
-- **Client** BWorks Organization
+- **Client:** BWorks Organization
 - **Current Tech Lead:** Anjali Putta [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Anjali0407-git/) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/anjali-putta-278164227/)
 - **Developers:**
-
+  - Sai Kiran Reddy Beeram (Capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/saikiran0405) 
+  - Mahaboob Pasha Mohammad (Capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/miabu-pashh)
+  - Joseph Hansen (Capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/truffer11)
   - Siri Chandana Garimella [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChandanaGarimella)
   - Manohar Reddy YRL [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yrlmanoharreddy)
   - Chirag Gupta [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Chirag2x)
