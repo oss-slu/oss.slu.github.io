@@ -18,6 +18,9 @@ The existence of Pi4Micronaut is justified by the need for a robust, scalable, a
 - **Client** Jeff Brown - Unity Foundation
 - **Current Tech Lead:** Yenkatarajalaxmimanohar [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yrlmanoharreddy)
 - **Developers:**
+  - Thomas Macas (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tmacas)
+  - Seyun Jeong (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Ed0827)
+  - Leandru Martin (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/leandrumartin)
   - Ruthvik Mannem (prior tech lead, alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ruthvikm)
   - Adrian Swindle (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SwindleA)
   - Alex Delgado (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/adelgadoj3)
