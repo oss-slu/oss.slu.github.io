@@ -29,7 +29,7 @@ This interdisciplinary project involves collaboration between Aeronautics studen
   - X-Plane SDK (future compatibility with Prepar3D SDK)
 
 - **Type:** TBD
-- **License:** LGPL(https://opensource.org/license/lgpl-2-0)
+- **License:** [LGPL](https://opensource.org/license/lgpl-2-0)
 
 ## Technical Information
 
