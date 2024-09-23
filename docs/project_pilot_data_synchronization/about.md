@@ -16,16 +16,42 @@ This interdisciplinary project involves collaboration between Aeronautics studen
 - **Client** Gajapriya Tamilselvan - Aviation Science
 - **Current Tech Lead:** Harshitha Thota [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/harshitha-thota)
 - **Developers:**
- TBD
+- Ali Elnour (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aelnourSLU) 
+  - Carly Hoover (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/carlyrhoover)
+  - Henry Meiners (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hrmeiners) 
+ 
   
 - **Start Date:** August 2024
+- **Adoption Date:** August 2024
 
 - **Technologies Used:**
   - C++
+  - X-Plane SDK (future compatibility with Prepar3D SDK)
 
 - **Type:** TBD
-- **License:** TBD
+- **License:** LGPL(https://opensource.org/license/lgpl-2-0)
 
+## Technical Information
+
+### Technical Overview
+
+The Pilot Data Synchronization Project enables real-time synchronization of flight simulator data to the iMotions human behavior research platform. By leveraging the X-Plane SDK and establishing a TCP connection, the project ensures that key flight parameters such as altitude, airspeed, and heading are transmitted seamlessly for real-time analysis of pilot performance and behavior.
+
+- Pilot Data Synchronization Architecture
+
+  - **Flight Simulator SDK Integration**: The project utilizes the Flight Simulator SDK to access real-time flight data such as altitude, airspeed, heading, and vertical airspeed. Data is extracted through predefined simulator data references (datarefs).
+
+  - **TCP Communication**: A reliable TCP connection is established between the flight simulator and the iMotions platform. This connection ensures the continuous and accurate flow of flight data to the research platform for behavior analysis.
+
+  - **iMotions Platform Integration**: The iMotions platform receives the flight data in real-time and correlates it with physiological data to provide insights into pilot workload and decision-making.
+
+### Development Priorities
+
+- Real-time Data Extraction
+- TCP Connection Setup
+- Data Synchronization Module
+- Error Handling and Reliability
+- Documentation and Testing
 
 ## Get Involved
 
