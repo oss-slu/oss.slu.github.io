@@ -19,7 +19,10 @@ Created mainly for SLU researchers, this software is used for collecting and ana
 
   - Andrew Obermiller (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aobermiller)
   - Cori Diaz (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/coridiaz)
+  - Ibro Kardasevic (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ikardasevic)
   - Logan Wyas (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
+  - Nicholas Newbauer (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/NNewbauer)
+  - Noah Mosher (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/moshernoah)
   - Ryan Carmody (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rc10283)
   - Stanley Yang (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/stanleyyang2001)
   - Tyler Bush (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tbush03)
