@@ -16,7 +16,7 @@ This interdisciplinary project involves collaboration between Aeronautics studen
 - **Client** Gajapriya Tamilselvan - Aviation Science
 - **Current Tech Lead:** Harshitha Thota [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/harshitha-thota)
 - **Developers:**
-- Ali Elnour (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aelnourSLU) 
+  - Ali Elnour (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aelnourSLU) 
   - Carly Hoover (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/carlyrhoover)
   - Henry Meiners (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hrmeiners) 
  
