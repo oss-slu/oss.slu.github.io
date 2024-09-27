@@ -29,10 +29,6 @@ custom_edit_url: https://github.com/oss-slu/lrda_mobile
   - Stuart Ray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Stuartwastaken)
   - Izak Robles (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/izakrobles)
 
-
-
-
-
 - **Start Date:** 20 Feb 2023
 - **Adoption Date:** 20 Feb 2023
 - **Technologies Used:** 
