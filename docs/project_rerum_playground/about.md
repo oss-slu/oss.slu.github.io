@@ -15,8 +15,9 @@ This is a web space that uses the RERUM installation at the Walter J. Ong, S.J. 
     
 - **Client** 
     - Patrick Cuba [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cubap)
+    - Bryan Haberberger [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thehabes)
 
-- **Current Tech Lead:** Santosh Iragavarapu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jacksayshi)  
+- **Current Tech Lead:** Lalith Adithya Reddy Avuthu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/alar12)  
 
 - **Developers:**
     - Bryan Haberberger [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thehabes)
