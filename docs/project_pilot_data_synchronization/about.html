@@ -5,7 +5,7 @@
 <meta name="generator" content="Docusaurus v3.3.2">
 <title data-rh="true">Pilot Data Synchronization | Open Source with SLU</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://oss-slu.github.io/img/oss-logo-2.png"><meta data-rh="true" name="twitter:image" content="https://oss-slu.github.io/img/oss-logo-2.png"><meta data-rh="true" property="og:url" content="https://oss-slu.github.io/docs/project_pilot_data_synchronization/about"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Pilot Data Synchronization | Open Source with SLU"><meta data-rh="true" name="description" content="Overview"><meta data-rh="true" property="og:description" content="Overview"><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://oss-slu.github.io/docs/project_pilot_data_synchronization/about"><link data-rh="true" rel="alternate" href="https://oss-slu.github.io/docs/project_pilot_data_synchronization/about" hreflang="en"><link data-rh="true" rel="alternate" href="https://oss-slu.github.io/docs/project_pilot_data_synchronization/about" hreflang="x-default"><link rel="alternate" type="application/rss+xml" href="/news/rss.xml" title="Open Source with SLU RSS Feed">
 <link rel="alternate" type="application/atom+xml" href="/news/atom.xml" title="Open Source with SLU Atom Feed"><link rel="stylesheet" href="/assets/css/styles.cf6f418d.css">
-<script src="/assets/js/runtime~main.0905fb75.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.b1d7e5b9.js" defer="defer"></script>
 <script src="/assets/js/main.90d85dbe.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -21,26 +21,67 @@
 <p><strong>Current Tech Lead:</strong> Harshitha Thota <a href="https://github.com/harshitha-thota" target="_blank" rel="noopener noreferrer"><img src="/img/github.svg" alt="github" width="25" height="25"></a></p>
 </li>
 <li>
-<p><strong>Developers:</strong>
-TBD</p>
+<p><strong>Developers:</strong></p>
+<ul>
+<li>
+<p>Ali Elnour (capstone) <a href="https://github.com/aelnourSLU" target="_blank" rel="noopener noreferrer"><img src="/img/github.svg" alt="github" width="25" height="25"></a></p>
+</li>
+<li>
+<p>Carly Hoover (capstone) <a href="https://github.com/carlyrhoover" target="_blank" rel="noopener noreferrer"><img src="/img/github.svg" alt="github" width="25" height="25"></a></p>
+</li>
+<li>
+<p>Henry Meiners (capstone) <a href="https://github.com/hrmeiners" target="_blank" rel="noopener noreferrer"><img src="/img/github.svg" alt="github" width="25" height="25"></a></p>
+</li>
+</ul>
 </li>
 <li>
 <p><strong>Start Date:</strong> August 2024</p>
 </li>
 <li>
+<p><strong>Adoption Date:</strong> August 2024</p>
+</li>
+<li>
 <p><strong>Technologies Used:</strong></p>
 <ul>
 <li>C++</li>
+<li>X-Plane SDK (future compatibility with Prepar3D SDK)</li>
 </ul>
 </li>
 <li>
 <p><strong>Type:</strong> TBD</p>
 </li>
 <li>
-<p><strong>License:</strong> TBD</p>
+<p><strong>License:</strong> <a href="https://opensource.org/license/lgpl-2-0" target="_blank" rel="noopener noreferrer">LGPL</a></p>
 </li>
 </ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="technical-information">Technical Information<a href="#technical-information" class="hash-link" aria-label="Direct link to Technical Information" title="Direct link to Technical Information">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="technical-overview">Technical Overview<a href="#technical-overview" class="hash-link" aria-label="Direct link to Technical Overview" title="Direct link to Technical Overview">​</a></h3>
+<p>The Pilot Data Synchronization Project enables real-time synchronization of flight simulator data to the iMotions human behavior research platform. By leveraging the X-Plane SDK and establishing a TCP connection, the project ensures that key flight parameters such as altitude, airspeed, and heading are transmitted seamlessly for real-time analysis of pilot performance and behavior.</p>
+<ul>
+<li>
+<p>Pilot Data Synchronization Architecture</p>
+<ul>
+<li>
+<p><strong>Flight Simulator SDK Integration</strong>: The project utilizes the Flight Simulator SDK to access real-time flight data such as altitude, airspeed, heading, and vertical airspeed. Data is extracted through predefined simulator data references (datarefs).</p>
+</li>
+<li>
+<p><strong>TCP Communication</strong>: A reliable TCP connection is established between the flight simulator and the iMotions platform. This connection ensures the continuous and accurate flow of flight data to the research platform for behavior analysis.</p>
+</li>
+<li>
+<p><strong>iMotions Platform Integration</strong>: The iMotions platform receives the flight data in real-time and correlates it with physiological data to provide insights into pilot workload and decision-making.</p>
+</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="development-priorities">Development Priorities<a href="#development-priorities" class="hash-link" aria-label="Direct link to Development Priorities" title="Direct link to Development Priorities">​</a></h3>
+<ul>
+<li>Real-time Data Extraction</li>
+<li>TCP Connection Setup</li>
+<li>Data Synchronization Module</li>
+<li>Error Handling and Reliability</li>
+<li>Documentation and Testing</li>
+</ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="get-involved">Get Involved<a href="#get-involved" class="hash-link" aria-label="Direct link to Get Involved" title="Direct link to Get Involved">​</a></h2>
-<p>If you would like to contribute to this project, please visit our <a href="https://github.com/oss-slu/PilotDataSynchronization" target="_blank" rel="noopener noreferrer">GitHub page</a> to create your own issues or pull requests.</p></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#overview" class="table-of-contents__link toc-highlight">Overview</a><ul><li><a href="#information" class="table-of-contents__link toc-highlight">Information</a></li></ul></li><li><a href="#get-involved" class="table-of-contents__link toc-highlight">Get Involved</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="col footer__col"><div class="footer__title">Information</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/docs/about">About</a></li></ul></div><div class="col footer__col"><div class="footer__title">Resources</div><ul class="footer__items clean-list"><li class="footer__item"><a href="https://slu.edu" target="_blank" rel="noopener noreferrer" class="footer__link-item">slu.edu<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li><li class="footer__item"><a href="https://github.com/oss-slu" target="_blank" rel="noopener noreferrer" class="footer__link-item">Github<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div><div class="col footer__col"><div class="footer__title">Stay up to date</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/news">News</a></li><li class="footer__item"><a href="https://github.com/oss-slu" target="_blank" rel="noopener noreferrer" class="footer__link-item">GitHub<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div></div></div></footer></div>
+<p>If you would like to contribute to this project, please visit our <a href="https://github.com/oss-slu/PilotDataSynchronization" target="_blank" rel="noopener noreferrer">GitHub page</a> to create your own issues or pull requests.</p></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#overview" class="table-of-contents__link toc-highlight">Overview</a><ul><li><a href="#information" class="table-of-contents__link toc-highlight">Information</a></li></ul></li><li><a href="#technical-information" class="table-of-contents__link toc-highlight">Technical Information</a><ul><li><a href="#technical-overview" class="table-of-contents__link toc-highlight">Technical Overview</a></li><li><a href="#development-priorities" class="table-of-contents__link toc-highlight">Development Priorities</a></li></ul></li><li><a href="#get-involved" class="table-of-contents__link toc-highlight">Get Involved</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="col footer__col"><div class="footer__title">Information</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/docs/about">About</a></li></ul></div><div class="col footer__col"><div class="footer__title">Resources</div><ul class="footer__items clean-list"><li class="footer__item"><a href="https://slu.edu" target="_blank" rel="noopener noreferrer" class="footer__link-item">slu.edu<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li><li class="footer__item"><a href="https://github.com/oss-slu" target="_blank" rel="noopener noreferrer" class="footer__link-item">Github<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div><div class="col footer__col"><div class="footer__title">Stay up to date</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/news">News</a></li><li class="footer__item"><a href="https://github.com/oss-slu" target="_blank" rel="noopener noreferrer" class="footer__link-item">GitHub<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div></div></div></footer></div>
 </body>
 </html>
