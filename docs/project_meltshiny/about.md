@@ -16,8 +16,8 @@ MeltShiny is a software application that automates the analysis and visualizatio
   - Sebastian Arteaga (Assistant)
 - **Current Tech Lead:** Pranitha Bollepalli [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/BollepalliPranitha)
 - **Developers:**
-  - Samuel Mercier (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Canada101)
   - Andrew Vazzano (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/avazzano7)
+  - Samuel Mercier (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Canada101)
   - Swetha Repalli (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/srepalli3)
   - Zohaib Ahmed (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/zohaib-a-ahmed)
   - Ethan Gray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ethan-gray-01)
