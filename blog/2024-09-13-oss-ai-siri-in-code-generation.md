@@ -17,7 +17,7 @@ Siri presented the "Open-Source AI in Code Generation" workshop, guiding student
 **When:** Friday, Sep 13<br/>
   11:30-12:30 p.m. (1 hour)<br/>
 **Where:** [Pius Library, ATC](https://www.slu.edu/library/services/academic-technology-commons/index.php)<br/>
-**Resources:** [presentation of instructions](https://oss-slu.github.io/oss-ai-siri/)
+**Resources:** [presentation of instructions](https://docs.google.com/presentation/d/10zDdGI71qkhKfagucK-92VGYCBT9Iqhod8OeckACn-U/edit?usp=sharing)
 
 
 ![Siri introduces AI in Code Generation](./oss-atc-20240913/PXL_20240913_164208731.jpg)
