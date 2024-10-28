@@ -5,9 +5,13 @@ custom_edit_url: null
 ---
 
 ## Overview
-Drone World, developed by Dr. Ankit Agrawal and his team, is an advanced simulation platform for testing small unmanned aerial systems (sUAS). It enables users to configure detailed test scenarios by specifying environmental conditions (e.g., weather, terrain), sUAS capabilities (e.g., sensors, hardware), and mission objectives. The platform generates a realistic 3D simulation environment and monitors data to ensure safety and detect issues, producing comprehensive test reports with detailed analysis.
+Drone World, developed by Dr. Ankit Agrawal and his team, is an advanced simulation platform for testing small unmanned aerial systems (sUAS). 
+It enables users to configure detailed test scenarios by specifying environmental conditions (e.g., weather, terrain), sUAS capabilities (e.g., sensors, hardware), and mission objectives. 
+The platform generates a realistic 3D simulation environment and monitors data to ensure safety and detect issues, producing comprehensive test reports with detailed analysis.
 
-By automating and streamlining the testing process, Drone World improves safety, reliability, and efficiency for drone developers. It allows comprehensive pre-flight testing in ultra-realistic environments, helping developers refine their systems and iterate more rapidly on complex missions. Our team at OSS is dedicated to enhancing Drone World’s capabilities, including refining environmental settings, drone configurations, and integrating new features.
+By automating and streamlining the testing process, Drone World improves safety, reliability, and efficiency for drone developers. 
+It allows comprehensive pre-flight testing in ultra-realistic environments, helping developers refine their systems and iterate more rapidly on complex missions. 
+Our team at OSS is dedicated to enhancing Drone World’s capabilities, including refining environmental settings, drone configurations, and integrating new features.
 
 ### Information
 
@@ -28,14 +32,17 @@ By automating and streamlining the testing process, Drone World improves safety,
 - **Technologies Used:**
     - Key Languages: Python, TypeScript, JavaScript
     - Key Technologies: React (Frontend), Flask (Backend APIs), Unreal Engine with AirSim (Simulation)
-    - Databases: MongoDB
+    - Storage Services: Google Cloud Storage
     - Critical Dependencies: PX4, ArduPilot, Unreal Engine
 - **Type:** Desktop
 - **License:** [MIT](https://opensource.org/license/mit)
 
 ### User Guide
 
-The user sets up a test scenario via the web interface by specifying the number of drones, their sensors, mission objectives, and operating environment. They also define critical safety properties, such as minimum separation distances between drones, based on system requirements or regulations. After the test, Drone World provides a comprehensive report that includes logs, telemetry data, property violation analysis, and visualizations of key metrics. For a more comprehensive guide, [see the User Guide](https://github.com/oss-slu/DroneWorld/wiki/User-Guide).
+The user sets up a test scenario via the web interface by specifying the number of drones, their sensors, mission objectives, and operating environment. 
+They also define critical safety properties, such as minimum separation distances between drones, based on system requirements or regulations. 
+After the test, Drone World provides a comprehensive report that includes logs, telemetry data, property violation analysis, and visualizations of key metrics. 
+For a more comprehensive guide, [see the Simulation Guide](https://github.com/oss-slu/DroneWorld/wiki/Simulation-Guide).
 
 ## Technical Information
 
@@ -50,9 +57,8 @@ Next, execute the test scenario with the "Execute Test Scenario" box. This runs 
 ### Development Priorities
 
 - Implement UI changes to enhance the display of simulation responses, including images and graphs.
-- Develop Unreal Engine support for various drone types.
-- Integrate MongoDB for storing predefined values.
 - Add a new property for monitoring drone torque battery.
+- Develop Unreal Engine support for various drone types.
 
 ## Get Involved
 
