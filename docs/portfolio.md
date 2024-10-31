@@ -22,7 +22,7 @@ We are especially interested in projects supporting researchers, focused on rese
   
 **[Digital Bone Box](project_digital_bone_box/about.md)** - This project is a Web Application aims to convert an existing PowerPoint-based educational tool into an interactive, mobile-friendly web application.
 
-**[Drone World](project_droneworld/about.md)** - DroneWorld is a platform for testing small unmanned aerial systems (sUAS) applications by simulating realistic test scenarios based on specified requirements.
+**[Drone World](project_droneworld/about.md)** - Drone World is a platform for testing small unmanned aerial systems (sUAS) applications by simulating realistic test scenarios based on specified requirements.
 
 **[Electronic Structure Parser](./project_esp/about.md)** - The esp is a web application that allows the user to upload the ORCA/Gaussian data and the software produces tabular results in a Word document.
 
