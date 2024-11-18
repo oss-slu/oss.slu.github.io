@@ -12,7 +12,7 @@ The Flight Simulator Data Synchronization Project is a research initiative aimed
 This interdisciplinary project involves collaboration between Aeronautics students, who will act as system analysts, and Computer Science students, who will serve as software developers. The students will gain hands-on experience in both software design and validation. The project addresses a significant challenge identified in previous research at the Department of Aviation Science, where post-hoc synchronization of flight simulator data with biometric signals was time-consuming and inefficient. By establishing a Transmission Control Protocol (TCP) connection and leveraging advanced software tools, this project seeks to create a stand-alone multimodal physiological test battery for primary flight training. This will enable the aviation training community to better understand and improve pilot training effectiveness by visualizing and measuring the synergy between task management, attention, and workload in real-time.
 
 ### Information
-
+- **Source Code:**  https://github.com/oss-slu/PilotDataSynchronization [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/PilotDataSynchronization)
 - **Client** Gajapriya Tamilselvan - Aviation Science
 - **Current Tech Lead:** Harshitha Thota [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/harshitha-thota)
 - **Developers:**
