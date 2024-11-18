@@ -3,7 +3,7 @@ import currentGradTechLeads from '../../../data/people/currentGradTechLeads.json
 import Profile from '../Profile';
 
 function CurrentGradTechLeads() {
-    console.log('curr', currentGradTechLeads)
+  
   return (
       <div className="techLeadsGrid">
           {currentGradTechLeads.map((techLead, index) => (

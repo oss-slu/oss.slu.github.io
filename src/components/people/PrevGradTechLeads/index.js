@@ -3,7 +3,7 @@ import prevGradTechLeads from '../../../data/people/prevGradTechLeads.json';
 import Profile from '../Profile';
 
 function PrevGradTechLeads() {
-    console.log('prev', prevGradTechLeads)
+
   return (
       <div className="techLeadsGrid">
           {prevGradTechLeads.map((techLead, index) => (
