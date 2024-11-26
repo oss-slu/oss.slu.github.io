@@ -3,6 +3,8 @@ title: Where's Religion? MVP Launch
 description: This semester, our Where's Religion Desktop and Mobile teams achieved a major milestone by completing the MVP and launching the app domain live, overcoming challenges and refining the user experience.
 slug: wheres-religion-mvp
 tags: [announcement, news, project]
+authors: [Zanxiang Wang]
+image: ./wheres-religion-desktop-20241125/launch.jpeg
 hide_table_of_contents: false
 ---
 
@@ -76,13 +78,3 @@ While this semester’s achievements are monumental, we are just getting started
 - Completing the About page is a top priority, as it is still in progress and will provide users with insights into our vision, mission, and team.
 
 We’re proud of what we’ve built and excited to continue growing *Where’s Religion* into a tool that enriches the way people experience and document their encounters with religion.
-
----
-
-### Author
-
-**Zanxiang Wang**  
-Graduate Student Team Lead at Open Source with SLU  
-
-GitHub: [BaloneyBoy97](https://github.com/BaloneyBoy97)  
-LinkedIn: [Zanxiang Wang](https://www.linkedin.com/in/zanxiang-wang-352b112a0/)
