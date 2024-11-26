@@ -2,7 +2,6 @@
 title: Where's Religion? MVP Launch
 description: This semester, our Where's Religion Desktop and Mobile teams achieved a major milestone by completing the MVP and launching the app domain live, overcoming challenges and refining the user experience.
 slug: wheres-religion-mvp
-authors: [zanxiang_wang]
 tags: [announcement, news, project]
 image: ./oss-wheres-religion/launch.jpeg
 hide_table_of_contents: false
@@ -26,29 +25,25 @@ This semester, the *Where's Religion* Desktop and Mobile teams reached an incred
 
 #### **UI and UX Enhancements**
 
-We listened closely to user feedback and made significant updates to improve the app's design and functionality:
+We listened closely to user feedback and made significant updates to improve the app's design and functionality. After meeting with our client, we decided to make several changes to enhance usability and aesthetics. One of the most noticeable changes was updating the homepage and notes page backgrounds to a more vibrant color palette, giving the app a fresh and engaging look. Additionally, we modified the toolbar buttons to create a more uniform design, making them visually appealing and easier for users to navigate.
 
-- **Redesigned Navigation:** Improved layout and streamlined user flows made the app more intuitive.
-- **Onboarding Tour:** Added an interactive walkthrough for new users to help them understand key features like location search, media uploads, and annotations.
+For onboarding, we implemented an interactive tour to help new users understand the platform. This task was also a great way to give our capstone team the opportunity to familiarize themselves with the project. We chose **Intro.js** as the library for this feature because of its popularity and ease of use. Later, we customized the CSS components of the onboarding tour to make it more visually pleasing and easy to follow, ensuring a smooth and welcoming user experience.
+
+In response to feedback on the notes view, we made significant improvements to how users interact with media. We updated the media component so users can play video and audio files directly within the view, eliminating the need to click on links to access them. Additionally, based on our client's request, we consolidated all media upload functionalities into the editor menu control. This change streamlined the process, enabling users to upload and manage all their media files in one place.
 
 #### **Evolving Media Uploads**
 
-The media upload feature underwent a complete overhaul to accommodate user needs:
-
-- **Bulk Uploads:** Added functionality to upload multiple files at once, making the process faster and more efficient.
-- **Enhanced Annotation Tools:** Users can now tag and organize their uploads with greater flexibility.
+To meet user needs and improve functionality, we completely overhauled the media upload feature. Users can now upload multiple files at once, making the process faster and more efficient. Additionally, we enhanced the annotation tools to allow for tagging and organizing uploads with greater flexibility, helping users manage their content more effectively.
 
 #### **Archiving Instead of Deleting**
 
-An early issue with database relationships led to a critical decision:
+While developing the app, we encountered an issue with database relationships that made data deletion problematic. Deleting records caused disconnections between related data, which compromised the app's functionality. To resolve this, we implemented an archiving system instead of outright deletion. This change preserved the integrity of database relationships and allowed users to restore archived data if needed, offering a robust and user-friendly solution.
 
-- Instead of deleting data, we implemented an archiving system to preserve records without breaking database connections. This feature also gave users the ability to restore content when needed.
+#### **Fixing Memory Leaks in Test Cases**
 
-#### **Fixing Memory Leaks in Tests**
+Addressing memory leaks in our test cases was one of the most complex challenges we faced. Through a thorough review of previous test implementations, we identified several causes of memory leaks. Unclosed database connections were a significant issue, as were persistent global variables that prevented garbage collection. Circular references between objects and unremoved event listeners also contributed to memory retention. Additionally, timers (`setTimeout`, `setInterval`) that were not cleared after tests caused memory to remain allocated unnecessarily.
 
-Testing revealed a recurring memory leak due to unresolved promises:
-
-- By restructuring our test cases and implementing a robust cleanup process, we resolved stack overflow issues and ensured our CI pipeline runs smoothly.
+To fix these issues, we ensured all database connections were properly closed, event listeners were removed, and timers were cleared after tests. Circular references were refactored to avoid retention, and global variables were scoped appropriately. We used tools such as Jest's `--detectLeaks` flag to identify potential memory leaks and `--detectOpenHandles` to find unclosed resources. The `--logHeapUsage` flag helped us monitor memory usage across test suites, providing insights into patterns of memory growth and areas for optimization. These efforts resulted in more reliable and efficient test cases.
 
 ---
 
@@ -60,9 +55,7 @@ Launching the app domain has already had a noticeable impact. Users have embrace
 
 ### **Lessons Learned**
 
-- Prioritize user feedback and iterate quickly.
-- Build for scalability from the start to reduce technical debt.
-- Embrace challenges as opportunities for growth and innovation.
+Through this project, we learned the importance of prioritizing user feedback and iterating quickly to address it. Building for scalability from the start allowed us to reduce technical debt and create a more robust foundation for future growth. Additionally, embracing challenges as opportunities for learning and innovation enabled us to deliver a better, more user-friendly platform.
 
 ![Where's Religion Dashboard Screenshot](./oss-wheres-religion/dashboard.png)  
 ![Onboarding Tour Example](./oss-wheres-religion/onboarding.png)
@@ -71,11 +64,7 @@ Launching the app domain has already had a noticeable impact. Users have embrace
 
 ### **Looking Ahead**
 
-While this semester’s achievements are monumental, we are just getting started. Our roadmap includes:
-
-- **Advanced Features:** Expanding functionalities like real-time collaboration and push notifications.
-- **User Engagement:** Regular updates based on community feedback to keep the app relevant and engaging.
-- **Performance Optimization:** Ensuring scalability as the user base grows.
+While this semester’s achievements are monumental, we are just getting started. Our roadmap includes plans to expand the platform's functionalities with advanced features like real-time collaboration and push notifications. We also aim to engage users more effectively by incorporating regular updates based on community feedback and optimizing performance to ensure scalability as the user base grows.
 
 We’re proud of what we’ve built and excited to continue growing *Where’s Religion* into a tool that enriches the way people experience and document their encounters with religion.
 
@@ -83,5 +72,8 @@ We’re proud of what we’ve built and excited to continue growing *Where’s R
 
 ### Author
 
-**[Zanxiang Wang](https://github.com/BaloneyBoy97)**  
-Graduate Student Team Lead at Open Source with SLU
+**Zanxiang Wang**  
+Graduate Student Team Lead at Open Source with SLU  
+
+[![GitHub](/img/github.svg)](https://github.com/BaloneyBoy97)  
+[![LinkedIn](/img/linkedin.svg)](https://www.linkedin.com/in/zanxiang-wang-352b112a0/)
