@@ -3,7 +3,6 @@ title: Where's Religion? MVP Launch
 description: This semester, our Where's Religion Desktop and Mobile teams achieved a major milestone by completing the MVP and launching the app domain live, overcoming challenges and refining the user experience.
 slug: wheres-religion-mvp
 tags: [announcement, news, project]
-image: ./oss-wheres-religion/launch.jpeg
 hide_table_of_contents: false
 ---
 
@@ -31,9 +30,13 @@ For onboarding, we implemented an interactive tour to help new users understand 
 
 In response to feedback on the notes view, we made significant improvements to how users interact with media. We updated the media component so users can play video and audio files directly within the view, eliminating the need to click on links to access them. Additionally, based on our client's request, we consolidated all media upload functionalities into the editor menu control. This change streamlined the process, enabling users to upload and manage all their media files in one place.
 
+![Onboarding Tour Example](./wheres-religion-desktop-20241125/onboarding.jpeg)
+
 #### **Evolving Media Uploads**
 
 To meet user needs and improve functionality, we completely overhauled the media upload feature. Users can now upload multiple files at once, making the process faster and more efficient. Additionally, we enhanced the annotation tools to allow for tagging and organizing uploads with greater flexibility, helping users manage their content more effectively.
+
+![Media Upload Example](./wheres-religion-desktop-20241125/media_upload.jpeg)
 
 #### **Archiving Instead of Deleting**
 
@@ -51,20 +54,26 @@ To fix these issues, we ensured all database connections were properly closed, e
 
 Launching the app domain has already had a noticeable impact. Users have embraced the platform's capabilities, and institutions are exploring how they can leverage the tools for their communities. This success is a testament to the hard work and dedication of our teams.
 
+![Where's Religion Dashboard Screenshot](./wheres-religion-desktop-20241125/launch.jpeg)
+
 ---
 
 ### **Lessons Learned**
 
 Through this project, we learned the importance of prioritizing user feedback and iterating quickly to address it. Building for scalability from the start allowed us to reduce technical debt and create a more robust foundation for future growth. Additionally, embracing challenges as opportunities for learning and innovation enabled us to deliver a better, more user-friendly platform.
 
-![Where's Religion Dashboard Screenshot](./oss-wheres-religion/dashboard.png)  
-![Onboarding Tour Example](./oss-wheres-religion/onboarding.png)
-
 ---
 
 ### **Looking Ahead**
 
-While this semester’s achievements are monumental, we are just getting started. Our roadmap includes plans to expand the platform's functionalities with advanced features like real-time collaboration and push notifications. We also aim to engage users more effectively by incorporating regular updates based on community feedback and optimizing performance to ensure scalability as the user base grows.
+While this semester’s achievements are monumental, we are just getting started. Our roadmap includes ambitious plans to enhance the platform further:
+
+- We are exploring adding animations to the homepage to make it more dynamic and engaging for users.  
+- A complete redesign of the user interface is in the works to make it more visually appealing and intuitive.  
+- We plan to implement custom scripts that will automatically convert all uploaded media files to standardized formats: audio to MP3, video to MP4, and images to JPEG.  
+- Modifications to how location information is displayed to users during the note creation process are planned to ensure clarity and ease of use.  
+- A new design for the publishing toggle is in development to provide a more user-friendly and visually consistent experience.  
+- Completing the About page is a top priority, as it is still in progress and will provide users with insights into our vision, mission, and team.
 
 We’re proud of what we’ve built and excited to continue growing *Where’s Religion* into a tool that enriches the way people experience and document their encounters with religion.
 
@@ -75,5 +84,5 @@ We’re proud of what we’ve built and excited to continue growing *Where’s R
 **Zanxiang Wang**  
 Graduate Student Team Lead at Open Source with SLU  
 
-[![GitHub](/img/github.svg)](https://github.com/BaloneyBoy97)  
-[![LinkedIn](/img/linkedin.svg)](https://www.linkedin.com/in/zanxiang-wang-352b112a0/)
+GitHub: [BaloneyBoy97](https://github.com/BaloneyBoy97)  
+LinkedIn: [Zanxiang Wang](https://www.linkedin.com/in/zanxiang-wang-352b112a0/)
