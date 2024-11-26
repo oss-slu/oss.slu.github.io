@@ -56,7 +56,31 @@ To fix these issues, we ensured all database connections were properly closed, e
 
 Launching the app domain has already had a noticeable impact. Users have embraced the platform's capabilities, and institutions are exploring how they can leverage the tools for their communities. This success is a testament to the hard work and dedication of our teams.
 
-![Where's Religion Dashboard Screenshot](./wheres-religion-desktop-20241125/launch.jpeg)
+#### **Team Collaboration**
+
+The Desktop and Mobile teams showcased exceptional collaboration throughout the semester. Both teams sat down with our client for live coding sessions, implementing changes in real time while receiving immediate feedback. This iterative process allowed us to refine the app’s features quickly and ensure they aligned with the client’s vision. Together, we also worked on creating Figma designs for the mobile app, collaborating closely with the client to compare the differences between mobile and desktop designs. A key focus during these discussions was how to effectively manage the app's real estate to include as many features as possible while ensuring usability across both platforms. By leveraging each team’s strengths, we resolved bugs and critical issues, enabling a smooth and timely product launch.
+
+#### **Communication**
+
+Effective communication between the Desktop and Mobile teams and with our client played a pivotal role in the project’s success. Regular meetings were held to discuss progress, share ideas, and address challenges collaboratively. These discussions enabled both teams to synchronize workflows, share updates on design decisions, and identify ways to integrate features across platforms seamlessly. Additionally, we presented our ideas for future app implementations to the client, incorporating their feedback to refine our roadmap. This transparent and dynamic communication process ensured that everyone involved was aligned with the project’s goals and priorities.
+
+#### **Fostering Open Source Community**
+
+In addition to launching the app, our team worked to foster a sense of community within the Open Source with SLU program. By involving the client in live feedback sessions and collaborative design discussions, we demonstrated the value of open-source principles—transparency, collaboration, and user-driven development. Sharing our design choices, such as how to adapt the app's features to mobile platforms while maintaining functionality, also highlighted our commitment to creating a tool that serves diverse user needs. This approach not only strengthened our relationship with the client but also showcased the collaborative potential of open-source development to the broader SLU community.
+
+#### **Mobile vs. Desktop Design Comparison**
+
+| **Mobile Map View**                                           | **Desktop Map View**                                            |
+|---------------------------------------------------------------|-----------------------------------------------------------------|
+| ![Mobile Map View](./wheres-religion-desktop-20241125/mobile_map.png) | ![Desktop Map View](./wheres-religion-desktop-20241125/desktop_map.png) |
+
+| **Mobile List View**                                          | **Desktop Map View**                                            |
+|---------------------------------------------------------------|-----------------------------------------------------------------|
+| ![Mobile List View](./wheres-religion-desktop-20241125/mobile_list.png) | ![Desktop Map View](./wheres-religion-desktop-20241125/desktop_map.png) |
+
+| **Mobile About View**                                         | **Desktop About Views**                                         |
+|---------------------------------------------------------------|-----------------------------------------------------------------|
+| ![Mobile About View](./wheres-religion-desktop-20241125/mobile_about.png) | ![Desktop About 1](./wheres-religion-desktop-20241125/desktop_about1.png) ![Desktop About 2](./wheres-religion-desktop-20241125/desktop_about2.png) |
 
 ---
 
