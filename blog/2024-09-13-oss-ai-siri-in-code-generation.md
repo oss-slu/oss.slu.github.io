@@ -1,10 +1,10 @@
 ---
 title: Open-Source AI in Code Generation Presentation
 description: The "Open-Source AI in Code Generation" workshop provided a comprehensive introduction to AI's role in programming, focusing on both proprietary and open-source tools. 
-slug: blog_presentation_open-source_AI_code_generation
-authors: [Maryam Moshrefizadeh]
+slug: open-source_AI_code_generation
+authors: [maryam]
 tags: [announcement, news]
-image: ./
+image: ./oss-atc-20240913/PXL_20240913_172142332.jpg
 hide_table_of_contents: false
 ---
 
@@ -25,10 +25,11 @@ Siri presented the "Open-Source AI in Code Generation" workshop, guiding student
 
 
 The presentation began with an introduction to AI and machine learning concepts. It then talked about AI tools that help write code, focusing on popular tools like Microsoft’s IntelliCode and GitHub Copilot. There were also demonstrations of free, open-source alternatives.
+
 The open-source section clarified the essential freedoms required for AI systems to be considered open-source: the right to study, use, modify, and share the system, with access to its data, code, and weights. The presenter highlighted the AI Alliance’s role in advancing responsible open-source AI practices.
+
 The hands-on activity "SPOT the bug!" was a key part of the workshop, challenging attendees to find errors in the code on their own and with the help of AI tools. This demonstrated how AI can speed up problem-solving and help developers quickly catch their mistakes, especially as technology grows. ![Students are trying to find the error without using AI](./oss-atc-20240913/PXL_20240913_164300070.MP.jpg)
+
 The discussion also covered the practical benefits of AI in code generation, such as increased productivity and reduced repetitive tasks, along with potential risks, especially in an educational setting. The workshop concluded with a thoughtful look at the ethical concerns and future trends in AI, followed by an interactive Q&A.
-
-
 
 ![Students all around the table](./oss-atc-20240913/PXL_20240913_164142204.jpg)
