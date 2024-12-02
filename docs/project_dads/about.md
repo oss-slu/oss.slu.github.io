@@ -17,6 +17,7 @@ The goal of this project is to create a flexible, web-based, search-driven user 
 - **Client** Dr Benjamin Hutz
 - **Current Tech Lead:** Supraja Mannava [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/suprajamannava17)
 - **Developers:**
+
   - Bradley Sheldon (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/BradleySheldon)
   - Samuel Kann (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dracpak)
   - Syed Omair (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/iamsyedomair)
@@ -27,6 +28,7 @@ The goal of this project is to create a flexible, web-based, search-driven user 
   - Josiah Glyshaw (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jglyshaw)
   - Louis Rolwes (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lRolwes)
   - Thomas McGuigan (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thomasmcg77)
+
 - **Start Date:** Mar, 2023
 - **Adoption Date:** Mar, 2023
 - **Technologies Used:**
