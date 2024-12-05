@@ -16,8 +16,9 @@ The chemistry department at SLU uses paper scantron (fill-in-the-bubble) sheets 
 - **Source Code:** [https://github.com/oss-slu/bubble_scan](https://github.com/oss-slu/bubble_scan) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/bubble_scan)
 
 - **Client** Dr. Brian Woods
-- **Current Tech Lead:** Raju Karmuri [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rkarmuri) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/rajukarmuri731/)
+- **Current Tech Lead:** Chirag Gupta [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Chirag2x) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/chirag-gupta-3911961b4/)
 - **Developers:**
+  - Raju Karmuri (alumni, prior tech lead)[<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rkarmuri) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/rajukarmuri731/)
 
   - Myles Correa [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mylescorrea)
 
@@ -47,11 +48,11 @@ Overview of the software architecture.
 
 ### Development Priorities
 
-- Develop a robust frontend component that allows user to upload the Scantron sheets
-- Develop the backend component to receive the sheets from the frontend component
+- Optimize the AI Components
+- Develop the backend component to accept the custom sheets
+- Develop the frontend componentt to have options for uploading the custom sheets
 - The backend component should work efficiently and send the sheets to the AI component
 - The backend component should receive the results from the AI component
-- The backend component should convert the results to CSV format as expected from client and send it to frontend
 - The frontend component allows user to download the results
 
 ## Get Involved

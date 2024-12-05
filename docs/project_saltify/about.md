@@ -16,12 +16,15 @@ _Note: careful review by a knowledgeable speech-language pathologist is required
 - **Clients:**
   - [Dr. Sara Steele](https://www.slu.edu/doisy/faculty/steele-sara.php)
   - [Dr. Elizabeth Roepke](https://www.slu.edu/doisy/faculty/roepke-elizabeth.php)
-- **Current Tech Lead:** Logan Wyas [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
+- **Current Tech Lead:** Sagar Rajesh Badgujar [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sagar3181)
 - **Developers:**
-
-  - Colin Bush (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cbush201)
-  - Travis Herrick (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/TravisHerrick7)
-  - Jack Pifer (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/JackPifer)
+  - Emra Meduseljac (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />] (https://github.com/emrameduseljac)
+  - Krishna Pothuganti (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />] (https://github.com/kpothuganti)
+  - Samuel Sheldon (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />] (https://github.com/samfred)
+  - Logan Wyas (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
+  - Colin Bush (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cbush201)
+  - Travis Herrick (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/TravisHerrick7)
+  - Jack Pifer (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/JackPifer)
   - Omar Al Akkad (alumni, previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/OmarAlAkkad)
   - Sean Gerty (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/gertysr)
   - Drew Hediger (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ahediger)
@@ -52,11 +55,10 @@ Overview of the software architecture.
 
 ### Development Priorities
 
-- Improve the user interface
+- Fix user interface errors
+- Fixing occasional code crashes and errors
 - Add diarization to the transcription
 - Fix the errors when adding morphemes
-- Implement automated testing
-- Address the freezing of certain processes
 
 ## Get Involved
 
