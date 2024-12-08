@@ -3,7 +3,7 @@ title: Where's Religion? MVP Launch
 description: This semester, our Where's Religion Desktop and Mobile teams achieved a major milestone by completing the MVP and launching the app domain live, overcoming challenges and refining the user experience.
 slug: wheres-religion-mvp
 tags: [announcement, news, project]
-authors: [Zanxiang Wang]
+authors: [Zanxiang Wang, Karthik Mangineni]
 image: ./wheres-religion-desktop-20241125/launch.jpeg
 hide_table_of_contents: false
 ---
@@ -102,3 +102,116 @@ While this semester’s achievements are monumental, we are just getting started
 - Completing the About page is a top priority, as it is still in progress and will provide users with insights into our vision, mission, and team.
 
 We’re proud of what we’ve built and excited to continue growing *Where’s Religion* into a tool that enriches the way people experience and document their encounters with religion.
+
+### **Key Highlights of Development**
+
+---
+
+### **Karthik’s Contributions as a Tech Lead**
+
+As the tech lead for the **Where's Religion Mobile app**, I was able to engage in some of the most essential and demanding aspects of the project. My duties included problem-solving, user experience design, open-source promotion, and leadership. Here are several of my main contributions to the project.
+
+---
+
+### **Enhancing Navigation with Redux State Management**
+
+This approach eliminated the need for manual updates to local storage and ensured that user actions, such as completing onboarding or logging in, would immediately trigger a state change. This solution improved the app's performance and user experience significantly.
+
+To resolve this, I implemented **Redux for global state management**. By creating a **user slice**, I ensured the app's navigation state was updated in real time. I designed the system to track user states like **"loading," "onboarding," "login," and "home"** and created a smooth flow for the onboarding process.  
+
+Here’s an example of the Redux slice I created:  
+
+```typescript
+import { createSlice, PayloadAction } from '@reduxjs/toolkit';
+
+interface NavigationState {
+  navState: 'loading' | 'onboarding' | 'login' | 'home';
+}
+
+const initialState: NavigationState = {
+  navState: 'loading', // Default state
+};
+
+const navigationSlice = createSlice({
+  name: 'navigation',
+  initialState,
+  reducers: {
+    setNavState(state, action: PayloadAction<'loading' | 'onboarding' | 'login' | 'home'>) {
+      state.navState = action.payload;
+    },
+  },
+});
+
+export const { setNavState } = navigationSlice.actions;
+
+export default navigationSlice.reducer;
+```
+---
+
+### **Hacktoberfest and Open Source Contributions**
+
+In addition to my development responsibilities, I contributed to supporting the open-source community. As part of Hacktoberfest, I created and documented issues related to the Where’s Religion mobile app, ensuring they were clearly described to make it easier for contributors to understand and tackle them. I also took an active role in supporting students during the Hacktoberfest initiative by volunteering at the university library, where I guided students on how to contribute to open-source projects. Through these efforts, I played a key role in fostering community engagement and encouraging collaboration on the Where’s Religion mobile app.
+
+![HacktoberFest volunteering image](./wheres-religion-desktop-20241125/HacktoberfestVolunteeringPic.jpg)
+
+---
+
+### **Creating and Implementing Figma Designs**
+
+When I joined the team, the app did not have a clear design or style guide. To bridge this gap, I worked closely with our client, **Dr. Park**, to understand his vision and requirements. After several meetings, I created a **Figma design** that aligned with both the client’s needs and the app's functionality.
+
+I started by creating the Figma designs for the mobile app, ensuring they aligned with the client’s requirements and project goals. After several discussions with Dr. Park, I developed a comprehensive design that focused on enhancing navigation, layout, and aesthetics. These designs were well-received by Dr. Park.
+
+At present, I am actively converting these Figma designs into fully functional mobile app interfaces using React Native. This development process commenced on December 6, 2024, and by December 7, 2024, I had successfully completed 40% of the required screens. My objective is to ensure that the screens are not only entirely responsive but also visually consistent with the Figma designs and optimized for a seamless user experience. This transition from design to development allows me to maintain the original design vision while delivering a polished, high-quality product.
+
+![Figms Designs](./wheres-religion-desktop-20241125/CompleteFigma.png)
+![Figms Designs](./wheres-religion-desktop-20241125/loginPage.png)
+![Figms Designs](./wheres-religion-desktop-20241125/HomeScreenFigma.png)
+![Figms Designs](./wheres-religion-desktop-20241125/AppThemeFigma.png)
+
+---
+
+### **UI and Styling Improvements**
+
+Throughout the semester, I worked on several **UI and styling issues** to improve usability and consistency across the app. Here are some of the key changes I made:
+
+#### **Search Bar and Dropdown Menu Alignment**
+The search bar and dropdown menu were overlapping when both were active, creating a cluttered user experience. I resolved the issue by modifying the layout and styling to ensure the two components were visually distinct and properly aligned.
+
+![Search Bar and Dropdown Menu Alignmen](./wheres-religion-desktop-20241125/searchbarAlignment.jpg)
+
+#### **Login and Sign-Up Page Enhancements**
+To improve clarity, I reworked the **login and sign-up pages**. I repositioned the **"Forgot Password"** link and replaced the **"Register"** button with a new call-to-action:  
+> **"Don't have an account? Register."**
+
+This update made the registration process more intuitive for new users.
+
+---
+
+### **Impact and Reflections**
+
+Working as a **tech lead** for **Where’s Religion Mobile** has been a rewarding experience. I’ve had the opportunity to lead development, improve navigation, and contribute to UI/UX design. My role also extended to supporting **open-source contributions** and creating Hacktoberfest issues to encourage collaboration.
+
+Currently, I am focused on converting Figma designs into operational mobile app interfaces using React Native. This development phase started on December 6th, 2024, and by December 7th, 2024, I had successfully completed 40% of the required screens. The goal is to deliver a modern and seamless user experience with enhancements to navigation, layout, and overall usability. I am dedicated to ensuring that the implementation remains true to the original design vision, resulting in responsive and fully functional mobile app screens. I look forward to completing this phase in the coming weeks while maintaining high standards of design fidelity and user experience.
+
+This project has taught me the importance of problem-solving, open-source advocacy, and collaboration. I’m especially grateful for the opportunity to work with **Dr. Park**, **Yash Kamal Bhatia**, and the entire **Where's Religion** team.
+
+---
+
+### **Lessons Learned**
+
+Through this project, we learned the importance of prioritizing user feedback and iterating quickly to address it. Building for scalability from the start allowed us to reduce technical debt and create a more robust foundation for future growth. Additionally, embracing challenges as opportunities for learning and innovation enabled us to deliver a better, more user-friendly platform.
+
+---
+
+### **Looking Ahead**
+
+While this semester’s achievements mark a significant milestone, our journey is far from over. We have an ambitious roadmap ahead to further enhance the mobile app:
+
+- Improving navigation and layout consistency across screens for a seamless user experience.
+- Adding interactive animations to make the mobile app more dynamic and engaging for users.
+- Refining the note creation process to make location data entry simpler and more intuitive.
+- Enhancing the mobile app's performance and responsiveness across different devices and screen sizes.
+- Implementing accessibility features to make the app more inclusive and user-friendly for all users.
+
+We take pride in the advancements we've achieved and are eager to keep developing Where's Religion into a platform that enables individuals to engage with and record their experiences of religion via mobile devices.
