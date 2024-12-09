@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkopen_source_with_slu=self.webpackChunkopen_source_with_slu||[]).push([[2353],{2207:e=>{e.exports=JSON.parse('{"tags":[{"label":"announcement","permalink":"/news/tags/announcement","count":12},{"label":"news","permalink":"/news/tags/news","count":12}]}')}}]);

@@ -2,11 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oss-slu.github.io/news</id>
     <title>Open Source with SLU Blog</title>
-    <updated>2024-09-13T00:00:00.000Z</updated>
+    <updated>2024-10-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oss-slu.github.io/news"/>
     <subtitle>Open Source with SLU Blog</subtitle>
     <icon>https://oss-slu.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Storytelling in Grant Writing Workshop]]></title>
+        <id>https://oss-slu.github.io/news/blog_storytelling_in_grant_writing</id>
+        <link href="https://oss-slu.github.io/news/blog_storytelling_in_grant_writing"/>
+        <updated>2024-10-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The "Storytelling in Grant Writing" workshop introduced participants to the power of narrative in crafting compelling grant proposals, emphasizing emotional engagement and data-driven storytelling.]]></summary>
+        <content type="html"><![CDATA[<p>Julie Turner presented the "Storytelling in Grant Writing" workshop, offering valuable insights into how narratives enhance grant proposals. The event highlighted strategies for combining emotional connection with data to create compelling grant narratives—an approach particularly relevant to researchers and developers working on open source and research software projects.</p>
+<p>The workshop was facilitated by <strong>Jenna Gorlewicz, Associate Dean</strong>, who emphasized the importance of storytelling in communicating research vision effectively in grant applications. In her follow-up, Jenna noted that storytelling is an essential component of sharing the vision of research, making it a powerful tool for grant proposals across disciplines, including open source and research software development.</p>
+<p><strong>What:</strong> Storytelling in Grant Writing Workshop<br>
+<strong>Who:</strong> Presented by Julie Turner<br>
+<strong>When:</strong> Wednesday, Oct 23, 11:00 a.m.–12:00 p.m.<br>
+<strong>Where:</strong> McDonnell Douglas Room 1001<br>
+<strong>Questions:</strong> <a href="mailto:sseresearch@slu.edu" target="_blank" rel="noopener noreferrer">sseresearch@slu.edu</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="why-storytelling-matters-for-open-source-and-research-software"><strong>Why Storytelling Matters for Open Source and Research Software</strong><a href="https://oss-slu.github.io/news/blog_storytelling_in_grant_writing#why-storytelling-matters-for-open-source-and-research-software" class="hash-link" aria-label="Direct link to why-storytelling-matters-for-open-source-and-research-software" title="Direct link to why-storytelling-matters-for-open-source-and-research-software">​</a></h3>
+<p>Julie emphasized the unique challenges faced by researchers and developers seeking funding for open source and research software projects:</p>
+<ul>
+<li>
+<p><strong>Justifying Community Impact:</strong><br>
+<!-- -->Open source software thrives in collaborative environments where community engagement is critical. Storytelling can highlight how the software meets specific community or research needs, fostering a deeper connection with grant reviewers.</p>
+</li>
+<li>
+<p><strong>Balancing Metrics with Narrative:</strong><br>
+<!-- -->While data-driven results are essential, integrating personal stories—like how a bioinformatics API empowers researchers in underfunded labs—can make a proposal more memorable.</p>
+</li>
+<li>
+<p><strong>Illustrating Long-Term Benefits:</strong><br>
+<!-- -->For research software, storytelling helps convey broader impacts, such as advancing scientific discoveries or making computational tools accessible globally.</p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="workshop-highlights"><strong>Workshop Highlights</strong><a href="https://oss-slu.github.io/news/blog_storytelling_in_grant_writing#workshop-highlights" class="hash-link" aria-label="Direct link to workshop-highlights" title="Direct link to workshop-highlights">​</a></h3>
+<ol>
+<li>
+<p><strong>Introducing Characters and Context</strong></p>
+<ul>
+<li>Showcase developers, researchers, or end-users behind the software.</li>
+<li>Create a vivid picture of the problem the software solves, emphasizing real-world relevance.</li>
+</ul>
+</li>
+<li>
+<p><strong>Building Tension in the Proposal</strong></p>
+<ul>
+<li>Highlight challenges in sustaining open source and research software without institutional funding.</li>
+<li>Use conflict—such as the limitations of proprietary tools—to justify the need for open, scalable alternatives.</li>
+</ul>
+</li>
+<li>
+<p><strong>Crafting the Narrative</strong></p>
+<ul>
+<li><strong>Orientation:</strong> "This software was born out of a need for accessible computational tools in underserved regions."</li>
+<li><strong>Complication:</strong> "However, without sustainable funding, maintaining quality and usability for the community is challenging."</li>
+<li><strong>Resolution:</strong> "With grant support, we will extend functionality, provide training, and ensure long-term impact."</li>
+</ul>
+</li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="real-world-applications"><strong>Real-World Applications</strong><a href="https://oss-slu.github.io/news/blog_storytelling_in_grant_writing#real-world-applications" class="hash-link" aria-label="Direct link to real-world-applications" title="Direct link to real-world-applications">​</a></h3>
+<p>The workshop’s lessons directly apply to open source and research software. For example:</p>
+<ul>
+<li>A <strong>collaborative bioinformatics tool</strong> that accelerates genomic research. A strong narrative could highlight its potential for advancing cancer research in resource-constrained labs.</li>
+<li>A <strong>climate modeling software</strong> where storytelling underscores the urgency of accessible tools to address global environmental challenges.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="additional-insights-from-the-associate-dean"><strong>Additional Insights from the Associate Dean</strong><a href="https://oss-slu.github.io/news/blog_storytelling_in_grant_writing#additional-insights-from-the-associate-dean" class="hash-link" aria-label="Direct link to additional-insights-from-the-associate-dean" title="Direct link to additional-insights-from-the-associate-dean">​</a></h3>
+<p>Jenna Gorlewicz emphasized that storytelling is integral to all grant applications. It plays a vital role in sharing the research vision, a necessity for connecting with funders. She also highlighted resources available for researchers, including:</p>
+<ul>
+<li><strong>Research Lunch and Learn series:</strong> Monthly sessions, such as the November session on <em>Using the PI Dashboard for Managing Grants</em>.</li>
+<li><strong>External proposal review resources:</strong> Providing feedback to refine submissions.</li>
+<li><strong>Mentorship programs:</strong> Facilitating guidance for early-career researchers navigating grant writing.</li>
+</ul>
+<hr>
+<p>Questions? Contact us at <a href="mailto:sseresearch@slu.edu" target="_blank" rel="noopener noreferrer">sseresearch@slu.edu</a>.</p>]]></content>
+        <author>
+            <name>Ajith Akuthota</name>
+            <uri>https://github.com/AjithAkuthota23</uri>
+        </author>
+        <category label="announcement" term="announcement"/>
+        <category label="workshop" term="workshop"/>
+        <category label="open source software" term="open source software"/>
+        <category label="research software" term="research software"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open-Source AI in Code Generation Presentation]]></title>
         <id>https://oss-slu.github.io/news/open-source_AI_code_generation</id>
