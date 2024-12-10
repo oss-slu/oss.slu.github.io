@@ -2,7 +2,7 @@
 title: "Our way is Open Source: Peer to Peer Secure File Share"
 Description: "A journey of building a secure, user-controlled P2P file sharing application with an open-source mindset."
 Slug: blog_our_way_is_open_source
-Authors: [Sowmya, Santosh]
+authors: [Sowmya, Santosh]
 Tags: [open source, file sharing, peer-to-peer, privacy, security, community-driven development]
 Hide Table of Contents: false
 ---
