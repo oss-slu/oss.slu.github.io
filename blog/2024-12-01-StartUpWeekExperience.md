@@ -7,7 +7,7 @@ tags: [announcement, event, entrepreneurship, open source]
 hide_table_of_contents: false
 ---
 
-![Cover Image - Saint Louis Startup Connection](blog/RepresentingOpenSourceInStartUpWeek/IMG_7220.jpg "Event Cover")
+![Cover Image - Saint Louis Startup Connection](RepresentingOpenSourceInStartUpWeek/IMG_7220.jpg "Event Cover")
 
 The **Saint Louis Startup Connection** event ([official website](https://www.stlouisstartupweek.com)) offered an incredible atmosphere for anyone passionate about innovation, entrepreneurship, and community building. This was my first time attending such a gathering, and I had the opportunity to represent **Open Source SLU**, an experiential learning program aimed at developing real world software solutions and fostering software development skills among graduate and undergraduate students.
 
