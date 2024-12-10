@@ -22,7 +22,7 @@ This semester, the *Where's Religion* Desktop and Mobile teams reached an incred
 
 ---
 
-### **Key Highlights of Development**
+### **Key Highlights of Website Development**
 
 #### **UI and UX Enhancements**
 
@@ -68,20 +68,6 @@ Effective communication between the Desktop and Mobile teams and with our client
 
 In addition to launching the app, our team worked to foster a sense of community within the Open Source with SLU program. By involving the client in live feedback sessions and collaborative design discussions, we demonstrated the value of open-source principles—transparency, collaboration, and user-driven development. Sharing our design choices, such as how to adapt the app's features to mobile platforms while maintaining functionality, also highlighted our commitment to creating a tool that serves diverse user needs. This approach not only strengthened our relationship with the client but also showcased the collaborative potential of open-source development to the broader SLU community.
 
-#### **Mobile vs. Desktop Design Comparison**
-
-| **Mobile Map View**                                           | **Desktop Map View**                                            |
-|---------------------------------------------------------------|-----------------------------------------------------------------|
-| ![Mobile Map View](./wheres-religion-desktop-20241125/mobile_map.png) | ![Desktop Map View](./wheres-religion-desktop-20241125/desktop_map.png) |
-
-| **Mobile List View**                                          | **Desktop Map View**                                            |
-|---------------------------------------------------------------|-----------------------------------------------------------------|
-| ![Mobile List View](./wheres-religion-desktop-20241125/mobile_list.png) | ![Desktop Map View](./wheres-religion-desktop-20241125/desktop_map.png) |
-
-| **Mobile About View**                                         | **Desktop About Views**                                         |
-|---------------------------------------------------------------|-----------------------------------------------------------------|
-| ![Mobile About View](./wheres-religion-desktop-20241125/mobile_about.png) | ![Desktop About 1](./wheres-religion-desktop-20241125/desktop_about1.png) ![Desktop About 2](./wheres-religion-desktop-20241125/desktop_about2.png) |
-
 ---
 
 ### **Lessons Learned**
@@ -102,6 +88,8 @@ While this semester’s achievements are monumental, we are just getting started
 - Completing the About page is a top priority, as it is still in progress and will provide users with insights into our vision, mission, and team.
 
 We’re proud of what we’ve built and excited to continue growing *Where’s Religion* into a tool that enriches the way people experience and document their encounters with religion.
+
+
 
 ## **Key Highlights of Mobile Development**
 
@@ -176,7 +164,23 @@ To create a modern, visually appealing, and consistent app, significant efforts 
 
 These enhancements made the app more user-friendly, improved visual clarity, and aligned the app’s design with modern user experience principles.  
 
-![Search Bar and Dropdown Alignment](./wheres-religion-desktop-20241125/searchbarAlignment.jpg)  
+![Search Bar and Dropdown Alignment](./wheres-religion-desktop-20241125/searchbarAlignment.png)  
+
+---
+
+#### **Mobile vs. Desktop Design Comparison**
+
+| **Mobile Map View**                                           | **Desktop Map View**                                            |
+|---------------------------------------------------------------|-----------------------------------------------------------------|
+| ![Mobile Map View](./wheres-religion-desktop-20241125/mobile_map.png) | ![Desktop Map View](./wheres-religion-desktop-20241125/desktop_map.png) |
+
+| **Mobile List View**                                          | **Desktop Map View**                                            |
+|---------------------------------------------------------------|-----------------------------------------------------------------|
+| ![Mobile List View](./wheres-religion-desktop-20241125/mobile_list.png) | ![Desktop Map View](./wheres-religion-desktop-20241125/desktop_map.png) |
+
+| **Mobile About View**                                         | **Desktop About Views**                                         |
+|---------------------------------------------------------------|-----------------------------------------------------------------|
+| ![Mobile About View](./wheres-religion-desktop-20241125/mobile_about.png) | ![Desktop About 1](./wheres-religion-desktop-20241125/desktop_about1.png) ![Desktop About 2](./wheres-religion-desktop-20241125/desktop_about2.png) |
 
 ---
 
@@ -205,4 +209,8 @@ With the MVP live, development for **Where's Religion Mobile** is ongoing. The n
 - **"About Us" Page Update**: Enhancing the "About Us" page to present a polished, professional face for the app’s public launch. This update is essential for creating a strong first impression with users and stakeholders.  
 
 These updates aim to make **Where's Religion Mobile** a more powerful, polished, and user-friendly tool for capturing and sharing religious encounters. By addressing critical issues like navigation, UI consistency, and user feedback, the app will continue to improve usability and engagement.
+
+
+
+
 
