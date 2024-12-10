@@ -1,8 +1,8 @@
 ---
-title: Code and Coffee
-description: "Code and Coffee," an inclusive and informal meetup for anyone in the tech space open to people of all skill levels. It’s a great way to connect with people and learn something new.
-slug: blog_code_and_coffee
-authors: [Manohar Reddy, Sowmya Mutya, Santosh Iragavarapu]
+title: "Code and Coffee"
+description: "Code and Coffee, an inclusive and informal meetup for anyone in the tech space open to people of all skill levels. It’s a great way to connect with people and learn something new."
+Slug: blog_code_and_coffee
+authors: [Manohar Reddy, Sowmya, Santosh]
 tags: [event, community, tech, open source, networking]
 hide_table_of_contents: false
 ---
@@ -19,6 +19,8 @@ It was organized by JerMarco Britton and Denis Ikovlev.
 
 ### A Welcoming and Diverse Community
 
+The event provided a very welcoming atmosphere, with people from various backgrounds. It was incredible to meet people who have great experience in programming, each with their preferred languages, even COBAL. One person humorously shared that they hate COBOL but mentioned that we could still make a good living if we wish to get into it early though we'd probably hate every minute of it (laughs)
+I met people working in different areas of tech, such as full-stack web development, machine learning, and Android development. What was great about them was the enthusiasm they had for their work. Each person spoke passionately about their current projects. It was inspiring to hear how deeply these individuals care about their work and how it motivates them.
 
 
 ### Sharing My Journey as a CS Graduate Student
@@ -31,6 +33,7 @@ One of the most interesting conversations was with a person who has seven years 
 
 ### Invaluable Encouragement
 
+Everyone at the event was incredibly encouraging. Many people we spoke with appreciated the value-driven development that we’re involved in, especially since we’re working on open-source projects. As we shared our experiences and showed them our work, we felt happy to receive such positive feedback. It was helpful to receive advice and feedback from people in tech.
 
 
 ### A Great Event to Check Out
