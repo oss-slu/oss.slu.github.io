@@ -1,5 +1,5 @@
 ---
-title: A Night at Saint Louis Startup Connection: My First Taste of the Entrepreneurial Scene
+title: A Night at Saint Louis Startup Connection, My First Taste of the Entrepreneurial Scene
 description: A first-hand account of representing Open Source SLU at the Saint Louis Startup Connection, where I discovered a world of innovation, collaboration, and entrepreneurial energy.
 slug: blog_a_night_at_stl_startup_connection
 authors: [Chirag Gupta]
