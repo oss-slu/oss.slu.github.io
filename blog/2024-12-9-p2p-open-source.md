@@ -26,6 +26,14 @@ To achieve this, we implemented an authentication process, requiring all users t
 Once we developed the application, we tested it with a variety of file transfers and all were successful. Our professor praised the project, calling our approach unique and innovative.
 Many of our peers also expressed their frustration with traditional P2P applications, which often come with security risks and inappropriate ads. They were also bothered by bundled software : setup files that are downloaded along with an application but have nothing to do with the file-sharing process. We realized that our application could address these issues and offer a more secure and user-friendly experience.
 
+### **Open Source**
+As we reflected on the value of our project, we saw an opportunity to make it even better by opening it up to the broader community as we received some feedback from peers. By making this project open source, we could invite contributions from developers around the world who share our vision of secure, user-controlled file sharing. This could help build a community around our project
 
+### **First Steps Toward Open Source**
+As we continue to learn about open-source software development, we’re excited to take the first steps toward making our project publicly available. Here’s what we plan to do to prepare the project for external contributions: An open source license, Readme, Contributing guide, Project board (Kanban board), Clearly defined issues with labels, Code of conduct and a clean project directory.
 
+### **Join Us**
+As we take these first steps, we’re excited about the potential to grow this project into something truly impactful. We believe that open source is the best way to ensure the continued success and evolution of our P2P file-sharing application, and we look forward to collaborating with others who share our vision. If you're passionate about privacy, security, or building open-source software, we’d love for you to join us. Keep an eye out for updates on the project, and feel free to contribute if you’d like to be part of the journey. Check out our [GitHub repo](https://github.com/pawar-ashwin/p2p_SecureShare)
+
+### **Developers & Maintainers :** [Ashwin Pawar](https://github.com/pawar-ashwin), [Sowmya Mutya](https://github.com/MutyaSowmya123), [Santosh Iragavarapu](https://github.com/jacksayshi)
 ---
