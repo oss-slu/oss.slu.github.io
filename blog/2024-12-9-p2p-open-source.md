@@ -35,4 +35,5 @@ As we continue to learn about open-source software development, we’re excited 
 ### **Join Us**
 As we take these first steps, we’re excited about the potential to grow this project into something truly impactful. We believe that open source is the best way to ensure the continued success and evolution of our P2P file-sharing application, and we look forward to collaborating with others who share our vision. If you're passionate about privacy, security, or building open-source software, we’d love for you to join us. Keep an eye out for updates on the project, and feel free to contribute if you’d like to be part of the journey. Check out our [GitHub repo](https://github.com/pawar-ashwin/p2p_SecureShare)
 
+### **Developers & Maintainers :** [Ashwin Pawar](https://github.com/pawar-ashwin), [Sowmya Mutya](https://github.com/MutyaSowmya123), [Santosh Iragavarapu](https://github.com/jacksayshi)
 ---
