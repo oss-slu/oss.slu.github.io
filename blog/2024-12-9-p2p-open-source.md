@@ -19,8 +19,8 @@ In conventional P2P networks, peers often have limited authentication, and there
 Instead of allowing a direct download of files, we introduced an option for peers to have more control over the transfer process. We wanted users to have the ability to decide which files they want to share and ensure that only specific files are visible to other peers on their devices.
 To achieve this, we implemented an authentication process, requiring all users to authenticate before becoming peers. This added a layer of security, ensuring that only authorized users could participate in the network. We also developed an interface that allows users to manage incoming and outgoing file transfer requests, further enhancing their control over the process.
 
-![File request status](./open_source_p2p/p2p_img1.jpg)
 ![user dashboard](./open_source_p2p/p2p_img2.jpg)
+![File request status](./open_source_p2p/p2p_img1.jpg)
 
 ### **Testing and Feedback**
 Once we developed the application, we tested it with a variety of file transfers and all were successful. Our professor praised the project, calling our approach unique and innovative.
@@ -35,5 +35,9 @@ As we continue to learn about open-source software development, we’re excited 
 ### **Join Us**
 As we take these first steps, we’re excited about the potential to grow this project into something truly impactful. We believe that open source is the best way to ensure the continued success and evolution of our P2P file-sharing application, and we look forward to collaborating with others who share our vision. If you're passionate about privacy, security, or building open-source software, we’d love for you to join us. Keep an eye out for updates on the project, and feel free to contribute if you’d like to be part of the journey. Check out our [GitHub repo](https://github.com/pawar-ashwin/p2p_SecureShare)
 
-### **Developers & Maintainers :** [Ashwin Pawar](https://github.com/pawar-ashwin), [Sowmya Mutya](https://github.com/MutyaSowmya123), [Santosh Iragavarapu](https://github.com/jacksayshi)
+### Developers & Maintainers:
+- [Ashwin Pawar](https://github.com/pawar-ashwin)
+- [Sowmya Mutya](https://github.com/MutyaSowmya123)
+- [Santosh Iragavarapu](https://github.com/jacksayshi)
+
 ---
