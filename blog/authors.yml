@@ -40,11 +40,17 @@ maryam:
   url: https://github.com/Moshrefi
   image_url: /img/maryam_avatar.jpeg
 
+anjali:
+  name: Anjali Putta
+  title: Graduate research assistant at Saint Louis University
+  url: https://anjaliofficial.netlify.app/
+  image_url: /img/anjali_avatar.jpeg
+
 Ajith Akuthota:
   name: Ajith Akuthota
   title: Tech Lead at Open Source with SLU
   url: https://github.com/AjithAkuthota23
-  
+
 Lalith Adithya Reddy Avuthu:
   name: Lalith Adithya Reddy Avuthu
   title: Tech Lead at Open Source with SLU
