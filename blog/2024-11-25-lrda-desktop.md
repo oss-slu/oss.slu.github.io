@@ -103,23 +103,20 @@ While this semester’s achievements are monumental, we are just getting started
 
 We’re proud of what we’ve built and excited to continue growing *Where’s Religion* into a tool that enriches the way people experience and document their encounters with religion.
 
-### **Key Highlights of Development**
+## **Key Highlights of Mobile Development**
 
 ---
 
-### **Karthik’s Contributions as a Tech Lead**
+### **Seamless Navigation and State Management**
 
-As the tech lead for the **Where's Religion Mobile app**, I was able to engage in some of the most essential and demanding aspects of the project. My duties included problem-solving, user experience design, open-source promotion, and leadership. Here are several of my main contributions to the project.
+Smooth navigation was a major priority for the **Where's Religion Mobile** app. **Redux state management** was introduced to create a seamless, user-friendly navigation experience. The system enables real-time updates to the app's navigation state, reducing manual updates and improving responsiveness.
 
----
+**Key Features of Navigation:**
+- **State Tracking**: Tracks user states like **"loading," "onboarding," "login," and "home"** to ensure smooth user transitions.  
+- **Real-time Navigation Updates**: Navigation updates instantly as users complete actions like onboarding or logging in.  
+- **Consistent User Flow**: Smooth state transitions allow users to move seamlessly from onboarding to login and into the main app experience.  
 
-### **Enhancing Navigation with Redux State Management**
-
-This approach eliminated the need for manual updates to local storage and ensured that user actions, such as completing onboarding or logging in, would immediately trigger a state change. This solution improved the app's performance and user experience significantly.
-
-To resolve this, I implemented **Redux for global state management**. By creating a **user slice**, I ensured the app's navigation state was updated in real time. I designed the system to track user states like **"loading," "onboarding," "login," and "home"** and created a smooth flow for the onboarding process.  
-
-Here’s an example of the Redux slice I created:  
+Here’s an example of the navigation system using Redux:  
 
 ```typescript
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
@@ -146,72 +143,66 @@ export const { setNavState } = navigationSlice.actions;
 
 export default navigationSlice.reducer;
 ```
----
 
-### **Hacktoberfest and Open Source Contributions**
-
-In addition to my development responsibilities, I contributed to supporting the open-source community. As part of Hacktoberfest, I created and documented issues related to the Where’s Religion mobile app, ensuring they were clearly described to make it easier for contributors to understand and tackle them. I also took an active role in supporting students during the Hacktoberfest initiative by volunteering at the university library, where I guided students on how to contribute to open-source projects. Through these efforts, I played a key role in fostering community engagement and encouraging collaboration on the Where’s Religion mobile app.
-
-![HacktoberFest volunteering image](./wheres-religion-desktop-20241125/HacktoberfestVolunteeringPic.jpg)
+The implementation of Redux improved navigation performance and provided users with a fluid experience for onboarding, login, and other key app transitions.
 
 ---
 
-### **Creating and Implementing Figma Designs**
+### **Design and Figma to Mobile Development**
 
-When I joined the team, the app did not have a clear design or style guide. To bridge this gap, I worked closely with our client, **Dr. Park**, to understand his vision and requirements. After several meetings, I created a **Figma design** that aligned with both the client’s needs and the app's functionality.
+The **Where's Religion Mobile** app underwent a significant design transformation this semester. The process began with **Figma mockups**, which served as blueprints for the development of responsive and user-friendly screens.
 
-I started by creating the Figma designs for the mobile app, ensuring they aligned with the client’s requirements and project goals. After several discussions with Dr. Park, I developed a comprehensive design that focused on enhancing navigation, layout, and aesthetics. These designs were well-received by Dr. Park.
+**Key Features of Design and Development:**
+- **Responsive Mobile Screens**: Over 40% of the designs were converted into fully functional, responsive screens using React Native.  
+- **Design Consistency**: Maintained design fidelity, ensuring the mobile version stayed true to the Figma prototypes.  
+- **Visual Enhancements**: Elements like navigation menus, onboarding screens, and login pages were refined for clarity and ease of use.  
 
-At present, I am actively converting these Figma designs into fully functional mobile app interfaces using React Native. This development process commenced on December 6, 2024, and by December 7, 2024, I had successfully completed 40% of the required screens. My objective is to ensure that the screens are not only entirely responsive but also visually consistent with the Figma designs and optimized for a seamless user experience. This transition from design to development allows me to maintain the original design vision while delivering a polished, high-quality product.
+Here are some of the key designs from Figma that were converted into mobile screens:  
 
-![Figms Designs](./wheres-religion-desktop-20241125/CompleteFigma.png)
-![Figms Designs](./wheres-religion-desktop-20241125/loginPage.png)
-![Figms Designs](./wheres-religion-desktop-20241125/HomeScreenFigma.png)
-![Figms Designs](./wheres-religion-desktop-20241125/AppThemeFigma.png)
+![Figma Designs](./wheres-religion-desktop-20241125/CompleteFigma.png)  
+![Login Page](./wheres-religion-desktop-20241125/loginPage.png)  
 
----
-
-### **UI and Styling Improvements**
-
-Throughout the semester, I worked on several **UI and styling issues** to improve usability and consistency across the app. Here are some of the key changes I made:
-
-#### **Search Bar and Dropdown Menu Alignment**
-The search bar and dropdown menu were overlapping when both were active, creating a cluttered user experience. I resolved the issue by modifying the layout and styling to ensure the two components were visually distinct and properly aligned.
-
-![Search Bar and Dropdown Menu Alignmen](./wheres-religion-desktop-20241125/searchbarAlignment.jpg)
-
-#### **Login and Sign-Up Page Enhancements**
-To improve clarity, I reworked the **login and sign-up pages**. I repositioned the **"Forgot Password"** link and replaced the **"Register"** button with a new call-to-action:  
-> **"Don't have an account? Register."**
-
-This update made the registration process more intuitive for new users.
+This design process ensured a consistent user experience across devices and maintained alignment with the app's desktop version.
 
 ---
 
-### **Impact and Reflections**
+### **UI and Styling Enhancements**
 
-Working as a **tech lead** for **Where’s Religion Mobile** has been a rewarding experience. I’ve had the opportunity to lead development, improve navigation, and contribute to UI/UX design. My role also extended to supporting **open-source contributions** and creating Hacktoberfest issues to encourage collaboration.
+To create a modern, visually appealing, and consistent app, significant efforts were made to improve **UI and styling**. The development team focused on enhancing visual clarity, aligning interface components, and improving the overall user experience.
 
-Currently, I am focused on converting Figma designs into operational mobile app interfaces using React Native. This development phase started on December 6th, 2024, and by December 7th, 2024, I had successfully completed 40% of the required screens. The goal is to deliver a modern and seamless user experience with enhancements to navigation, layout, and overall usability. I am dedicated to ensuring that the implementation remains true to the original design vision, resulting in responsive and fully functional mobile app screens. I look forward to completing this phase in the coming weeks while maintaining high standards of design fidelity and user experience.
+**Key Enhancements:**
+- **Search Bar and Dropdown Menu Alignment**: The search bar and dropdown menu were adjusted for better alignment to avoid overlapping UI elements.  
+- **Login and Sign-Up Page Enhancements**: The **"Forgot Password"** link was repositioned, and the call-to-action for new users was updated to **“Don’t have an account? Register.”**  
 
-This project has taught me the importance of problem-solving, open-source advocacy, and collaboration. I’m especially grateful for the opportunity to work with **Dr. Park**, **Yash Kamal Bhatia**, and the entire **Where's Religion** team.
+These enhancements made the app more user-friendly, improved visual clarity, and aligned the app’s design with modern user experience principles.  
 
----
-
-### **Lessons Learned**
-
-Through this project, we learned the importance of prioritizing user feedback and iterating quickly to address it. Building for scalability from the start allowed us to reduce technical debt and create a more robust foundation for future growth. Additionally, embracing challenges as opportunities for learning and innovation enabled us to deliver a better, more user-friendly platform.
+![Search Bar and Dropdown Alignment](./wheres-religion-desktop-20241125/searchbarAlignment.jpg)  
 
 ---
 
-### **Looking Ahead**
+## **Impact and Reflections**
 
-While this semester’s achievements mark a significant milestone, our journey is far from over. We have an ambitious roadmap ahead to further enhance the mobile app:
+The launch of the **Where's Religion Mobile MVP** has had a profound impact, providing users with an intuitive platform for documenting religion in everyday spaces. The following features have made the app more engaging and user-friendly:
 
-- Improving navigation and layout consistency across screens for a seamless user experience.
-- Adding interactive animations to make the mobile app more dynamic and engaging for users.
-- Refining the note creation process to make location data entry simpler and more intuitive.
-- Enhancing the mobile app's performance and responsiveness across different devices and screen sizes.
-- Implementing accessibility features to make the app more inclusive and user-friendly for all users.
+### **User-Centric Impact**
+- **Seamless Navigation**: The introduction of **Redux state management** ensures a smooth, dynamic navigation experience for users.  
+- **Media Upload and Playback**: Users can now interact with media directly within the app, enabling a more immersive experience.  
+- **Cross-Platform Consistency**: The mobile and desktop versions of the app maintain a consistent user experience, ensuring familiarity for users on either platform.  
 
-We take pride in the advancements we've achieved and are eager to keep developing Where's Religion into a platform that enables individuals to engage with and record their experiences of religion via mobile devices.
+The launch of the mobile platform has increased user engagement and allowed institutions to leverage the platform's capabilities for documenting religious encounters in the field.
+
+---
+
+## **Looking Ahead**
+
+With the MVP live, development for **Where's Religion Mobile** is ongoing. The next phase of development will focus on further enhancing performance, accessibility, and user experience.
+
+### **Planned Enhancements**
+- **Improved Error Messaging**: Enhancing login and registration error messages to provide users with clear and actionable feedback. This change will ensure a smoother onboarding experience and build user trust.  
+- **Pin Clustering on Maps**: Refining the pin clustering functionality to reduce clutter and provide better visual clarity. This update will improve navigation and usability for users exploring large maps with multiple points of interest.  
+- **Consistent UI Across Android and iOS**: Resolving UI inconsistencies between Android and iOS to offer a uniform experience across platforms. This enhancement will ensure visual consistency, improving the app's professionalism and user experience.  
+- **Lottie Animations for Loading and Error Screens**: Adding engaging animations to improve the app's visual appeal during loading and error scenarios. This update will create a more polished and dynamic experience for users.  
+- **"About Us" Page Update**: Enhancing the "About Us" page to present a polished, professional face for the app’s public launch. This update is essential for creating a strong first impression with users and stakeholders.  
+
+These updates aim to make **Where's Religion Mobile** a more powerful, polished, and user-friendly tool for capturing and sharing religious encounters. By addressing critical issues like navigation, UI consistency, and user feedback, the app will continue to improve usability and engagement.
+
