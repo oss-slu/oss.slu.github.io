@@ -29,5 +29,3 @@ Many of our peers also expressed their frustration with traditional P2P applicat
 
 
 ---
-
-Questions? Contact us at [sseresearch@slu.edu](mailto:sseresearch@slu.edu).
