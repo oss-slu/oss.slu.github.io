@@ -96,9 +96,9 @@ The TBE File Processing Suite is a collaborative initiative by Open Source with 
 
 5. Contribute to the suite by sharing feedback, reporting issues, or adding features.
 
-This Python_TBE project was spearheaded by Devipriya as the tech lead, with significant contributions from all the tech leads in Open Source SLU. Their collaborative efforts have been pivotal in bringing this project to life, ensuring both technical excellence and community engagement
+This TBE project was spearheaded by Devipriya as the tech lead, with significant contributions from all the tech leads in Open Source SLU. Their collaborative efforts have been pivotal in bringing this project to life, ensuring both technical excellence and community engagement
 
-![Python_tbe_Contributors](./Python_tbe/Group_photo.jpg)
+![Tbe_Contributors](./tbe/Group_photo.jpg)
 
 ### A Word from the Maintainers
 
