@@ -110,7 +110,7 @@ This TBE project was spearheaded by Devipriya as the tech lead, with significant
 
 “Building dynamic and responsive JavaScript applications for TBE has been a rewarding experience. The journey has been a testament to innovation and teamwork.” – [**Victor**](https://github.com/git-voo)
 
-“Python's versatility shines in this project, enabling efficient handling of complex data workflows. I'm excited to see its potential grow further!” – [**Harshitha**](https://github.com/HarshithaThota)
+“Python's versatility shines in this project, enabling efficient handling of complex data workflows. I'm excited to see its potential grow further!” – [**Harshitha Thota**](https://github.com/harshitha-thota)
 
 ### Join the TBE Journey
 
