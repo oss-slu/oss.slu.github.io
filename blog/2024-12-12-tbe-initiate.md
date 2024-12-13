@@ -1,7 +1,7 @@
 ---
 title: TBE File Processing Suite-  A Cross-Platform Revolution in Data Handling
 description: Groundbreaking toolkit designed to make handling metadata-enriched tabular data seamless across multiple programming languages
-authors: [Pranitha, Devi]
+authors: [Pranitha, Devi Priya Kolla]
 tags: [community-within-project-TBE, TBEMaintainers, oss-community, oss-slu]
 hide_table_of_contents: false
 ---
@@ -108,7 +108,7 @@ This TBE project was spearheaded by Devipriya as the tech lead, with significant
 
 “Java’s enterprise capabilities meet TBE’s flexibility—this project truly showcases the power of collaboration.” – [**MyrlManohar Reddy**](https://github.com/yrlmanoharreddy)
 
-“Building dynamic and responsive JavaScript applications for TBE has been a rewarding experience. The journey has been a testament to innovation and teamwork.” – [**Victor**](https://github.com/git-voo)
+“Building dynamic and responsive JavaScript applications for TBE has been a rewarding experience. The journey has been a testament to innovation and teamwork.” – [**Victor Onoja**](https://github.com/git-voo)
 
 “Python's versatility shines in this project, enabling efficient handling of complex data workflows. I'm excited to see its potential grow further!” – [**Harshitha Thota**](https://github.com/harshitha-thota)
 
