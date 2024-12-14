@@ -1,7 +1,7 @@
 ---
 title: TBE File Processing Suite-  A Cross-Platform Revolution in Data Handling
 description: Groundbreaking toolkit designed to make handling metadata-enriched tabular data seamless across multiple programming languages
-authors: [Pranitha, Devi Priya Kolla]
+authors: [Pranitha, Devi Priya Kolla, Manohar Reddy]
 tags: [community-within-project-TBE, TBEMaintainers, oss-community, oss-slu]
 hide_table_of_contents: false
 ---
@@ -43,7 +43,7 @@ Here’s how the suite empowers users:
 
 **For R Analysts**: Advanced statistical tools, maintained by Pranitha Bollepalli.
 
-**For Java Enterprise Applications**: Robust data processing capabilities, overseen by Manohar.
+**For Java Enterprise Applications**: Robust data processing capabilities, overseen by Yenkatarajalaxmimanohar Meda.
 
 **For High-Performance Applications**: Rust and C libraries optimized for speed and resource efficiency.
 
